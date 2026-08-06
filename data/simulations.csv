@@ -1,0 +1,25 @@
+amount,transaction_type,merchant_category,cardholder_age,device_type,is_international,prob_fraud,prob_legit,risk,timestamp,payment_method,city,device
+120.5,Online,Grocery,28.0,Mobile,False,0.92,0.08,Fraud,2023-07-01 10:15:00,,,
+45.0,In-Store,Travel,45.0,Desktop,True,0.45,0.55,Suspicious,2023-07-02 14:30:00,,,
+78.2,Online,Electronics,35.0,Mobile,False,0.1,0.9,Legitimate,2023-07-03 09:05:00,,,
+200.0,In-Store,Restaurant,50.0,Desktop,True,0.78,0.22,Fraud,2023-07-04 19:45:00,,,
+500.0,,Finance,,,,0.0,1.0,Legitimate,2026-08-06 23:09:51,UPI,Ahmedabad,Android
+500.0,,Finance,,,,0.0,1.0,Legitimate,2026-08-06 23:09:58,UPI,Ahmedabad,Android
+500.0,,Finance,,,,0.0,1.0,Legitimate,2026-08-06 23:10:02,UPI,Ahmedabad,Android
+500.0,,Finance,,,,0.0,1.0,Legitimate,2026-08-06 23:10:08,UPI,Ahmedabad,Android
+500.0,,Finance,,,,0.0,1.0,Legitimate,2026-08-06 23:10:09,UPI,Ahmedabad,Android
+500.0,,Finance,,,,0.0,1.0,Legitimate,2026-08-06 23:12:35,UPI,Ahmedabad,Android
+500.0,,Finance,,,,0.0,1.0,Legitimate,2026-08-06 23:14:45,UPI,Ahmedabad,Android
+700.0,,Education,,,,0.0,1.0,Legitimate,2026-08-06 23:15:22,Credit Card,Chennai,iPhone
+1000000.0,,Grocery,,,,0.0,1.0,Legitimate,2026-08-06 23:15:49,Credit Card,Chennai,iPhone
+500.0,,Finance,,,,0.0,1.0,Legitimate,2026-08-07 00:46:24,UPI,Ahmedabad,Android
+500.0,,Finance,,,,0.0,1.0,Legitimate,2026-08-07 01:13:20,UPI,Ahmedabad,Android
+500.0,,Finance,,,,0.0,1.0,Legitimate,2026-08-07 01:13:45,UPI,Ahmedabad,Android
+3300.0,,Travel,,,,0.0,1.0,Legitimate,2026-08-07 01:26:02,UPI,Kochi,Android
+900000.0,,Grocery,,,,0.0,1.0,Legitimate,2026-08-07 01:40:10,Wallet,Mumbai,Windows Laptop
+2000.0,,E-Commerce,,,,0.0,1.0,Legitimate,2026-08-07 01:51:17,Wallet,Bangalore,iPhone
+500.0,,Finance,,,,0.0245999991893768,0.8478000164031982,Legitimate,2026-08-07 03:45:27,UPI,Ahmedabad,Android
+500000.0,,Grocery,,,,0.2093999981880188,0.0551999993622303,Suspicious,2026-08-07 03:47:43,UPI,Hyderabad,iPhone
+60000000000.0,,Entertainment,,,,0.8486999869346619,0.0368000008165836,Fraud,2026-08-07 03:48:22,Credit Card,Jaipur,Tablet
+100.0,,Education,,,,0.0077999997884035,0.9799000024795532,Legitimate,2026-08-07 04:08:58,Wallet,Kolkata,iPhone
+1000000.0,,Grocery,,,,0.2705000042915344,0.05860000103712082,Suspicious,2026-08-07 04:09:31,Credit Card,Delhi,Tablet

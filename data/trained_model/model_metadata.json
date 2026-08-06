@@ -1,0 +1,67 @@
+{
+  "selected_model": "xgboost",
+  "training_timestamp": "2026-08-07T03:56:12.147204",
+  "label_classes": [
+    "Fraud",
+    "Legitimate",
+    "Suspicious"
+  ],
+  "test_metrics": {
+    "recall": 0.864406779661017,
+    "precision": 0.4880382775119617,
+    "f1": 0.6238532110091743,
+    "roc_auc": 0.9871725514962435,
+    "confusion_matrix": [
+      [
+        102,
+        0,
+        16
+      ],
+      [
+        0,
+        12778,
+        195
+      ],
+      [
+        107,
+        265,
+        1537
+      ]
+    ],
+    "false_negative_rate": 0.13559322033898305,
+    "false_positive_rate": 0.5119617224880383
+  },
+  "classification_report": {
+    "Fraud": {
+      "precision": 0.4880382775119617,
+      "recall": 0.864406779661017,
+      "f1-score": 0.6238532110091743,
+      "support": 118.0
+    },
+    "Legitimate": {
+      "precision": 0.9796825883615733,
+      "recall": 0.984968781315039,
+      "f1-score": 0.9823185731857319,
+      "support": 12973.0
+    },
+    "Suspicious": {
+      "precision": 0.8792906178489702,
+      "recall": 0.8051335777894185,
+      "f1-score": 0.8405797101449275,
+      "support": 1909.0
+    },
+    "accuracy": 0.9611333333333333,
+    "macro avg": {
+      "precision": 0.7823371612408351,
+      "recall": 0.8848363795884916,
+      "f1-score": 0.8155838314466113,
+      "support": 15000.0
+    },
+    "weighted avg": {
+      "precision": 0.9630384350023191,
+      "recall": 0.9611333333333333,
+      "f1-score": 0.9614600130336166,
+      "support": 15000.0
+    }
+  }
+}

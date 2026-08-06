@@ -1,0 +1,26 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter files
+.ipynb_checkpoints/
+
+# Datasets (not uploaded)
+data/datasets/
