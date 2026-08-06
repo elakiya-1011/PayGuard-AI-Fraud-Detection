@@ -67,9 +67,11 @@ PayGuard AI provides real-time transaction risk prediction with:
 Start the dashboard:
 
 streamlit run app/app.py
+
 🔒 Security
 
 Sensitive files such as API keys, environment variables, and datasets are excluded using .gitignore.
+
 👩‍💻 Author
 
 Elakiya PR
