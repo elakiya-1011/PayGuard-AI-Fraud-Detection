@@ -22,28 +22,6 @@ PayGuard AI provides real-time transaction risk prediction with:
 
 ---
 
-## 🏗️ Architecture
-Streamlit Dashboard
-|
-↓
-Transaction Input
-|
-↓
-Data Preprocessing
-|
-↓
-Feature Transformation
-|
-↓
-XGBoost ML Model
-|
-↓
-Fraud Prediction
-|
-↓
-AI Recommendation
-
----
 
 ## 🧠 Machine Learning Pipeline
 
