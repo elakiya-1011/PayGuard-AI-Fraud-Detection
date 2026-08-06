@@ -64,26 +64,6 @@ PayGuard AI provides real-time transaction risk prediction with:
 - Fraud Recall: 86%
 - ROC-AUC: 98.7%
 
----
-
-## 📂 Project Structure
-GENAI TRAINING
-
-├── app/
-│ └── Streamlit Application
-
-├── ml_training/
-│ ├── preprocess.py
-│ └── train.py
-
-├── data/
-│ ├── trained_model/
-│ └── simulations.csv
-
-├── inspect_model.py
-├── requirements.txt
-├── README.md
-└── .gitignore
 Start the dashboard:
 
 streamlit run app/app.py
