@@ -79,7 +79,7 @@ View project information and application details.
 st.write("")
 left,center,right=st.columns([1,2,1])
 with center:
-    if st.button("🚀 Launch Application",width="stretch",type="primary"):
+    if st.button("🚀 Launch Application",type="primary"):
         st.session_state["_navigate"]="Dashboard"
         st.rerun()
 
