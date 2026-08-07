@@ -22,5 +22,3 @@ Thumbs.db
 # Jupyter files
 .ipynb_checkpoints/
 
-# Datasets (not uploaded)
-data/datasets/
