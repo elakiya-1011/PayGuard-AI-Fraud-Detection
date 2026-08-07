@@ -38,9 +38,15 @@ def apply_theme():
 
 
 .block-container{
+
     max-width:1200px;
-    padding-top:2rem;
-    padding-bottom:2rem;
+
+    padding-top:3rem;
+
+    padding-bottom:3rem;
+
+    margin:auto;
+
 }
 
 
@@ -65,9 +71,24 @@ h1,h2,h3,h4,h5,h6{
 }
 
 
-p,label,li,span{
+p,label,li{
     color:#CBD5E1 !important;
     font-family:Inter,sans-serif;
+}
+
+
+/* Markdown text visibility fix */
+
+.stMarkdown p{
+    color:#FFFFFF !important;
+}
+
+
+.stMarkdown h1,
+.stMarkdown h2,
+.stMarkdown h3,
+.stMarkdown h4{
+    color:#FFFFFF !important;
 }
 
 
@@ -104,6 +125,15 @@ div.stButton > button{
 
 div.stButton > button:hover{
     filter:brightness(1.08);
+}
+/* Center Streamlit buttons */
+
+div.stButton{
+
+    display:flex;
+
+    justify-content:center;
+
 }
 
 
