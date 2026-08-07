@@ -1,5 +1,6 @@
 """
 Shared UI Theme for PayGuard AI
+
 Import in every page:
 
 from components.theme import apply_theme
@@ -8,46 +9,33 @@ apply_theme()
 
 import streamlit as st
 
+
 def apply_theme():
+
     st.markdown("""
 <style>
-/* ---------- STREAMLIT CLOUD FIX ---------- */
+
+/* Streamlit Cloud dark background fix */
 
 [data-testid="stAppViewContainer"]{
-    background:#0B1120;
+    background:#0B1120 !important;
 }
 
 [data-testid="stHeader"]{
-    background:#0B1120;
+    background:#0B1120 !important;
 }
 
 [data-testid="stToolbar"]{
-    background:#0B1120;
-}
-
-section[data-testid="stSidebar"]{
-    background:#111827;
+    background:#0B1120 !important;
 }
 
 
-/* Fix dataframe background */
-
-[data-testid="stDataFrame"]{
-    background:#111827;
-}
-
-
-/* Fix charts container */
-
-.element-container{
-    background:transparent;
-}
-
-/* ---------- GLOBAL ---------- */
+/* Main application */
 
 .stApp{
-    background: linear-gradient(180deg,#0B1120,#111827);
+    background:linear-gradient(180deg,#0B1120,#111827) !important;
 }
+
 
 .block-container{
     max-width:1200px;
@@ -55,30 +43,35 @@ section[data-testid="stSidebar"]{
     padding-bottom:2rem;
 }
 
-/* ---------- SIDEBAR ---------- */
+
+/* Sidebar */
 
 [data-testid="stSidebar"]{
-    background:#111827;
+    background:#111827 !important;
     border-right:1px solid rgba(255,255,255,.08);
 }
+
 
 [data-testid="stSidebar"] *{
     color:#E5E7EB !important;
 }
 
-/* ---------- HEADINGS ---------- */
+
+/* Text styling */
 
 h1,h2,h3,h4,h5,h6{
     color:#FFFFFF !important;
     font-family:Inter,sans-serif;
 }
 
-p,label,li,span,div{
-    color:#CBD5E1;
+
+p,label,li,span{
+    color:#CBD5E1 !important;
     font-family:Inter,sans-serif;
 }
 
-/* ---------- GLASS CARD ---------- */
+
+/* Glass card component */
 
 .glass-card{
     background:rgba(30,41,59,.85);
@@ -89,76 +82,162 @@ p,label,li,span,div{
     backdrop-filter:blur(10px);
 }
 
-/* ---------- BUTTONS ---------- */
 
-div.stButton>button{
+/* Buttons */
+
+div.stButton > button{
+
     background:linear-gradient(90deg,#2563EB,#7C3AED);
+
     color:white !important;
+
     border:none;
+
     border-radius:12px;
+
     font-weight:700;
+
     padding:.7rem 1rem;
+
 }
 
-div.stButton>button:hover{
+
+div.stButton > button:hover{
     filter:brightness(1.08);
 }
 
-/* ---------- INPUTS ---------- */
+
+/* Input fields */
 
 .stTextInput input,
 .stNumberInput input,
 textarea{
+
     background:#1E293B !important;
+
     color:white !important;
+
     border:1px solid #334155 !important;
+
     border-radius:10px !important;
+
 }
 
-.stSelectbox div[data-baseweb="select"]{
-    background:#1E293B;
+
+/* Selectbox dark theme fix */
+
+div[data-baseweb="select"] > div{
+
+    background:#1E293B !important;
+
+    color:white !important;
+
+    border-color:#334155 !important;
+
 }
 
-/* ---------- METRICS ---------- */
+
+div[data-baseweb="select"] span{
+
+    color:white !important;
+
+}
+
+
+ul[data-baseweb="menu"]{
+
+    background:#1E293B !important;
+
+}
+
+
+li[data-baseweb="option"]{
+
+    background:#1E293B !important;
+
+    color:white !important;
+
+}
+
+
+li[data-baseweb="option"]:hover{
+
+    background:#334155 !important;
+
+}
+
+
+/* Slider */
+
+div[data-baseweb="slider"] *{
+
+    color:white !important;
+
+}
+
+
+/* Metrics */
 
 [data-testid="stMetric"]{
-    background:#1E293B;
+
+    background:#1E293B !important;
+
     border-radius:16px;
+
     padding:16px;
+
     border:1px solid rgba(255,255,255,.08);
+
 }
 
-/* ---------- ALERTS ---------- */
+
+/* Alerts */
 
 [data-testid="stAlert"]{
+
     border-radius:12px;
+
 }
 
-/* ---------- TABLES ---------- */
+
+/* Tables */
 
 thead tr{
+
     background:#1E293B !important;
+
 }
+
 
 tbody tr{
+
     background:#111827 !important;
+
 }
+
 
 table *{
+
     color:#E5E7EB !important;
+
 }
 
-/* ---------- FOOTER ---------- */
+
+/* Hide Streamlit default UI */
 
 footer{
+
     visibility:hidden;
+
 }
 
-/* ---------- MENU ---------- */
 
 #MainMenu{
+
     visibility:hidden;
+
 }
+
 
 </style>
 """, unsafe_allow_html=True)
