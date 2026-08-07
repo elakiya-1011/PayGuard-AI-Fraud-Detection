@@ -1,0 +1,1001 @@
+User_ID,Customer_Name,Gender,Age,Occupation,Monthly_Income,Phone_Number,Email,Account_Number,UPI_ID,City,State,Preferred_Payment_Method,Preferred_Device,Preferred_Browser,Average_Spending,Maximum_Spending,Preferred_Transaction_Hour,Account_Creation_Date,Account_Age_Days
+USR0001,Jairaj Deo,Male,19,Business,84196,4907581366,jairaj.deo152@gmail.com,ACC4163119785,jairaj702@pay,Mumbai,Maharashtra,Wallet,Android,Safari,760,3800,9,2019-05-09,2644
+USR0002,Tristan Bhandari,Male,32,Designer,177815,6045854608,tristan.bhandari584@gmail.com,ACC7635473142,tristan235@pay,Chennai,Tamil Nadu,Net Banking,Tablet,Edge,7130,35650,12,2025-01-12,569
+USR0003,Yuvraj Memon,Female,39,Business,60758,9941098289,yuvraj.memon990@gmail.com,ACC8574149614,yuvraj114@pay,Mumbai,Maharashtra,UPI,MacBook,Chrome,3440,55040,15,2021-10-08,1761
+USR0004,Bhavini Mahal,Male,64,Accountant,160568,9045794991,bhavini.mahal954@gmail.com,ACC2625792787,bhavini575@pay,Bangalore,Karnataka,Credit Card,Tablet,Edge,5229,57519,9,2022-08-18,1447
+USR0005,Urmi Tata,Male,60,Teacher,222655,3910127078,urmi.tata91@gmail.com,ACC4673561638,urmi897@pay,Delhi,Delhi,UPI,MacBook,Edge,4214,67424,12,2023-10-07,1032
+USR0006,Gauri Borra,Female,40,Teacher,195682,0242328160,gauri.borra728@gmail.com,ACC3783290795,gauri633@pay,Delhi,Delhi,Debit Card,Tablet,Firefox,1838,34922,19,2022-12-15,1328
+USR0007,Kamya Borra,Female,58,Designer,77570,4134946581,kamya.borra873@gmail.com,ACC1240251661,kamya851@pay,Pune,Maharashtra,UPI,Windows Laptop,Safari,2693,18851,13,2020-09-10,2154
+USR0008,Kiaan Gade,Female,31,Accountant,123712,4935643465,kiaan.gade156@gmail.com,ACC2137651678,kiaan262@pay,Ahmedabad,Gujarat,Wallet,Tablet,Edge,6619,119142,19,2020-02-26,2351
+USR0009,Wridesh Pandya,Female,32,Doctor,153569,1267078527,wridesh.pandya103@gmail.com,ACC4246059658,wridesh891@pay,Ahmedabad,Gujarat,UPI,iPhone,Firefox,6988,125784,9,2021-10-15,1754
+USR0010,Harita Uppal,Female,42,Freelancer,142696,1149120268,harita.uppal267@gmail.com,ACC9639245200,harita748@pay,Jaipur,Rajasthan,UPI,Tablet,Edge,6796,101940,10,2024-12-20,592
+USR0011,Tanay Bawa,Female,45,Doctor,138940,6997315401,tanay.bawa986@gmail.com,ACC8385972235,tanay522@pay,Chennai,Tamil Nadu,Debit Card,Tablet,Chrome,7631,106834,13,2024-02-09,907
+USR0012,Rudra Sheth,Male,41,Doctor,161394,1072777899,rudra.sheth950@gmail.com,ACC9592390865,rudra341@pay,Jaipur,Rajasthan,Net Banking,Android,Chrome,3473,48622,14,2021-07-17,1844
+USR0013,Kai Ahluwalia,Male,33,Freelancer,40645,3672932336,kai.ahluwalia759@gmail.com,ACC4289233844,kai141@pay,Bangalore,Karnataka,Net Banking,Tablet,Firefox,2671,48078,13,2025-06-15,415
+USR0014,Daniel Halder,Male,63,Business,124593,4812297768,daniel.halder458@gmail.com,ACC2939118223,daniel263@pay,Pune,Maharashtra,Debit Card,Android,Edge,672,8064,14,2025-11-05,272
+USR0015,Amol Bassi,Male,22,Student,80015,0073890247,amol.bassi937@gmail.com,ACC2419179580,amol536@pay,Bangalore,Karnataka,Debit Card,Windows Laptop,Safari,2255,20295,22,2020-12-16,2057
+USR0016,Ekaja Goel,Male,48,Lawyer,69914,3623768091,ekaja.goel109@gmail.com,ACC8125276666,ekaja372@pay,Bangalore,Karnataka,Net Banking,MacBook,Safari,7576,45456,10,2021-05-05,1917
+USR0017,Jhalak Suri,Male,43,Government Employee,229870,6193730598,jhalak.suri264@gmail.com,ACC1822873088,jhalak559@pay,Bangalore,Karnataka,Net Banking,iPhone,Safari,2003,26039,21,2023-10-30,1009
+USR0018,Girindra Prasad,Male,22,Accountant,231818,3100435501,girindra.prasad110@gmail.com,ACC9807209816,girindra563@pay,Jaipur,Rajasthan,UPI,Android,Firefox,1862,33516,22,2022-12-25,1318
+USR0019,Brinda Nagi,Female,31,Lawyer,35370,6096786973,brinda.nagi398@gmail.com,ACC6971815972,brinda958@pay,Hyderabad,Telangana,Net Banking,Windows Laptop,Safari,6206,124120,11,2023-03-27,1226
+USR0020,Dayita Gulati,Male,36,Teacher,35331,3823525003,dayita.gulati763@gmail.com,ACC3328710672,dayita775@pay,Kochi,Kerala,Credit Card,Android,Chrome,5285,105700,12,2026-02-05,180
+USR0021,Irya Ganguly,Male,50,Software Engineer,243174,8100799632,irya.ganguly80@gmail.com,ACC3555656321,irya701@pay,Hyderabad,Telangana,Debit Card,MacBook,Chrome,7793,93516,8,2025-01-09,572
+USR0022,Samaksh Kala,Male,44,Freelancer,168170,5369198185,samaksh.kala333@gmail.com,ACC9309500117,samaksh219@pay,Jaipur,Rajasthan,Credit Card,iPhone,Edge,3742,33678,16,2020-07-04,2222
+USR0023,Utkarsh Bains,Female,38,Software Engineer,22441,0077100817,utkarsh.bains646@gmail.com,ACC5278201677,utkarsh85@pay,Ahmedabad,Gujarat,Wallet,iPhone,Edge,1585,25360,9,2019-05-14,2639
+USR0024,Ekaraj Keer,Male,41,Business,61352,7401880231,ekaraj.keer863@gmail.com,ACC3271782991,ekaraj693@pay,Ahmedabad,Gujarat,Wallet,Windows Laptop,Chrome,7693,69237,15,2023-10-26,1013
+USR0025,Wridesh Menon,Male,24,Designer,60749,1062419659,wridesh.menon298@gmail.com,ACC3597724331,wridesh744@pay,Delhi,Delhi,Credit Card,iPhone,Edge,4640,92800,15,2022-08-15,1450
+USR0026,George Dani,Male,23,Lawyer,237408,9116486798,george.dani55@gmail.com,ACC5310195918,george799@pay,Delhi,Delhi,Debit Card,Windows Laptop,Firefox,6572,124868,20,2025-04-21,470
+USR0027,Omaja Pathak,Male,25,Software Engineer,201146,2113262165,omaja.pathak568@gmail.com,ACC3373077218,omaja450@pay,Hyderabad,Telangana,Debit Card,Android,Edge,3487,20922,18,2020-02-06,2371
+USR0028,Guneet Bhat,Male,61,Teacher,194832,4880276912,guneet.bhat372@gmail.com,ACC4993808565,guneet895@pay,Bangalore,Karnataka,Debit Card,iPhone,Safari,703,7030,17,2026-04-16,110
+USR0029,Ganga Dave,Female,60,Teacher,89941,8195268692,ganga.dave816@gmail.com,ACC4011966884,ganga401@pay,Hyderabad,Telangana,UPI,MacBook,Firefox,2134,40546,18,2022-12-24,1319
+USR0030,Amruta Tak,Female,32,Teacher,26203,6630501781,amruta.tak418@gmail.com,ACC6704841644,amruta895@pay,Mumbai,Maharashtra,UPI,Windows Laptop,Edge,5755,97835,17,2026-01-26,190
+USR0031,Max Bose,Male,25,Business,66810,5174056376,max.bose995@gmail.com,ACC9519284858,max49@pay,Kochi,Kerala,UPI,Tablet,Safari,3331,49965,20,2024-06-12,783
+USR0032,Jeremiah Hari,Male,42,Freelancer,69828,9167653072,jeremiah.hari55@gmail.com,ACC8339176912,jeremiah11@pay,Delhi,Delhi,Wallet,Tablet,Firefox,3483,62694,9,2024-01-08,939
+USR0033,Abha Suresh,Female,57,Government Employee,193903,3875994418,abha.suresh747@gmail.com,ACC9160639027,abha529@pay,Bangalore,Karnataka,Credit Card,MacBook,Edge,3796,53144,11,2025-06-06,424
+USR0034,Ekani Bir,Male,44,Lawyer,197554,3310865406,ekani.bir640@gmail.com,ACC7739255769,ekani425@pay,Hyderabad,Telangana,Wallet,Android,Edge,2850,31350,20,2019-04-15,2668
+USR0035,Triveni Varghese,Female,47,Accountant,135909,3627149556,triveni.varghese533@gmail.com,ACC5659161352,triveni537@pay,Mumbai,Maharashtra,Wallet,Windows Laptop,Chrome,7204,86448,16,2018-08-30,2896
+USR0036,Aarna Choudhury,Male,30,Doctor,26402,3026218061,aarna.choudhury260@gmail.com,ACC9520940324,aarna635@pay,Chennai,Tamil Nadu,UPI,MacBook,Safari,7759,85349,19,2022-09-05,1429
+USR0037,Krishna Shere,Female,43,Teacher,58684,7867268981,krishna.shere924@gmail.com,ACC2825989011,krishna190@pay,Chennai,Tamil Nadu,Wallet,MacBook,Chrome,5066,60792,10,2024-12-20,592
+USR0038,Irya Pathak,Female,26,Accountant,195001,5776617787,irya.pathak582@gmail.com,ACC7852415525,irya982@pay,Jaipur,Rajasthan,Net Banking,Tablet,Safari,7304,138776,12,2025-04-20,471
+USR0039,Vyanjana Sawhney,Female,46,Business,217073,8152715577,vyanjana.sawhney870@gmail.com,ACC8033702319,vyanjana794@pay,Mumbai,Maharashtra,Wallet,MacBook,Firefox,2749,52231,9,2025-09-15,323
+USR0040,Pranav Hora,Female,33,Business,108040,9278629529,pranav.hora924@gmail.com,ACC3319936135,pranav151@pay,Pune,Maharashtra,Debit Card,iPhone,Safari,6184,55656,13,2023-05-19,1173
+USR0041,Ikbal Shankar,Male,44,Lawyer,106738,6434318198,ikbal.shankar487@gmail.com,ACC2785736751,ikbal221@pay,Jaipur,Rajasthan,Net Banking,MacBook,Chrome,7518,127806,22,2024-09-19,684
+USR0042,Ekantika Kadakia,Male,40,Business,217518,4295041014,ekantika.kadakia883@gmail.com,ACC8884394611,ekantika561@pay,Kolkata,West Bengal,Wallet,Tablet,Firefox,4499,53988,15,2020-03-01,2347
+USR0043,Lavanya Dyal,Female,49,Student,121936,9008450955,lavanya.dyal694@gmail.com,ACC1116402431,lavanya668@pay,Pune,Maharashtra,Net Banking,iPhone,Safari,1988,11928,15,2020-09-18,2146
+USR0044,Ekantika Sahni,Female,38,Teacher,139196,8767662694,ekantika.sahni355@gmail.com,ACC6923301988,ekantika780@pay,Pune,Maharashtra,Net Banking,Windows Laptop,Chrome,4352,21760,8,2022-03-27,1591
+USR0045,Ekaraj Rana,Female,32,Software Engineer,224795,8011739140,ekaraj.rana782@gmail.com,ACC2062073697,ekaraj869@pay,Chennai,Tamil Nadu,UPI,Tablet,Firefox,2454,22086,22,2023-05-02,1190
+USR0046,Manya Kibe,Male,54,Teacher,141905,5119038611,manya.kibe795@gmail.com,ACC2584392711,manya630@pay,Delhi,Delhi,Wallet,Android,Firefox,3048,24384,7,2025-12-17,230
+USR0047,Daniel Dalal,Female,54,Lawyer,123980,5708930511,daniel.dalal87@gmail.com,ACC2043030161,daniel723@pay,Mumbai,Maharashtra,Credit Card,Tablet,Chrome,7022,42132,18,2025-10-19,289
+USR0048,Yachana Murty,Female,60,Government Employee,38076,7202036530,yachana.murty673@gmail.com,ACC2465576748,yachana879@pay,Jaipur,Rajasthan,Net Banking,MacBook,Chrome,4051,64816,21,2021-02-03,2008
+USR0049,Balendra Bakshi,Male,45,Doctor,212360,2181550010,balendra.bakshi998@gmail.com,ACC8088660633,balendra640@pay,Jaipur,Rajasthan,Wallet,MacBook,Safari,4068,52884,17,2021-09-05,1794
+USR0050,Shivansh Manda,Male,23,Business,138175,3248759298,shivansh.manda778@gmail.com,ACC6922713963,shivansh39@pay,Mumbai,Maharashtra,Net Banking,Windows Laptop,Firefox,4494,49434,18,2024-04-02,854
+USR0051,Aarini Dhaliwal,Female,39,Business,176278,0176020694,aarini.dhaliwal579@gmail.com,ACC9633533290,aarini980@pay,Delhi,Delhi,Debit Card,Android,Firefox,6398,115164,22,2024-02-11,905
+USR0052,Radha Zachariah,Male,62,Accountant,189319,4912193272,radha.zachariah468@gmail.com,ACC4405620755,radha105@pay,Ahmedabad,Gujarat,Credit Card,iPhone,Safari,6167,74004,16,2020-09-20,2144
+USR0053,Yashoda Sani,Female,48,Designer,159177,3253047278,yashoda.sani445@gmail.com,ACC7658867789,yashoda370@pay,Pune,Maharashtra,Net Banking,Windows Laptop,Edge,2559,30708,10,2020-06-13,2243
+USR0054,Yoshita Bath,Male,38,Software Engineer,214741,5192022772,yoshita.bath983@gmail.com,ACC1795212538,yoshita231@pay,Jaipur,Rajasthan,Net Banking,Windows Laptop,Edge,1323,14553,16,2020-11-04,2099
+USR0055,Lipika Pall,Male,41,Doctor,99237,4614060616,lipika.pall735@gmail.com,ACC3294092753,lipika290@pay,Chennai,Tamil Nadu,UPI,Android,Edge,6213,55917,22,2024-07-15,750
+USR0056,Advaith Acharya,Male,18,Freelancer,94537,3808927382,advaith.acharya500@gmail.com,ACC7186766399,advaith198@pay,Ahmedabad,Gujarat,UPI,Windows Laptop,Safari,1434,10038,19,2019-01-05,2768
+USR0057,Theodore Roy,Female,22,Freelancer,185005,5965803853,theodore.roy165@gmail.com,ACC2304963614,theodore264@pay,Chennai,Tamil Nadu,UPI,Tablet,Safari,5466,65592,19,2020-02-01,2376
+USR0058,Libni Prashad,Female,46,Business,245487,5858134773,libni.prashad449@gmail.com,ACC3667292043,libni634@pay,Kochi,Kerala,UPI,iPhone,Firefox,2667,18669,12,2018-12-11,2793
+USR0059,Jairaj Pandit,Male,29,Designer,39677,0327896556,jairaj.pandit12@gmail.com,ACC7049536909,jairaj715@pay,Hyderabad,Telangana,Wallet,MacBook,Edge,767,9204,16,2021-03-18,1965
+USR0060,Chasmum Ahuja,Female,62,Accountant,38659,1729056656,chasmum.ahuja956@gmail.com,ACC6144594354,chasmum127@pay,Mumbai,Maharashtra,Wallet,iPhone,Firefox,7941,103233,11,2021-11-12,1726
+USR0061,Atharv Mand,Male,21,Doctor,227782,0634484611,atharv.mand619@gmail.com,ACC6534540349,atharv137@pay,Delhi,Delhi,Net Banking,Windows Laptop,Safari,2730,54600,21,2025-12-12,235
+USR0062,Vedika Goda,Male,56,Student,133253,1198458856,vedika.goda628@gmail.com,ACC2075321966,vedika103@pay,Pune,Maharashtra,Debit Card,Tablet,Chrome,6764,87932,8,2022-04-19,1568
+USR0063,Yashasvi Kohli,Male,48,Designer,190789,7603778175,yashasvi.kohli948@gmail.com,ACC2194673401,yashasvi609@pay,Ahmedabad,Gujarat,Net Banking,MacBook,Chrome,4350,69600,20,2022-07-29,1467
+USR0064,Unni Singh,Female,38,Software Engineer,244849,6936376061,unni.singh347@gmail.com,ACC7422990551,unni688@pay,Hyderabad,Telangana,Net Banking,Tablet,Chrome,4225,29575,17,2019-09-13,2517
+USR0065,Nikita Anne,Female,38,Software Engineer,222518,7685101133,nikita.anne895@gmail.com,ACC5243939720,nikita683@pay,Kolkata,West Bengal,Wallet,MacBook,Safari,944,10384,18,2020-09-05,2159
+USR0066,Kavya Rai,Female,58,Accountant,219226,0269622605,kavya.rai218@gmail.com,ACC6532043071,kavya911@pay,Chennai,Tamil Nadu,Net Banking,Android,Chrome,5661,67932,12,2021-09-17,1782
+USR0067,Bhavani Bhatti,Female,53,Student,164769,2244159944,bhavani.bhatti105@gmail.com,ACC5782279101,bhavani979@pay,Kolkata,West Bengal,UPI,iPhone,Safari,6370,89180,15,2020-12-01,2072
+USR0068,Madhav Kata,Female,48,Accountant,83892,7256857607,madhav.kata574@gmail.com,ACC5916199809,madhav205@pay,Ahmedabad,Gujarat,Wallet,Tablet,Firefox,7578,53046,15,2023-12-11,967
+USR0069,Dhriti Johal,Female,39,Designer,90037,8663550009,dhriti.johal299@gmail.com,ACC8413332538,dhriti867@pay,Chennai,Tamil Nadu,Wallet,Tablet,Safari,7588,68292,21,2023-11-05,1003
+USR0070,Ishita Nagy,Female,40,Government Employee,164681,8817281910,ishita.nagy396@gmail.com,ACC3995732958,ishita595@pay,Jaipur,Rajasthan,Net Banking,iPhone,Safari,857,12855,22,2020-02-05,2372
+USR0071,Farhan Badami,Female,42,Doctor,149847,8131386293,farhan.badami139@gmail.com,ACC7829772942,farhan900@pay,Chennai,Tamil Nadu,UPI,MacBook,Chrome,4808,91352,7,2024-12-15,597
+USR0072,Harita Ganesan,Male,44,Doctor,39615,8400704678,harita.ganesan810@gmail.com,ACC9457665185,harita356@pay,Ahmedabad,Gujarat,Wallet,MacBook,Chrome,7477,112155,19,2023-09-29,1040
+USR0073,Advika Gaba,Female,58,Accountant,248689,2845931225,advika.gaba46@gmail.com,ACC3651968205,advika250@pay,Jaipur,Rajasthan,Credit Card,iPhone,Chrome,4055,32440,10,2024-07-16,749
+USR0074,Kiaan Shanker,Female,28,Business,27588,8732759825,kiaan.shanker342@gmail.com,ACC4419410162,kiaan310@pay,Chennai,Tamil Nadu,Credit Card,Windows Laptop,Safari,1692,20304,20,2023-08-18,1082
+USR0075,Yashawini Shetty,Male,28,Doctor,40701,2537669615,yashawini.shetty901@gmail.com,ACC3934040683,yashawini519@pay,Kochi,Kerala,Wallet,iPhone,Firefox,4277,55601,21,2021-06-01,1890
+USR0076,Hiral Verma,Female,60,Student,230929,0935734532,hiral.verma932@gmail.com,ACC3347621138,hiral85@pay,Ahmedabad,Gujarat,Net Banking,Windows Laptop,Edge,5734,103212,15,2024-03-29,858
+USR0077,Sai Bassi,Female,37,Teacher,120845,7205157672,sai.bassi119@gmail.com,ACC6313758032,sai595@pay,Ahmedabad,Gujarat,Credit Card,Tablet,Edge,6228,87192,7,2025-10-11,297
+USR0078,Chandresh Lal,Female,35,Student,168354,5109749457,chandresh.lal942@gmail.com,ACC4431078106,chandresh631@pay,Chennai,Tamil Nadu,Credit Card,iPhone,Firefox,5586,72618,11,2022-09-28,1406
+USR0079,Noah Dara,Male,58,Student,100984,8646312481,noah.dara44@gmail.com,ACC7784217828,noah759@pay,Ahmedabad,Gujarat,Debit Card,Android,Edge,3176,57168,12,2020-07-23,2203
+USR0080,Amol Vig,Male,26,Designer,249758,6799324422,amol.vig553@gmail.com,ACC6001680218,amol945@pay,Pune,Maharashtra,Net Banking,Windows Laptop,Edge,7088,56704,21,2026-07-30,5
+USR0081,Yamini Dani,Male,27,Teacher,245480,2633598173,yamini.dani876@gmail.com,ACC2570991899,yamini819@pay,Kolkata,West Bengal,Net Banking,Android,Edge,4895,39160,21,2026-07-05,30
+USR0082,Xiti Singh,Female,61,Business,173238,2432279472,xiti.singh852@gmail.com,ACC2595467139,xiti701@pay,Kolkata,West Bengal,Debit Card,MacBook,Chrome,5575,83625,14,2025-10-08,300
+USR0083,Ekansh Sarin,Male,58,Accountant,203783,4054653106,ekansh.sarin674@gmail.com,ACC2753617371,ekansh153@pay,Delhi,Delhi,UPI,Android,Edge,4535,36280,10,2024-08-29,705
+USR0084,Yadavi Ravi,Male,52,Doctor,121881,0074534888,yadavi.ravi389@gmail.com,ACC9381721143,yadavi43@pay,Ahmedabad,Gujarat,Credit Card,iPhone,Safari,4142,49704,18,2021-09-25,1774
+USR0085,Daksha Nayak,Male,61,Government Employee,162728,6932322447,daksha.nayak72@gmail.com,ACC7004964045,daksha204@pay,Pune,Maharashtra,UPI,MacBook,Chrome,5929,65219,7,2026-01-07,209
+USR0086,Rehaan Grover,Male,39,Teacher,53010,2756366478,rehaan.grover220@gmail.com,ACC4735313433,rehaan346@pay,Kochi,Kerala,Debit Card,Tablet,Chrome,2771,24939,11,2020-03-24,2324
+USR0087,Madhav Sha,Female,29,Software Engineer,193292,4945527814,madhav.sha144@gmail.com,ACC5358791907,madhav818@pay,Chennai,Tamil Nadu,Debit Card,Tablet,Edge,629,6290,15,2020-06-28,2228
+USR0088,Qasim Bhat,Male,26,Lawyer,157910,1486501244,qasim.bhat773@gmail.com,ACC5567946981,qasim469@pay,Bangalore,Karnataka,Credit Card,Tablet,Chrome,4202,50424,8,2020-10-22,2112
+USR0089,Upasna Date,Female,47,Student,35945,1803872594,upasna.date877@gmail.com,ACC7019900273,upasna712@pay,Ahmedabad,Gujarat,UPI,MacBook,Safari,1102,7714,17,2023-04-17,1205
+USR0090,Aahana Master,Male,22,Doctor,92093,5728357171,aahana.master658@gmail.com,ACC8353640266,aahana400@pay,Kochi,Kerala,Wallet,Tablet,Edge,4216,75888,10,2021-06-03,1888
+USR0091,Chandran Gole,Male,59,Designer,208963,2099540580,chandran.gole450@gmail.com,ACC6276339732,chandran357@pay,Mumbai,Maharashtra,Net Banking,MacBook,Safari,6476,51808,17,2021-09-17,1782
+USR0092,Kabir Sekhon,Female,38,Business,118120,5810920112,kabir.sekhon713@gmail.com,ACC9259157845,kabir78@pay,Hyderabad,Telangana,UPI,Android,Chrome,4037,32296,18,2025-03-07,515
+USR0093,Forum Pandey,Male,53,Student,173738,9308970181,forum.pandey585@gmail.com,ACC5819946657,forum372@pay,Jaipur,Rajasthan,Net Banking,Android,Edge,5418,75852,18,2024-05-14,812
+USR0094,Jagrati Issac,Male,54,Designer,75768,3006969206,jagrati.issac682@gmail.com,ACC3070987704,jagrati877@pay,Hyderabad,Telangana,UPI,Windows Laptop,Edge,1441,18733,14,2023-10-05,1034
+USR0095,Eshana Randhawa,Female,53,Freelancer,180844,8498916273,eshana.randhawa36@gmail.com,ACC8273403366,eshana39@pay,Jaipur,Rajasthan,Debit Card,Windows Laptop,Edge,3283,52528,7,2024-03-19,868
+USR0096,Megha Raval,Male,27,Freelancer,192318,5026497067,megha.raval81@gmail.com,ACC1131671246,megha774@pay,Kolkata,West Bengal,Wallet,iPhone,Safari,3939,74841,17,2020-04-02,2315
+USR0097,Krisha Kuruvilla,Male,41,Business,209162,2374178529,krisha.kuruvilla805@gmail.com,ACC3560761628,krisha914@pay,Pune,Maharashtra,UPI,iPhone,Firefox,6680,40080,9,2021-04-29,1923
+USR0098,Gautam Apte,Female,46,Lawyer,147313,4163931732,gautam.apte462@gmail.com,ACC7073872915,gautam230@pay,Kochi,Kerala,Wallet,Android,Edge,4021,32168,16,2022-12-19,1324
+USR0099,Zansi Patla,Female,51,Business,31905,3449675059,zansi.patla414@gmail.com,ACC1235286733,zansi219@pay,Mumbai,Maharashtra,Credit Card,iPhone,Firefox,6760,87880,16,2021-09-04,1795
+USR0100,Yatan Chaudhuri,Female,25,Student,150386,4455594680,yatan.chaudhuri189@gmail.com,ACC5849815676,yatan555@pay,Kolkata,West Bengal,Debit Card,Tablet,Edge,1090,18530,8,2020-06-19,2237
+USR0101,Oliver Singhal,Female,19,Accountant,40411,1197349438,oliver.singhal599@gmail.com,ACC8044354825,oliver306@pay,Pune,Maharashtra,UPI,MacBook,Chrome,3160,31600,21,2025-05-08,453
+USR0102,Timothy Sekhon,Female,23,Lawyer,241376,6991969333,timothy.sekhon259@gmail.com,ACC5632753983,timothy901@pay,Bangalore,Karnataka,Credit Card,Windows Laptop,Firefox,3228,32280,9,2024-01-22,925
+USR0103,Teerth Reddy,Male,51,Designer,70830,5860636197,teerth.reddy369@gmail.com,ACC4500557310,teerth251@pay,Pune,Maharashtra,UPI,iPhone,Edge,2116,21160,11,2019-04-20,2663
+USR0104,Jack D’Alia,Male,29,Accountant,141622,4554812245,jack.d’alia788@gmail.com,ACC7783763790,jack707@pay,Kochi,Kerala,Wallet,Tablet,Edge,7579,113685,11,2025-10-01,307
+USR0105,Arin Gupta,Female,22,Accountant,135922,7605261010,arin.gupta825@gmail.com,ACC5536224717,arin529@pay,Delhi,Delhi,UPI,Windows Laptop,Safari,4202,25212,8,2022-10-24,1380
+USR0106,Shivani Ben,Female,36,Software Engineer,188995,4805633547,shivani.ben639@gmail.com,ACC6946306973,shivani604@pay,Bangalore,Karnataka,Wallet,Android,Safari,7946,87406,17,2021-02-09,2002
+USR0107,Chakrika Bora,Female,50,Doctor,36219,5943696363,chakrika.bora115@gmail.com,ACC8891474909,chakrika741@pay,Ahmedabad,Gujarat,UPI,Tablet,Firefox,820,9840,21,2024-03-23,864
+USR0108,Arin Shan,Female,51,Designer,179856,7230771274,arin.shan382@gmail.com,ACC6509985983,arin428@pay,Hyderabad,Telangana,Credit Card,Tablet,Chrome,6965,104475,9,2020-02-08,2369
+USR0109,Laksh Thaman,Female,24,Designer,197833,0745201133,laksh.thaman300@gmail.com,ACC5940815822,laksh93@pay,Kolkata,West Bengal,Wallet,iPhone,Edge,3041,51697,11,2018-12-05,2799
+USR0110,Nimrat Ravi,Male,37,Designer,118744,2591182498,nimrat.ravi842@gmail.com,ACC9991312028,nimrat696@pay,Pune,Maharashtra,Net Banking,Tablet,Edge,649,10384,16,2020-02-02,2375
+USR0111,Henry Gole,Male,31,Government Employee,220843,5697712436,henry.gole206@gmail.com,ACC1590838716,henry89@pay,Ahmedabad,Gujarat,Credit Card,Android,Chrome,5922,88830,11,2019-10-17,2483
+USR0112,Tanvi Dave,Female,27,Doctor,67407,2891224607,tanvi.dave838@gmail.com,ACC4876877928,tanvi748@pay,Kochi,Kerala,Net Banking,Android,Safari,3484,41808,21,2021-12-13,1695
+USR0113,Hiral Chauhan,Female,65,Accountant,81342,1741933308,hiral.chauhan254@gmail.com,ACC4586784711,hiral386@pay,Jaipur,Rajasthan,Wallet,MacBook,Safari,6803,95242,19,2019-01-28,2745
+USR0114,Anvi Barad,Female,28,Teacher,230045,2179389432,anvi.barad151@gmail.com,ACC9044482007,anvi63@pay,Kochi,Kerala,Net Banking,Windows Laptop,Chrome,6327,50616,16,2021-07-09,1852
+USR0115,Sneha Vala,Male,28,Business,137786,7792340635,sneha.vala160@gmail.com,ACC8864285771,sneha103@pay,Jaipur,Rajasthan,Debit Card,MacBook,Edge,718,12924,8,2025-11-10,267
+USR0116,Frederick Pall,Female,50,Government Employee,81807,5981234872,frederick.pall93@gmail.com,ACC2610237679,frederick38@pay,Kolkata,West Bengal,Credit Card,Android,Edge,6982,62838,11,2020-07-22,2204
+USR0117,Hemani Upadhyay,Male,36,Accountant,202471,8535805526,hemani.upadhyay787@gmail.com,ACC8325222092,hemani469@pay,Hyderabad,Telangana,Wallet,Android,Chrome,655,8515,13,2023-08-21,1079
+USR0118,Adweta Ramanathan,Male,53,Freelancer,158352,6840011003,adweta.ramanathan123@gmail.com,ACC8628603366,adweta253@pay,Kolkata,West Bengal,Credit Card,Android,Chrome,2453,44154,21,2020-11-04,2099
+USR0119,Lajita Kant,Male,25,Accountant,176431,5635540655,lajita.kant26@gmail.com,ACC3469810046,lajita745@pay,Jaipur,Rajasthan,Debit Card,Windows Laptop,Safari,512,8192,14,2024-12-21,591
+USR0120,Amara Halder,Female,29,Software Engineer,157228,3709372817,amara.halder79@gmail.com,ACC5382302465,amara904@pay,Pune,Maharashtra,Net Banking,Android,Safari,3558,46254,7,2023-03-23,1230
+USR0121,Jagat Sabharwal,Female,22,Government Employee,83209,6465634290,jagat.sabharwal800@gmail.com,ACC8544878538,jagat146@pay,Bangalore,Karnataka,UPI,Windows Laptop,Edge,7164,71640,21,2021-05-28,1894
+USR0122,Aditya Chhabra,Female,58,Doctor,232729,4163162287,aditya.chhabra74@gmail.com,ACC9347720574,aditya47@pay,Hyderabad,Telangana,Credit Card,iPhone,Chrome,6980,76780,8,2025-01-08,573
+USR0123,Vasudha Hayer,Female,37,Designer,124392,6262613206,vasudha.hayer494@gmail.com,ACC2087974350,vasudha781@pay,Jaipur,Rajasthan,Debit Card,Windows Laptop,Edge,7562,45372,17,2021-10-08,1761
+USR0124,Peter Bora,Female,25,Government Employee,134544,5519319432,peter.bora771@gmail.com,ACC9403012103,peter357@pay,Kolkata,West Bengal,Debit Card,MacBook,Safari,3509,45617,9,2019-02-08,2734
+USR0125,Advaith Kannan,Female,23,Lawyer,177929,6378402104,advaith.kannan568@gmail.com,ACC6556684476,advaith115@pay,Hyderabad,Telangana,UPI,Windows Laptop,Edge,3010,57190,20,2019-01-28,2745
+USR0126,Darsh Bhatt,Male,62,Accountant,112155,5280647745,darsh.bhatt53@gmail.com,ACC9210290540,darsh639@pay,Ahmedabad,Gujarat,Net Banking,Windows Laptop,Chrome,1114,18938,18,2023-06-14,1147
+USR0127,Raghav Kannan,Male,19,Doctor,242473,2002932040,raghav.kannan704@gmail.com,ACC8650676663,raghav45@pay,Kochi,Kerala,Debit Card,Android,Firefox,6877,110032,18,2018-09-05,2890
+USR0128,Jagrati Wable,Female,54,Student,178621,8364156359,jagrati.wable705@gmail.com,ACC6888247736,jagrati464@pay,Hyderabad,Telangana,UPI,Tablet,Firefox,4837,77392,19,2021-12-12,1696
+USR0129,Gopal Sidhu,Female,59,Business,85434,1058544924,gopal.sidhu36@gmail.com,ACC4159699467,gopal521@pay,Bangalore,Karnataka,Wallet,MacBook,Chrome,2644,34372,21,2026-07-20,15
+USR0130,Mugdha Bajwa,Male,57,Business,201922,7801119789,mugdha.bajwa214@gmail.com,ACC1526723719,mugdha883@pay,Ahmedabad,Gujarat,UPI,MacBook,Firefox,7861,149359,9,2020-08-14,2181
+USR0131,Jonathan Dora,Female,60,Government Employee,206001,7064697954,jonathan.dora573@gmail.com,ACC7623575561,jonathan922@pay,Bangalore,Karnataka,Credit Card,iPhone,Firefox,7001,112016,14,2024-03-24,863
+USR0132,Vedant Dubey,Male,30,Doctor,82058,0279456882,vedant.dubey36@gmail.com,ACC7752880042,vedant488@pay,Ahmedabad,Gujarat,Wallet,iPhone,Chrome,1038,14532,19,2019-08-15,2546
+USR0133,Lakshmi Tailor,Female,51,Lawyer,221631,4114777181,lakshmi.tailor853@gmail.com,ACC3469178881,lakshmi138@pay,Kolkata,West Bengal,Credit Card,Android,Safari,4316,69056,11,2020-05-21,2266
+USR0134,Om Bandi,Male,26,Lawyer,151822,6443686848,om.bandi861@gmail.com,ACC5952163720,om178@pay,Chennai,Tamil Nadu,Debit Card,Windows Laptop,Firefox,3334,46676,9,2026-06-25,40
+USR0135,Pranit Vig,Female,30,Designer,91945,8145876147,pranit.vig650@gmail.com,ACC3291270703,pranit524@pay,Hyderabad,Telangana,Debit Card,Tablet,Firefox,1902,28530,8,2021-03-29,1954
+USR0136,Vedika Swaminathan,Male,23,Student,188153,1244153307,vedika.swaminathan281@gmail.com,ACC3796581976,vedika795@pay,Kochi,Kerala,Wallet,MacBook,Chrome,4579,64106,16,2020-05-15,2272
+USR0137,Aarnav Dua,Female,33,Lawyer,97970,4464757839,aarnav.dua84@gmail.com,ACC3957572769,aarnav171@pay,Ahmedabad,Gujarat,Net Banking,MacBook,Safari,4304,47344,17,2020-01-27,2381
+USR0138,Jasmit Dash,Male,38,Government Employee,212466,4261913155,jasmit.dash418@gmail.com,ACC3412273600,jasmit336@pay,Pune,Maharashtra,Debit Card,MacBook,Chrome,2691,51129,14,2022-01-01,1676
+USR0139,Eesha Sood,Male,24,Student,96077,5755982478,eesha.sood894@gmail.com,ACC7937993287,eesha264@pay,Kolkata,West Bengal,Debit Card,Windows Laptop,Edge,2055,20550,22,2025-04-25,466
+USR0140,Daksh Garg,Female,49,Business,150382,1486008313,daksh.garg102@gmail.com,ACC9354711271,daksh527@pay,Chennai,Tamil Nadu,Net Banking,iPhone,Firefox,5278,84448,8,2023-11-14,994
+USR0141,Joshua Gour,Male,36,Accountant,176635,6432568497,joshua.gour302@gmail.com,ACC3305069227,joshua877@pay,Ahmedabad,Gujarat,UPI,MacBook,Firefox,7729,100477,18,2024-04-25,831
+USR0142,Bhavya Parmar,Female,41,Student,125010,1444806994,bhavya.parmar593@gmail.com,ACC3412985084,bhavya381@pay,Chennai,Tamil Nadu,Wallet,Windows Laptop,Chrome,3664,69616,15,2024-09-07,696
+USR0143,Brijesh Sanghvi,Male,26,Software Engineer,123259,7441512410,brijesh.sanghvi823@gmail.com,ACC9533188043,brijesh581@pay,Pune,Maharashtra,Credit Card,iPhone,Firefox,5435,92395,8,2023-05-22,1170
+USR0144,Pranav Shah,Male,20,Doctor,207063,3905234856,pranav.shah833@gmail.com,ACC2962750929,pranav630@pay,Pune,Maharashtra,Wallet,iPhone,Edge,5522,82830,12,2020-04-26,2291
+USR0145,Gaurang Chadha,Female,57,Business,175641,0838887332,gaurang.chadha529@gmail.com,ACC7581349462,gaurang735@pay,Pune,Maharashtra,Wallet,Windows Laptop,Safari,7182,35910,18,2024-11-25,617
+USR0146,Aadi Krishnamurthy,Female,61,Software Engineer,129193,1495127428,aadi.krishnamurthy325@gmail.com,ACC9704383251,aadi495@pay,Kochi,Kerala,Credit Card,Tablet,Firefox,6409,38454,22,2020-04-23,2294
+USR0147,Ayaan Bhalla,Male,51,Freelancer,223058,3502444632,ayaan.bhalla161@gmail.com,ACC2040226318,ayaan596@pay,Kolkata,West Bengal,UPI,iPhone,Chrome,4112,61680,20,2022-02-16,1630
+USR0148,Elijah Cheema,Male,44,Teacher,127577,7249980307,elijah.cheema803@gmail.com,ACC4124168227,elijah732@pay,Jaipur,Rajasthan,Debit Card,Tablet,Firefox,5094,76410,22,2024-03-26,861
+USR0149,William Verma,Female,38,Doctor,140498,3968246659,william.verma360@gmail.com,ACC7641192909,william702@pay,Jaipur,Rajasthan,Credit Card,Tablet,Safari,2075,24900,15,2019-07-14,2578
+USR0150,Gayathri Raghavan,Female,32,Business,222158,5735673260,gayathri.raghavan731@gmail.com,ACC8322868827,gayathri334@pay,Delhi,Delhi,Net Banking,Windows Laptop,Edge,2857,22856,19,2024-09-13,690
+USR0151,Bhavya Peri,Female,40,Doctor,96140,2699192168,bhavya.peri304@gmail.com,ACC5634396131,bhavya956@pay,Chennai,Tamil Nadu,Net Banking,Windows Laptop,Safari,2252,24772,15,2020-03-25,2323
+USR0152,Thomas Chhabra,Female,26,Software Engineer,181396,4180487342,thomas.chhabra255@gmail.com,ACC2041349374,thomas695@pay,Kochi,Kerala,Wallet,iPhone,Firefox,930,7440,20,2026-07-09,26
+USR0153,Vrinda Oza,Female,63,Accountant,46357,2908170037,vrinda.oza15@gmail.com,ACC5973319056,vrinda678@pay,Hyderabad,Telangana,Net Banking,MacBook,Firefox,6692,93688,17,2022-05-01,1556
+USR0154,Gopal Varghese,Female,59,Student,221516,3702144756,gopal.varghese677@gmail.com,ACC3465883999,gopal557@pay,Bangalore,Karnataka,UPI,iPhone,Safari,7727,77270,8,2020-01-04,2404
+USR0155,Rayaan Rao,Female,49,Doctor,216346,4020022264,rayaan.rao907@gmail.com,ACC1160916026,rayaan315@pay,Delhi,Delhi,Wallet,Tablet,Chrome,3244,45416,21,2019-01-24,2749
+USR0156,Urishilla Panchal,Female,26,Designer,142688,3260699518,urishilla.panchal207@gmail.com,ACC4473829163,urishilla348@pay,Delhi,Delhi,Debit Card,MacBook,Edge,6386,63860,7,2020-06-09,2247
+USR0157,Neel Deol,Female,36,Freelancer,196790,6075067180,neel.deol189@gmail.com,ACC2408434291,neel420@pay,Mumbai,Maharashtra,UPI,iPhone,Firefox,4411,66165,14,2022-10-21,1383
+USR0158,Unni Brar,Male,34,Lawyer,81740,6370819850,unni.brar781@gmail.com,ACC6710697191,unni606@pay,Ahmedabad,Gujarat,Wallet,Android,Edge,5854,93664,14,2023-05-28,1164
+USR0159,Siddharth Saha,Male,60,Software Engineer,142000,3489887166,siddharth.saha173@gmail.com,ACC6562144159,siddharth639@pay,Delhi,Delhi,Debit Card,iPhone,Firefox,4417,39753,21,2022-10-16,1388
+USR0160,Vinaya Chada,Female,44,Designer,143424,4974070005,vinaya.chada831@gmail.com,ACC9941564880,vinaya467@pay,Jaipur,Rajasthan,Wallet,Windows Laptop,Chrome,5121,40968,8,2022-05-24,1533
+USR0161,Ojasvi Minhas,Male,54,Designer,59282,6814897228,ojasvi.minhas345@gmail.com,ACC2897690739,ojasvi706@pay,Hyderabad,Telangana,Debit Card,Tablet,Safari,1244,23636,8,2022-02-28,1618
+USR0162,Hritik Shukla,Female,26,Designer,128901,7882775050,hritik.shukla587@gmail.com,ACC9837912162,hritik483@pay,Ahmedabad,Gujarat,Credit Card,Android,Safari,2584,12920,13,2025-06-30,400
+USR0163,Nidhi Dass,Male,20,Lawyer,110316,5021287407,nidhi.dass564@gmail.com,ACC5269728610,nidhi967@pay,Bangalore,Karnataka,UPI,MacBook,Chrome,2851,51318,12,2018-10-22,2843
+USR0164,Amruta Thaker,Male,59,Lawyer,118162,7231878810,amruta.thaker469@gmail.com,ACC9189503254,amruta394@pay,Kolkata,West Bengal,UPI,Tablet,Firefox,5853,93648,10,2020-11-22,2081
+USR0165,Yashawini Puri,Male,52,Lawyer,158632,6793820418,yashawini.puri755@gmail.com,ACC5203589186,yashawini864@pay,Hyderabad,Telangana,UPI,Android,Edge,4292,77256,19,2025-10-31,277
+USR0166,Yashawini Ramachandran,Male,33,Accountant,110743,0829837338,yashawini.ramachandran292@gmail.com,ACC4287754238,yashawini42@pay,Hyderabad,Telangana,Net Banking,Tablet,Chrome,2471,27181,9,2023-05-26,1166
+USR0167,Dhruv Chhabra,Male,56,Student,137031,5025052097,dhruv.chhabra698@gmail.com,ACC1209063208,dhruv768@pay,Kochi,Kerala,UPI,MacBook,Safari,2419,26609,8,2022-04-03,1584
+USR0168,Sarthak Rattan,Male,50,Business,81384,7135572856,sarthak.rattan336@gmail.com,ACC8809893329,sarthak252@pay,Kochi,Kerala,Credit Card,iPhone,Firefox,3887,54418,15,2022-08-02,1463
+USR0169,Qabil Sethi,Male,53,Freelancer,212731,2727754828,qabil.sethi651@gmail.com,ACC8210176888,qabil579@pay,Hyderabad,Telangana,Net Banking,Android,Edge,5770,98090,17,2018-10-18,2847
+USR0170,Nidhi Sampath,Female,44,Doctor,98613,7572685332,nidhi.sampath198@gmail.com,ACC3033747850,nidhi879@pay,Kolkata,West Bengal,Debit Card,Windows Laptop,Firefox,7100,134900,8,2021-07-22,1839
+USR0171,Ishwar Barad,Female,44,Designer,158934,9816904884,ishwar.barad407@gmail.com,ACC6338036681,ishwar218@pay,Hyderabad,Telangana,Credit Card,Android,Safari,7439,119024,9,2019-05-18,2635
+USR0172,Wyatt Sen,Male,21,Business,118872,3687578494,wyatt.sen627@gmail.com,ACC1312606333,wyatt833@pay,Kochi,Kerala,Wallet,Tablet,Firefox,4427,48697,17,2018-10-26,2839
+USR0173,Gayathri Sehgal,Female,18,Teacher,69813,3575588981,gayathri.sehgal774@gmail.com,ACC6173344564,gayathri947@pay,Bangalore,Karnataka,Debit Card,Tablet,Edge,6853,95942,19,2021-10-31,1738
+USR0174,Anika Bandi,Female,52,Government Employee,100851,5102310085,anika.bandi378@gmail.com,ACC7430757004,anika110@pay,Delhi,Delhi,Net Banking,Windows Laptop,Firefox,3536,53040,20,2020-11-02,2101
+USR0175,Bhavya Zacharia,Male,54,Teacher,214314,0225185704,bhavya.zacharia26@gmail.com,ACC7088451458,bhavya166@pay,Hyderabad,Telangana,Debit Card,Windows Laptop,Firefox,3611,43332,22,2023-08-25,1075
+USR0176,Laban Bal,Female,34,Accountant,209676,3835041474,laban.bal481@gmail.com,ACC8709361138,laban183@pay,Ahmedabad,Gujarat,Debit Card,Tablet,Safari,2007,12042,8,2021-10-13,1756
+USR0177,Quincy Subramanian,Male,60,Student,220366,1240828319,quincy.subramanian432@gmail.com,ACC3708842947,quincy79@pay,Chennai,Tamil Nadu,Debit Card,Android,Firefox,4642,88198,18,2022-12-16,1327
+USR0178,Tanveer Halder,Male,57,Freelancer,146669,5963148226,tanveer.halder26@gmail.com,ACC9618334441,tanveer574@pay,Ahmedabad,Gujarat,Net Banking,Android,Chrome,4836,62868,16,2022-02-20,1626
+USR0179,Bhavna Banik,Male,50,Lawyer,231332,8016115728,bhavna.banik119@gmail.com,ACC4942989764,bhavna546@pay,Hyderabad,Telangana,Debit Card,iPhone,Firefox,5577,72501,18,2023-02-01,1280
+USR0180,Saumya Basak,Female,43,Software Engineer,117793,7549304276,saumya.basak480@gmail.com,ACC3426665919,saumya723@pay,Kolkata,West Bengal,Debit Card,Windows Laptop,Chrome,5855,35130,9,2026-02-18,167
+USR0181,Anmol Sagar,Female,42,Lawyer,164887,5093446300,anmol.sagar67@gmail.com,ACC3734812163,anmol729@pay,Ahmedabad,Gujarat,Debit Card,Android,Safari,7424,133632,17,2026-07-15,20
+USR0182,Libni Badal,Male,51,Student,80231,2998566041,libni.badal932@gmail.com,ACC7337225482,libni57@pay,Mumbai,Maharashtra,UPI,Windows Laptop,Chrome,1969,29535,7,2019-12-01,2438
+USR0183,Prisha Chaudhry,Male,55,Doctor,217198,4277320212,prisha.chaudhry961@gmail.com,ACC5625411308,prisha176@pay,Kolkata,West Bengal,Wallet,iPhone,Safari,6046,90690,19,2022-01-12,1665
+USR0184,Januja Nazareth,Male,62,Software Engineer,151279,5665960220,januja.nazareth64@gmail.com,ACC5714524551,januja247@pay,Pune,Maharashtra,UPI,Windows Laptop,Safari,6836,102540,7,2021-05-15,1907
+USR0185,Bhavani Jayaraman,Female,46,Accountant,79805,2836768255,bhavani.jayaraman576@gmail.com,ACC9337145038,bhavani452@pay,Pune,Maharashtra,Debit Card,Tablet,Safari,1202,16828,14,2025-08-27,342
+USR0186,Harini Wason,Male,23,Business,60428,7085488666,harini.wason738@gmail.com,ACC6968380957,harini379@pay,Kolkata,West Bengal,UPI,Android,Chrome,3025,57475,18,2019-12-19,2420
+USR0187,Ishanvi Dutta,Female,24,Doctor,42884,9008261105,ishanvi.dutta451@gmail.com,ACC2752536389,ishanvi36@pay,Hyderabad,Telangana,UPI,Windows Laptop,Chrome,5390,80850,19,2023-04-22,1200
+USR0188,Vasana Natt,Male,36,Lawyer,121659,5108054227,vasana.natt752@gmail.com,ACC5201221330,vasana595@pay,Bangalore,Karnataka,Wallet,iPhone,Safari,1888,16992,15,2023-01-11,1301
+USR0189,Chandresh Randhawa,Female,35,Accountant,58255,1367832078,chandresh.randhawa181@gmail.com,ACC7161887665,chandresh441@pay,Bangalore,Karnataka,Credit Card,MacBook,Chrome,3458,44954,14,2019-06-12,2610
+USR0190,Hiral Karpe,Female,56,Freelancer,71261,3201258721,hiral.karpe119@gmail.com,ACC5876890399,hiral16@pay,Ahmedabad,Gujarat,Net Banking,Windows Laptop,Safari,7086,106290,21,2026-06-29,36
+USR0191,Ekalinga Raju,Female,45,Freelancer,55684,1305396478,ekalinga.raju338@gmail.com,ACC3986257683,ekalinga500@pay,Delhi,Delhi,Credit Card,iPhone,Safari,3114,43596,22,2020-01-27,2381
+USR0192,Kalpit Keer,Male,38,Lawyer,93479,4375258160,kalpit.keer383@gmail.com,ACC3421719519,kalpit616@pay,Kolkata,West Bengal,Wallet,iPhone,Chrome,6457,122683,13,2023-07-12,1119
+USR0193,Qushi Raj,Female,36,Software Engineer,234686,7694629367,qushi.raj699@gmail.com,ACC3144490990,qushi658@pay,Kolkata,West Bengal,Credit Card,iPhone,Edge,5895,53055,20,2024-02-17,899
+USR0194,Madhavi Pal,Female,22,Accountant,176744,2718338122,madhavi.pal606@gmail.com,ACC8265834251,madhavi566@pay,Ahmedabad,Gujarat,UPI,Windows Laptop,Chrome,1395,16740,18,2022-10-01,1403
+USR0195,Nachiket Peri,Male,59,Freelancer,31612,8673624274,nachiket.peri670@gmail.com,ACC8527715219,nachiket998@pay,Kochi,Kerala,Net Banking,Android,Chrome,1307,16991,14,2021-01-13,2029
+USR0196,Bimala Pingle,Male,46,Government Employee,122533,0581271013,bimala.pingle800@gmail.com,ACC5942411853,bimala35@pay,Ahmedabad,Gujarat,Net Banking,Android,Edge,3907,27349,10,2021-01-19,2023
+USR0197,Tanveer Hayre,Male,40,Business,109932,9390201678,tanveer.hayre813@gmail.com,ACC7369118672,tanveer497@pay,Ahmedabad,Gujarat,UPI,MacBook,Safari,3112,21784,16,2021-05-28,1894
+USR0198,Tanmayi Hayre,Male,63,Software Engineer,25920,2660112400,tanmayi.hayre673@gmail.com,ACC4436189121,tanmayi962@pay,Pune,Maharashtra,Debit Card,Tablet,Firefox,5021,50210,17,2020-09-04,2160
+USR0199,Damyanti Rai,Female,47,Teacher,229126,0484317865,damyanti.rai654@gmail.com,ACC1792214339,damyanti665@pay,Kolkata,West Bengal,Net Banking,MacBook,Chrome,6540,71940,21,2019-05-31,2622
+USR0200,Kamya Sani,Female,42,Student,204742,1749006974,kamya.sani220@gmail.com,ACC4418828570,kamya601@pay,Mumbai,Maharashtra,UPI,Tablet,Firefox,3496,52440,13,2023-01-29,1283
+USR0201,Hritik Gole,Female,25,Business,195820,6563031569,hritik.gole550@gmail.com,ACC5785590330,hritik370@pay,Ahmedabad,Gujarat,Net Banking,Tablet,Firefox,7166,100324,9,2024-10-07,666
+USR0202,Nihal Salvi,Male,38,Software Engineer,82540,6141242456,nihal.salvi129@gmail.com,ACC6081137534,nihal720@pay,Delhi,Delhi,Debit Card,Tablet,Safari,3926,35334,19,2020-07-15,2211
+USR0203,Jasmit Sen,Female,29,Accountant,186592,5370511443,jasmit.sen720@gmail.com,ACC6011649263,jasmit305@pay,Jaipur,Rajasthan,Debit Card,iPhone,Edge,7397,140543,8,2023-01-21,1291
+USR0204,Manya Nazareth,Female,18,Accountant,55791,6745933054,manya.nazareth844@gmail.com,ACC8099880573,manya428@pay,Mumbai,Maharashtra,Net Banking,MacBook,Safari,4503,45030,9,2021-11-06,1732
+USR0205,Shravya Johal,Male,32,Business,28570,9664144430,shravya.johal240@gmail.com,ACC7603978731,shravya182@pay,Delhi,Delhi,Net Banking,Tablet,Safari,5003,40024,10,2019-02-03,2739
+USR0206,Warinder Subramaniam,Female,52,Government Employee,162093,9831214948,warinder.subramaniam788@gmail.com,ACC8382963909,warinder569@pay,Chennai,Tamil Nadu,Debit Card,MacBook,Chrome,6529,78348,16,2020-09-29,2135
+USR0207,Gautami Natt,Male,46,Business,111377,8462857839,gautami.natt459@gmail.com,ACC4487036345,gautami224@pay,Bangalore,Karnataka,Wallet,Windows Laptop,Safari,1859,16731,13,2020-11-23,2080
+USR0208,Viraj Hari,Male,21,Freelancer,111964,3072022401,viraj.hari297@gmail.com,ACC6018142572,viraj730@pay,Jaipur,Rajasthan,Credit Card,Windows Laptop,Edge,7528,60224,11,2026-01-17,199
+USR0209,Banjeet Khosla,Female,21,Business,247291,3309762377,banjeet.khosla728@gmail.com,ACC4719780110,banjeet265@pay,Hyderabad,Telangana,Debit Card,Windows Laptop,Firefox,6737,114529,22,2020-09-17,2147
+USR0210,Gunbir Bhargava,Male,54,Business,184577,9402228176,gunbir.bhargava394@gmail.com,ACC2941289685,gunbir658@pay,Kolkata,West Bengal,UPI,MacBook,Edge,6191,99056,21,2019-04-12,2671
+USR0211,Aachal Barad,Female,38,Freelancer,20648,8388633943,aachal.barad758@gmail.com,ACC9470321015,aachal660@pay,Bangalore,Karnataka,Credit Card,Android,Safari,2284,41112,13,2023-05-19,1173
+USR0212,Farhan Lal,Female,35,Government Employee,237145,4283860779,farhan.lal355@gmail.com,ACC8956094389,farhan817@pay,Delhi,Delhi,Credit Card,Android,Chrome,1315,24985,7,2023-06-15,1146
+USR0213,Charita Karnik,Male,28,Accountant,139673,5905138394,charita.karnik991@gmail.com,ACC2837384013,charita715@pay,Chennai,Tamil Nadu,Debit Card,Windows Laptop,Firefox,7663,99619,9,2022-08-25,1440
+USR0214,Vasatika Edwin,Female,34,Software Engineer,117476,9068035016,vasatika.edwin63@gmail.com,ACC6300607425,vasatika681@pay,Hyderabad,Telangana,UPI,Android,Chrome,2248,44960,9,2024-03-04,883
+USR0215,Abhiram Gola,Male,55,Teacher,156169,1774452824,abhiram.gola19@gmail.com,ACC9624563057,abhiram361@pay,Ahmedabad,Gujarat,UPI,MacBook,Firefox,4413,30891,14,2024-05-13,813
+USR0216,Aditya Jaggi,Female,23,Software Engineer,47053,9359263745,aditya.jaggi386@gmail.com,ACC9078786223,aditya150@pay,Pune,Maharashtra,Net Banking,iPhone,Firefox,1060,5300,12,2019-07-02,2590
+USR0217,Anay Bandi,Female,40,Teacher,184647,8891204933,anay.bandi951@gmail.com,ACC8243746556,anay890@pay,Hyderabad,Telangana,Debit Card,Android,Chrome,1646,13168,19,2024-04-12,844
+USR0218,Ridhi Pall,Female,45,Government Employee,227376,0305055502,ridhi.pall263@gmail.com,ACC1361845490,ridhi576@pay,Hyderabad,Telangana,Wallet,Tablet,Edge,6881,34405,16,2024-06-26,769
+USR0219,Harita Bhakta,Male,51,Freelancer,153568,7355850604,harita.bhakta775@gmail.com,ACC6977525103,harita671@pay,Mumbai,Maharashtra,UPI,iPhone,Safari,3661,29288,14,2020-01-28,2380
+USR0220,Nikita Barad,Female,58,Freelancer,38615,5847721060,nikita.barad920@gmail.com,ACC5199176431,nikita379@pay,Jaipur,Rajasthan,Credit Card,iPhone,Safari,7551,135918,18,2019-11-19,2450
+USR0221,Ishaan Kar,Male,48,Software Engineer,24375,4374828501,ishaan.kar79@gmail.com,ACC5354209613,ishaan230@pay,Kochi,Kerala,UPI,Android,Safari,4650,65100,20,2023-09-17,1052
+USR0222,Warhi Sethi,Female,62,Lawyer,41607,2627404453,warhi.sethi560@gmail.com,ACC3645901955,warhi294@pay,Jaipur,Rajasthan,UPI,Windows Laptop,Chrome,4688,51568,11,2019-12-02,2437
+USR0223,Tarak Upadhyay,Female,43,Freelancer,186276,4465650758,tarak.upadhyay327@gmail.com,ACC8295757364,tarak757@pay,Bangalore,Karnataka,Debit Card,Android,Firefox,1206,21708,10,2025-03-17,505
+USR0224,Siya Bandi,Female,57,Freelancer,34425,8359710187,siya.bandi692@gmail.com,ACC4181102664,siya132@pay,Delhi,Delhi,UPI,iPhone,Chrome,1842,36840,18,2023-05-03,1189
+USR0225,Orinder Chahal,Female,28,Government Employee,53274,4301668014,orinder.chahal760@gmail.com,ACC4807122420,orinder799@pay,Delhi,Delhi,UPI,Windows Laptop,Safari,2728,19096,15,2024-09-26,677
+USR0226,Irya Mittal,Male,49,Accountant,153898,6810847876,irya.mittal66@gmail.com,ACC3434757387,irya386@pay,Pune,Maharashtra,Debit Card,Windows Laptop,Chrome,7825,62600,14,2022-07-03,1493
+USR0227,Urvashi Bala,Male,20,Student,84107,8199941158,urvashi.bala493@gmail.com,ACC6858234447,urvashi952@pay,Chennai,Tamil Nadu,Debit Card,iPhone,Chrome,5029,90522,14,2022-09-26,1408
+USR0228,Yagnesh Das,Female,33,Lawyer,208819,0959223728,yagnesh.das287@gmail.com,ACC4547630097,yagnesh595@pay,Pune,Maharashtra,Credit Card,Android,Chrome,1969,23628,8,2021-06-04,1887
+USR0229,Aarav Chaudhary,Female,22,Accountant,247025,4544070091,aarav.chaudhary802@gmail.com,ACC8923555411,aarav345@pay,Delhi,Delhi,UPI,Tablet,Safari,565,9040,13,2024-05-21,805
+USR0230,Adya Devan,Female,54,Business,213875,9091358227,adya.devan258@gmail.com,ACC7287517250,adya615@pay,Kochi,Kerala,Net Banking,iPhone,Firefox,1733,8665,20,2023-02-24,1257
+USR0231,Tanmayi Sodhi,Male,32,Designer,110812,8071182023,tanmayi.sodhi983@gmail.com,ACC2438888667,tanmayi787@pay,Chennai,Tamil Nadu,Net Banking,Windows Laptop,Chrome,2180,26160,20,2024-01-16,931
+USR0232,Theodore Puri,Female,21,Doctor,206555,1578106649,theodore.puri105@gmail.com,ACC9141445255,theodore479@pay,Delhi,Delhi,UPI,Tablet,Chrome,4640,41760,19,2025-09-08,330
+USR0233,Rajata Lall,Male,55,Freelancer,36327,7242392257,rajata.lall688@gmail.com,ACC5141285960,rajata252@pay,Kolkata,West Bengal,Credit Card,Windows Laptop,Edge,7060,120020,17,2020-09-05,2159
+USR0234,Tara Gola,Female,46,Business,81239,6513599089,tara.gola976@gmail.com,ACC1870644102,tara808@pay,Bangalore,Karnataka,Wallet,Android,Firefox,1365,13650,21,2023-07-11,1120
+USR0235,Pushti Mohanty,Female,38,Lawyer,51650,4349320696,pushti.mohanty376@gmail.com,ACC6186758088,pushti325@pay,Jaipur,Rajasthan,Net Banking,Windows Laptop,Chrome,1240,12400,16,2025-10-16,292
+USR0236,Rachita Oak,Male,31,Government Employee,58882,5619547287,rachita.oak738@gmail.com,ACC6822870815,rachita535@pay,Bangalore,Karnataka,UPI,Windows Laptop,Edge,7218,72180,7,2026-04-11,115
+USR0237,Nicholas Bansal,Female,46,Designer,216104,6972297710,nicholas.bansal265@gmail.com,ACC5701809264,nicholas114@pay,Jaipur,Rajasthan,Debit Card,Android,Chrome,1005,12060,11,2026-04-15,111
+USR0238,Ranveer Korpal,Male,43,Government Employee,199905,2620549849,ranveer.korpal606@gmail.com,ACC7812328180,ranveer949@pay,Bangalore,Karnataka,UPI,Android,Chrome,2119,40261,11,2023-04-05,1217
+USR0239,Harish Desai,Male,39,Software Engineer,31192,7569991977,harish.desai61@gmail.com,ACC7759781156,harish851@pay,Ahmedabad,Gujarat,Net Banking,MacBook,Chrome,3635,65430,12,2018-09-14,2881
+USR0240,Nathaniel Sekhon,Female,31,Doctor,92084,6523540977,nathaniel.sekhon466@gmail.com,ACC4794276323,nathaniel45@pay,Delhi,Delhi,Wallet,Tablet,Firefox,5802,81228,22,2021-02-23,1988
+USR0241,Mekhala Chand,Female,53,Accountant,35985,1951729026,mekhala.chand296@gmail.com,ACC2645038111,mekhala439@pay,Bangalore,Karnataka,Debit Card,Tablet,Firefox,5667,28335,19,2025-10-13,295
+USR0242,Atharv Kalla,Female,48,Designer,224848,5706941714,atharv.kalla362@gmail.com,ACC7452729913,atharv407@pay,Ahmedabad,Gujarat,Credit Card,iPhone,Chrome,3112,37344,7,2025-04-29,462
+USR0243,Ekaraj Swaminathan,Female,21,Accountant,158787,0717467817,ekaraj.swaminathan795@gmail.com,ACC1685583357,ekaraj263@pay,Pune,Maharashtra,Debit Card,Windows Laptop,Chrome,6759,81108,19,2025-06-23,407
+USR0244,Aayush Sur,Female,29,Doctor,82010,6318673741,aayush.sur335@gmail.com,ACC8291250562,aayush945@pay,Kochi,Kerala,Wallet,Android,Edge,5150,46350,13,2021-04-26,1926
+USR0245,Jagdish Pai,Female,52,Business,66021,2821024841,jagdish.pai48@gmail.com,ACC1387652480,jagdish248@pay,Ahmedabad,Gujarat,Wallet,iPhone,Chrome,4812,96240,7,2025-07-14,386
+USR0246,Ubika Kothari,Female,57,Teacher,231404,1081478306,ubika.kothari358@gmail.com,ACC4079223686,ubika950@pay,Hyderabad,Telangana,Credit Card,Android,Chrome,1710,15390,10,2019-01-21,2752
+USR0247,Timothy Suresh,Female,22,Government Employee,204690,2031357635,timothy.suresh610@gmail.com,ACC5728897164,timothy319@pay,Kolkata,West Bengal,Credit Card,iPhone,Firefox,6499,116982,22,2025-09-26,312
+USR0248,Dev Prabhakar,Female,29,Designer,201812,2141466212,dev.prabhakar815@gmail.com,ACC2532554057,dev691@pay,Kochi,Kerala,Wallet,iPhone,Safari,3013,42182,11,2025-06-28,402
+USR0249,Sara Prabhu,Male,64,Student,204027,6752822369,sara.prabhu410@gmail.com,ACC3437319900,sara196@pay,Kochi,Kerala,Wallet,Windows Laptop,Firefox,5739,45912,22,2021-09-14,1785
+USR0250,Damini Dutt,Male,39,Software Engineer,82389,3023293497,damini.dutt337@gmail.com,ACC9103115140,damini467@pay,Pune,Maharashtra,UPI,Windows Laptop,Firefox,2544,17808,18,2023-02-06,1275
+USR0251,Ansh Mammen,Female,24,Student,32621,8781377312,ansh.mammen458@gmail.com,ACC8441393731,ansh180@pay,Kolkata,West Bengal,Net Banking,MacBook,Safari,3377,57409,10,2022-10-22,1382
+USR0252,Tanish Aurora,Female,54,Teacher,62639,2418837726,tanish.aurora85@gmail.com,ACC5438474114,tanish30@pay,Ahmedabad,Gujarat,Credit Card,Windows Laptop,Chrome,1107,16605,12,2023-05-21,1171
+USR0253,Yachana Palla,Female,28,Software Engineer,163404,7788867643,yachana.palla356@gmail.com,ACC5428082088,yachana975@pay,Bangalore,Karnataka,Debit Card,Tablet,Safari,1786,10716,10,2019-11-27,2442
+USR0254,Ekaraj Devan,Female,31,Teacher,127290,4809678263,ekaraj.devan749@gmail.com,ACC7614788357,ekaraj686@pay,Jaipur,Rajasthan,Credit Card,Windows Laptop,Firefox,1285,7710,19,2021-03-18,1965
+USR0255,Girik Boase,Female,27,Student,114589,4341767988,girik.boase447@gmail.com,ACC5671328227,girik853@pay,Chennai,Tamil Nadu,Wallet,MacBook,Firefox,1294,6470,13,2024-01-06,941
+USR0256,Saanvi Shere,Male,58,Business,41479,7724922240,saanvi.shere874@gmail.com,ACC5791074361,saanvi813@pay,Ahmedabad,Gujarat,Net Banking,MacBook,Safari,7830,101790,9,2021-10-31,1738
+USR0257,Gaurang Bakshi,Female,29,Government Employee,119993,3351074080,gaurang.bakshi201@gmail.com,ACC2914590233,gaurang279@pay,Pune,Maharashtra,Net Banking,MacBook,Edge,2353,30589,8,2021-12-13,1695
+USR0258,Sarthak Kumer,Male,62,Software Engineer,42467,4360184810,sarthak.kumer837@gmail.com,ACC7620473079,sarthak784@pay,Pune,Maharashtra,Wallet,iPhone,Chrome,7387,125579,20,2020-04-04,2313
+USR0259,Yatin Sanghvi,Female,54,Teacher,144849,6822069917,yatin.sanghvi90@gmail.com,ACC9739092337,yatin594@pay,Delhi,Delhi,Wallet,Tablet,Firefox,1485,28215,12,2024-08-28,706
+USR0260,Kamala Chowdhury,Male,31,Teacher,53078,8182872792,kamala.chowdhury443@gmail.com,ACC8228968839,kamala216@pay,Chennai,Tamil Nadu,Debit Card,Tablet,Edge,3119,21833,9,2018-10-05,2860
+USR0261,Anita Sathe,Female,53,Lawyer,164717,8337638122,anita.sathe887@gmail.com,ACC4751509023,anita815@pay,Pune,Maharashtra,Wallet,Tablet,Safari,1421,25578,11,2025-11-09,268
+USR0262,Anthony Chakrabarti,Male,54,Freelancer,172745,1420609627,anthony.chakrabarti957@gmail.com,ACC4348118981,anthony814@pay,Bangalore,Karnataka,Credit Card,Tablet,Edge,7691,138438,15,2024-11-30,612
+USR0263,Amruta Warrior,Female,59,Accountant,169952,3971537728,amruta.warrior494@gmail.com,ACC1160913827,amruta292@pay,Kochi,Kerala,Net Banking,iPhone,Safari,817,13889,17,2019-07-26,2566
+USR0264,Bahadurjit Chadha,Male,21,Accountant,90407,8527928922,bahadurjit.chadha30@gmail.com,ACC8703676933,bahadurjit328@pay,Pune,Maharashtra,Credit Card,MacBook,Chrome,7618,91416,11,2024-09-17,686
+USR0265,Kiaan Chander,Female,65,Accountant,222907,5629253460,kiaan.chander285@gmail.com,ACC8425136942,kiaan629@pay,Pune,Maharashtra,UPI,iPhone,Safari,2231,40158,22,2021-05-25,1897
+USR0266,Qasim Golla,Female,21,Designer,227484,0429439288,qasim.golla77@gmail.com,ACC7471636437,qasim148@pay,Hyderabad,Telangana,Wallet,Tablet,Chrome,1923,21153,13,2025-04-18,473
+USR0267,Jackson Setty,Male,33,Student,139655,8692387068,jackson.setty950@gmail.com,ACC6150137259,jackson387@pay,Chennai,Tamil Nadu,Net Banking,Tablet,Safari,5705,45640,7,2019-10-16,2484
+USR0268,Jagrati Ravel,Male,41,Accountant,175724,5762081884,jagrati.ravel191@gmail.com,ACC7662927609,jagrati362@pay,Ahmedabad,Gujarat,Debit Card,Windows Laptop,Chrome,2835,14175,19,2023-03-29,1224
+USR0269,Nandini Lanka,Male,28,Freelancer,224427,7117816180,nandini.lanka887@gmail.com,ACC6182870116,nandini677@pay,Mumbai,Maharashtra,Net Banking,Tablet,Chrome,7583,37915,22,2025-03-12,510
+USR0270,Hamsini Lala,Male,59,Doctor,177585,4324328611,hamsini.lala239@gmail.com,ACC8055515912,hamsini443@pay,Chennai,Tamil Nadu,Net Banking,Windows Laptop,Safari,2564,28204,21,2018-10-12,2853
+USR0271,Deepa Bawa,Female,61,Designer,236088,8828764431,deepa.bawa416@gmail.com,ACC3510353238,deepa17@pay,Kochi,Kerala,Wallet,Windows Laptop,Edge,2945,23560,22,2026-07-04,31
+USR0272,Sai Narayanan,Male,39,Business,187928,7412846031,sai.narayanan892@gmail.com,ACC6484179008,sai681@pay,Pune,Maharashtra,Credit Card,iPhone,Firefox,4737,56844,8,2023-02-11,1270
+USR0273,Edhitha Venkatesh,Female,60,Government Employee,198456,9047611407,edhitha.venkatesh748@gmail.com,ACC9699264134,edhitha519@pay,Hyderabad,Telangana,Credit Card,Windows Laptop,Safari,3814,64838,8,2022-04-19,1568
+USR0274,Om Sodhi,Male,39,Teacher,199914,7136782835,om.sodhi663@gmail.com,ACC8666074487,om938@pay,Jaipur,Rajasthan,Credit Card,Tablet,Edge,7425,74250,12,2026-01-05,211
+USR0275,Tamanna Kalla,Female,24,Accountant,53539,1063423394,tamanna.kalla752@gmail.com,ACC1383539822,tamanna373@pay,Delhi,Delhi,Debit Card,Windows Laptop,Safari,6956,104340,18,2023-07-22,1109
+USR0276,Meghana Mani,Female,55,Business,141572,8517834556,meghana.mani491@gmail.com,ACC3665691647,meghana493@pay,Bangalore,Karnataka,Debit Card,Tablet,Chrome,7606,129302,16,2021-02-21,1990
+USR0277,Osha Pal,Female,21,Doctor,56009,3574493622,osha.pal360@gmail.com,ACC2965254350,osha333@pay,Mumbai,Maharashtra,Debit Card,Android,Safari,3224,32240,17,2021-01-22,2020
+USR0278,Ranbir Rout,Male,18,Accountant,91703,9694832274,ranbir.rout789@gmail.com,ACC4322338756,ranbir600@pay,Mumbai,Maharashtra,Debit Card,MacBook,Chrome,1560,28080,20,2021-07-25,1836
+USR0279,Lakshit Char,Female,45,Accountant,120484,4454056490,lakshit.char48@gmail.com,ACC3292578829,lakshit758@pay,Chennai,Tamil Nadu,Credit Card,Android,Edge,6700,73700,7,2018-12-11,2793
+USR0280,Ekaja Bhandari,Male,58,Teacher,79314,6000204570,ekaja.bhandari329@gmail.com,ACC1553753599,ekaja402@pay,Pune,Maharashtra,Wallet,Tablet,Edge,1868,13076,8,2024-02-24,892
+USR0281,Anusha Hans,Female,36,Accountant,210796,4268404896,anusha.hans620@gmail.com,ACC7546035453,anusha454@pay,Jaipur,Rajasthan,Debit Card,Windows Laptop,Safari,3442,37862,12,2022-01-09,1668
+USR0282,Dominic Chowdhury,Female,19,Teacher,78804,1860013711,dominic.chowdhury226@gmail.com,ACC4152835101,dominic613@pay,Hyderabad,Telangana,Wallet,iPhone,Chrome,3503,21018,19,2019-02-05,2737
+USR0283,Advik Devi,Female,52,Freelancer,32736,0971103076,advik.devi59@gmail.com,ACC3843139149,advik679@pay,Kochi,Kerala,UPI,Android,Chrome,3914,74366,19,2025-08-17,352
+USR0284,Amruta Chahal,Male,53,Business,144360,4201747071,amruta.chahal220@gmail.com,ACC3707166618,amruta318@pay,Hyderabad,Telangana,Net Banking,Android,Edge,5601,50409,20,2019-10-25,2475
+USR0285,Rayaan Cherian,Male,50,Freelancer,50863,5429150229,rayaan.cherian126@gmail.com,ACC4370518841,rayaan519@pay,Delhi,Delhi,Debit Card,Tablet,Firefox,6873,89349,13,2019-02-04,2738
+USR0286,Kashvi Grewal,Female,63,Lawyer,97424,0917847984,kashvi.grewal50@gmail.com,ACC7649205361,kashvi942@pay,Hyderabad,Telangana,Debit Card,MacBook,Edge,2421,12105,7,2022-07-22,1474
+USR0287,Nathaniel Narayanan,Male,25,Freelancer,195380,6209352883,nathaniel.narayanan162@gmail.com,ACC5077839614,nathaniel808@pay,Ahmedabad,Gujarat,Wallet,Android,Chrome,7911,102843,14,2019-09-09,2521
+USR0288,Ganga Sen,Female,36,Business,141707,1898118367,ganga.sen112@gmail.com,ACC4492574713,ganga905@pay,Chennai,Tamil Nadu,UPI,Windows Laptop,Edge,7066,105990,20,2023-11-15,993
+USR0289,Idika Sahni,Male,24,Student,22535,8071771038,idika.sahni689@gmail.com,ACC3779696951,idika346@pay,Hyderabad,Telangana,Credit Card,MacBook,Edge,7696,53872,18,2022-10-06,1398
+USR0290,Hritik Memon,Female,29,Software Engineer,125061,3445883314,hritik.memon995@gmail.com,ACC7255786047,hritik865@pay,Kolkata,West Bengal,Net Banking,MacBook,Safari,5815,58150,10,2026-07-28,7
+USR0291,Omisha Gopal,Male,62,Student,241341,5350637218,omisha.gopal116@gmail.com,ACC7832220535,omisha831@pay,Hyderabad,Telangana,Wallet,MacBook,Firefox,5507,93619,18,2024-12-26,586
+USR0292,Samuel Wable,Male,61,Doctor,146636,3768526109,samuel.wable125@gmail.com,ACC9107154202,samuel461@pay,Ahmedabad,Gujarat,UPI,Android,Edge,5865,87975,7,2023-12-17,961
+USR0293,Aadhya Dube,Male,60,Government Employee,156078,6338020623,aadhya.dube714@gmail.com,ACC5704029171,aadhya687@pay,Jaipur,Rajasthan,Debit Card,MacBook,Edge,5937,100929,11,2023-05-17,1175
+USR0294,Indrajit Mittal,Male,18,Doctor,152531,5350103435,indrajit.mittal882@gmail.com,ACC1710404224,indrajit779@pay,Ahmedabad,Gujarat,Net Banking,Windows Laptop,Firefox,3210,41730,8,2019-04-29,2654
+USR0295,Chanakya Raghavan,Male,53,Lawyer,125716,7120147670,chanakya.raghavan90@gmail.com,ACC7266763552,chanakya830@pay,Mumbai,Maharashtra,Wallet,MacBook,Chrome,7517,150340,21,2021-11-20,1718
+USR0296,Lajita Natarajan,Female,25,Accountant,215359,1043659627,lajita.natarajan115@gmail.com,ACC7027727434,lajita46@pay,Chennai,Tamil Nadu,Wallet,Tablet,Chrome,7265,50855,16,2025-01-25,556
+USR0297,Kamya Saran,Male,59,Accountant,109352,6051183309,kamya.saran855@gmail.com,ACC7246858055,kamya583@pay,Pune,Maharashtra,Wallet,Tablet,Safari,6370,101920,21,2018-11-29,2805
+USR0298,Balveer Parsa,Male,24,Teacher,20575,1183985502,balveer.parsa373@gmail.com,ACC7536876169,balveer728@pay,Pune,Maharashtra,UPI,Android,Firefox,4533,40797,20,2021-09-02,1797
+USR0299,Aarnav Ramachandran,Male,34,Freelancer,71359,4937458350,aarnav.ramachandran133@gmail.com,ACC2687477596,aarnav478@pay,Mumbai,Maharashtra,Debit Card,Windows Laptop,Chrome,6702,120636,8,2024-11-08,634
+USR0300,Yachana Chadha,Male,46,Accountant,192610,1654764266,yachana.chadha989@gmail.com,ACC3165512104,yachana996@pay,Kochi,Kerala,Net Banking,Android,Chrome,5032,90576,22,2024-05-31,795
+USR0301,Nidra Agarwal,Male,62,Freelancer,65521,9232262492,nidra.agarwal116@gmail.com,ACC9086117171,nidra526@pay,Hyderabad,Telangana,Net Banking,MacBook,Firefox,2741,46597,17,2020-02-27,2350
+USR0302,Zaid Doctor,Female,46,Doctor,56223,6644124123,zaid.doctor626@gmail.com,ACC8991678061,zaid738@pay,Kolkata,West Bengal,Wallet,iPhone,Firefox,2217,31038,18,2019-07-15,2577
+USR0303,Ekbal Rau,Male,63,Doctor,152092,7786443370,ekbal.rau720@gmail.com,ACC8030335064,ekbal737@pay,Jaipur,Rajasthan,UPI,Windows Laptop,Safari,5274,94932,16,2025-07-07,393
+USR0304,Divya Jhaveri,Female,18,Designer,47910,7286896435,divya.jhaveri400@gmail.com,ACC1624173500,divya696@pay,Chennai,Tamil Nadu,UPI,iPhone,Edge,6645,66450,16,2024-12-23,589
+USR0305,Matthew Loyal,Female,27,Student,201035,8791565983,matthew.loyal218@gmail.com,ACC5433722159,matthew843@pay,Delhi,Delhi,Net Banking,Android,Firefox,6581,111877,14,2020-07-24,2202
+USR0306,Hitesh Pillay,Female,62,Student,120029,7467871172,hitesh.pillay436@gmail.com,ACC3371357111,hitesh23@pay,Kolkata,West Bengal,Credit Card,iPhone,Safari,7299,87588,18,2023-08-09,1091
+USR0307,Dalbir Agarwal,Male,64,Teacher,97116,6644744689,dalbir.agarwal191@gmail.com,ACC1319841893,dalbir995@pay,Ahmedabad,Gujarat,Debit Card,Tablet,Chrome,3590,21540,20,2018-10-05,2860
+USR0308,Faras Jha,Female,53,Business,54096,3050695278,faras.jha608@gmail.com,ACC8928570600,faras15@pay,Hyderabad,Telangana,Credit Card,MacBook,Firefox,827,7443,17,2022-05-21,1536
+USR0309,Janya Dixit,Male,58,Freelancer,241024,5301462809,janya.dixit512@gmail.com,ACC7657887271,janya84@pay,Delhi,Delhi,Credit Card,Tablet,Firefox,2006,14042,12,2019-11-21,2448
+USR0310,Xavier Korpal,Female,52,Designer,125753,3455320176,xavier.korpal367@gmail.com,ACC6720396142,xavier379@pay,Bangalore,Karnataka,Credit Card,iPhone,Safari,5098,25490,10,2021-05-05,1917
+USR0311,Gavin Maharaj,Female,46,Teacher,188365,4443612858,gavin.maharaj950@gmail.com,ACC3667740351,gavin991@pay,Kochi,Kerala,UPI,Windows Laptop,Safari,7022,56176,19,2024-12-22,590
+USR0312,Vihaan Varughese,Female,52,Business,26476,4423295823,vihaan.varughese851@gmail.com,ACC8604215219,vihaan536@pay,Jaipur,Rajasthan,Wallet,MacBook,Safari,859,12026,13,2020-11-05,2098
+USR0313,Aryan Ghosh,Female,50,Software Engineer,45154,7245228786,aryan.ghosh989@gmail.com,ACC3290101581,aryan651@pay,Hyderabad,Telangana,UPI,iPhone,Firefox,7585,136530,10,2025-11-03,274
+USR0314,Tristan Mand,Male,52,Lawyer,189492,3897167783,tristan.mand774@gmail.com,ACC3946534590,tristan34@pay,Bangalore,Karnataka,Net Banking,Windows Laptop,Chrome,1216,8512,8,2024-11-10,632
+USR0315,Neelima Shetty,Male,34,Designer,38465,0171427846,neelima.shetty851@gmail.com,ACC6405851839,neelima407@pay,Kochi,Kerala,Net Banking,MacBook,Safari,3091,15455,19,2022-01-27,1650
+USR0316,Waida Chanda,Male,52,Student,188145,5670655613,waida.chanda74@gmail.com,ACC3515167269,waida727@pay,Kochi,Kerala,UPI,Windows Laptop,Chrome,2874,40236,9,2022-06-11,1515
+USR0317,Gopal Madan,Female,46,Lawyer,123576,7418164593,gopal.madan495@gmail.com,ACC1944316108,gopal774@pay,Chennai,Tamil Nadu,Net Banking,Tablet,Edge,5694,51246,16,2025-06-13,417
+USR0318,Warinder Badami,Female,18,Designer,249314,6781363434,warinder.badami154@gmail.com,ACC1529290976,warinder15@pay,Jaipur,Rajasthan,Wallet,Tablet,Safari,4900,34300,16,2021-12-15,1693
+USR0319,Ansh Shroff,Male,65,Government Employee,75505,1981252740,ansh.shroff937@gmail.com,ACC3201397080,ansh174@pay,Kolkata,West Bengal,Debit Card,iPhone,Edge,2091,16728,12,2023-10-02,1037
+USR0320,Manya Aggarwal,Male,53,Accountant,188997,3019607062,manya.aggarwal84@gmail.com,ACC5584288132,manya110@pay,Jaipur,Rajasthan,Debit Card,Tablet,Safari,3210,51360,11,2024-05-19,807
+USR0321,Lajita Aurora,Male,24,Business,182402,7701565431,lajita.aurora931@gmail.com,ACC6126037320,lajita507@pay,Bangalore,Karnataka,Net Banking,Windows Laptop,Edge,6180,55620,18,2020-12-05,2068
+USR0322,Ayushman Parmar,Female,45,Doctor,21266,6645748864,ayushman.parmar262@gmail.com,ACC4374384508,ayushman739@pay,Pune,Maharashtra,Net Banking,Windows Laptop,Edge,1600,24000,22,2022-01-24,1653
+USR0323,Jason Balay,Female,46,Government Employee,223100,9824415810,jason.balay508@gmail.com,ACC3369412470,jason189@pay,Delhi,Delhi,Wallet,Android,Edge,7534,67806,13,2022-05-11,1546
+USR0324,Bachittar Balasubramanian,Female,64,Software Engineer,210690,7298858771,bachittar.balasubramanian923@gmail.com,ACC3534186676,bachittar938@pay,Bangalore,Karnataka,UPI,Tablet,Edge,4952,99040,11,2018-08-04,2922
+USR0325,Ucchal Sidhu,Female,43,Teacher,222413,2947583762,ucchal.sidhu760@gmail.com,ACC8976459315,ucchal147@pay,Kochi,Kerala,Net Banking,Tablet,Chrome,3750,60000,7,2022-04-16,1571
+USR0326,Elijah Lala,Male,57,Doctor,218497,4850314608,elijah.lala153@gmail.com,ACC2916502228,elijah193@pay,Jaipur,Rajasthan,Wallet,Tablet,Firefox,6528,130560,18,2026-06-13,52
+USR0327,Chaman Agrawal,Male,32,Accountant,80751,5960890133,chaman.agrawal280@gmail.com,ACC2586712032,chaman53@pay,Bangalore,Karnataka,Debit Card,Tablet,Edge,3679,73580,21,2022-07-27,1469
+USR0328,Varenya Kadakia,Male,20,Government Employee,47059,4395902465,varenya.kadakia658@gmail.com,ACC8858274691,varenya864@pay,Jaipur,Rajasthan,Credit Card,Tablet,Firefox,3585,60945,18,2024-01-28,919
+USR0329,Lekha Samra,Male,51,Business,118652,6105020770,lekha.samra538@gmail.com,ACC7038046278,lekha846@pay,Mumbai,Maharashtra,Credit Card,MacBook,Safari,7767,38835,11,2020-05-06,2281
+USR0330,Ucchal Datta,Female,28,Teacher,40208,2561334628,ucchal.datta668@gmail.com,ACC2206067650,ucchal163@pay,Jaipur,Rajasthan,Debit Card,iPhone,Edge,5431,43448,14,2021-11-21,1717
+USR0331,Chanchal Dhillon,Female,39,Software Engineer,146226,0327113294,chanchal.dhillon500@gmail.com,ACC8874242713,chanchal32@pay,Ahmedabad,Gujarat,Debit Card,Android,Firefox,5198,51980,11,2020-02-01,2376
+USR0332,Faqid Vala,Male,54,Doctor,34656,8595108050,faqid.vala274@gmail.com,ACC4961879157,faqid539@pay,Hyderabad,Telangana,Net Banking,Tablet,Chrome,7696,107744,9,2021-07-20,1841
+USR0333,Rehaan Madan,Male,46,Freelancer,143578,0685671427,rehaan.madan184@gmail.com,ACC4296344958,rehaan648@pay,Ahmedabad,Gujarat,Wallet,Windows Laptop,Firefox,6432,96480,21,2019-08-17,2544
+USR0334,Fitan Ghosh,Male,32,Lawyer,121046,8014505012,fitan.ghosh121@gmail.com,ACC1071135963,fitan545@pay,Hyderabad,Telangana,Wallet,MacBook,Firefox,5460,43680,12,2019-06-08,2614
+USR0335,Radha Vig,Female,57,Freelancer,30233,4158404433,radha.vig525@gmail.com,ACC4231461054,radha105@pay,Jaipur,Rajasthan,Net Banking,iPhone,Chrome,7847,141246,20,2018-09-10,2885
+USR0336,Oviya Chakraborty,Female,20,Designer,132448,3647516061,oviya.chakraborty970@gmail.com,ACC8740820392,oviya818@pay,Mumbai,Maharashtra,Net Banking,Windows Laptop,Chrome,3985,35865,15,2022-12-05,1338
+USR0337,Hiral Ramachandran,Female,32,Software Engineer,94256,5245556846,hiral.ramachandran907@gmail.com,ACC7630274264,hiral273@pay,Kochi,Kerala,Debit Card,Android,Chrome,5234,41872,7,2020-02-10,2367
+USR0338,Ekani Kadakia,Female,59,Teacher,200293,9618300228,ekani.kadakia428@gmail.com,ACC2555936898,ekani168@pay,Pune,Maharashtra,Net Banking,Tablet,Edge,2640,47520,18,2021-07-01,1860
+USR0339,Odika Trivedi,Female,61,Lawyer,217911,4779513282,odika.trivedi433@gmail.com,ACC7689680766,odika193@pay,Mumbai,Maharashtra,Credit Card,Tablet,Safari,2578,36092,18,2021-06-09,1882
+USR0340,Chatresh Apte,Female,65,Doctor,244132,5290648035,chatresh.apte775@gmail.com,ACC6281827528,chatresh811@pay,Bangalore,Karnataka,Debit Card,Android,Firefox,4664,79288,17,2025-08-31,338
+USR0341,Panini Bhatti,Male,28,Lawyer,186691,8624399721,panini.bhatti833@gmail.com,ACC5919148165,panini958@pay,Chennai,Tamil Nadu,Wallet,MacBook,Chrome,1024,13312,14,2018-11-24,2810
+USR0342,Triveni Bera,Female,23,Freelancer,29897,4937606397,triveni.bera963@gmail.com,ACC9523139706,triveni638@pay,Kolkata,West Bengal,Wallet,Windows Laptop,Chrome,6837,68370,22,2021-07-25,1836
+USR0343,Nitesh Contractor,Female,18,Teacher,242971,3490683677,nitesh.contractor302@gmail.com,ACC1836429847,nitesh812@pay,Jaipur,Rajasthan,Wallet,Tablet,Firefox,5539,55390,8,2021-01-07,2035
+USR0344,Kevin Bumb,Female,33,Student,61273,5888777482,kevin.bumb292@gmail.com,ACC8643636805,kevin371@pay,Bangalore,Karnataka,Net Banking,MacBook,Firefox,4741,23705,9,2021-06-16,1875
+USR0345,Janaki Sibal,Male,53,Business,210352,8912537429,janaki.sibal946@gmail.com,ACC7798642975,janaki365@pay,Jaipur,Rajasthan,Credit Card,iPhone,Firefox,4225,71825,7,2019-07-10,2582
+USR0346,Simon Radhakrishnan,Female,29,Lawyer,152707,9520397111,simon.radhakrishnan582@gmail.com,ACC9900829971,simon311@pay,Bangalore,Karnataka,Credit Card,Android,Edge,7677,99801,21,2018-12-01,2803
+USR0347,Gunbir Sinha,Female,54,Accountant,221842,2998611316,gunbir.sinha785@gmail.com,ACC8626138802,gunbir707@pay,Mumbai,Maharashtra,Net Banking,Tablet,Chrome,4448,35584,15,2026-06-01,64
+USR0348,Shivani Jaggi,Male,42,Teacher,197448,1156123709,shivani.jaggi829@gmail.com,ACC6651020291,shivani988@pay,Mumbai,Maharashtra,Credit Card,Tablet,Chrome,6241,81133,14,2021-08-04,1826
+USR0349,Neelima Mahal,Female,23,Lawyer,196605,9353762247,neelima.mahal87@gmail.com,ACC6061557739,neelima331@pay,Pune,Maharashtra,Credit Card,iPhone,Edge,1997,21967,22,2026-07-26,9
+USR0350,Yatin Dhaliwal,Male,33,Teacher,248784,0871942704,yatin.dhaliwal221@gmail.com,ACC1984438848,yatin864@pay,Delhi,Delhi,Debit Card,Tablet,Edge,1777,14216,10,2025-08-30,339
+USR0351,Frado Madan,Male,61,Accountant,180911,6817554157,frado.madan792@gmail.com,ACC5114549022,frado878@pay,Chennai,Tamil Nadu,Net Banking,Windows Laptop,Edge,4533,58929,22,2024-10-12,661
+USR0352,Tanvi Zacharia,Male,50,Business,124301,2130014517,tanvi.zacharia778@gmail.com,ACC3476758136,tanvi65@pay,Mumbai,Maharashtra,Wallet,MacBook,Safari,4929,29574,18,2022-05-13,1544
+USR0353,Oni Kapoor,Female,61,Doctor,139851,2381621166,oni.kapoor725@gmail.com,ACC7520641417,oni333@pay,Bangalore,Karnataka,UPI,Android,Firefox,3608,28864,17,2022-01-19,1658
+USR0354,Gautami Hora,Female,57,Business,69060,0473202560,gautami.hora279@gmail.com,ACC6313472215,gautami492@pay,Jaipur,Rajasthan,Wallet,Windows Laptop,Edge,2006,40120,20,2026-07-29,6
+USR0355,Aditya Tata,Male,44,Government Employee,115703,0670090622,aditya.tata296@gmail.com,ACC2935866295,aditya595@pay,Kolkata,West Bengal,Debit Card,Tablet,Firefox,7169,57352,15,2019-03-20,2694
+USR0356,Charvi Sankar,Male,53,Lawyer,244476,0488171854,charvi.sankar210@gmail.com,ACC5937271321,charvi835@pay,Kolkata,West Bengal,UPI,iPhone,Safari,4592,41328,17,2024-04-23,833
+USR0357,Lipika Deshmukh,Female,37,Business,167361,7323511945,lipika.deshmukh58@gmail.com,ACC2711123163,lipika717@pay,Kochi,Kerala,Debit Card,Android,Firefox,7166,93158,22,2024-04-24,832
+USR0358,Saumya Sethi,Male,46,Government Employee,88096,7555035367,saumya.sethi378@gmail.com,ACC6401844042,saumya30@pay,Pune,Maharashtra,Net Banking,Android,Edge,7605,83655,12,2025-01-20,561
+USR0359,Isha Behl,Female,40,Government Employee,196473,4062758977,isha.behl509@gmail.com,ACC5631725051,isha638@pay,Jaipur,Rajasthan,Credit Card,MacBook,Firefox,7612,76120,17,2025-01-12,569
+USR0360,Rajeshri Natarajan,Female,58,Freelancer,169851,0976179356,rajeshri.natarajan879@gmail.com,ACC4895849088,rajeshri91@pay,Kolkata,West Bengal,Debit Card,Windows Laptop,Firefox,3068,46020,16,2023-06-18,1143
+USR0361,Shivansh Pathak,Female,56,Lawyer,91106,1763858256,shivansh.pathak809@gmail.com,ACC9441870024,shivansh433@pay,Ahmedabad,Gujarat,Debit Card,iPhone,Chrome,1524,18288,15,2026-03-23,134
+USR0362,Adya Pandit,Male,31,Doctor,124083,4209740127,adya.pandit107@gmail.com,ACC9068916300,adya571@pay,Bangalore,Karnataka,UPI,Android,Safari,4792,33544,10,2021-01-28,2014
+USR0363,Chanchal Nadig,Female,57,Doctor,42101,3552511350,chanchal.nadig326@gmail.com,ACC1985076350,chanchal765@pay,Kolkata,West Bengal,Credit Card,MacBook,Firefox,1575,15750,7,2024-03-31,856
+USR0364,Ayaan Oommen,Male,60,Government Employee,245540,6840229714,ayaan.oommen894@gmail.com,ACC7340036327,ayaan901@pay,Pune,Maharashtra,Wallet,Windows Laptop,Safari,1606,16060,21,2022-01-07,1670
+USR0365,Ishita Deshpande,Female,51,Designer,101175,0161637702,ishita.deshpande503@gmail.com,ACC3317856944,ishita834@pay,Pune,Maharashtra,UPI,MacBook,Edge,3496,62928,15,2025-01-03,578
+USR0366,Arya Nadig,Male,37,Student,20024,7473336901,arya.nadig844@gmail.com,ACC5880373288,arya303@pay,Jaipur,Rajasthan,Net Banking,Tablet,Chrome,6134,122680,22,2025-09-28,310
+USR0367,Devansh Munshi,Female,18,Lawyer,229181,0899406962,devansh.munshi621@gmail.com,ACC9620935604,devansh392@pay,Delhi,Delhi,Debit Card,MacBook,Safari,3733,44796,12,2023-03-21,1232
+USR0368,Forum Dhar,Female,42,Teacher,88938,0360534350,forum.dhar442@gmail.com,ACC3685741915,forum539@pay,Bangalore,Karnataka,Wallet,Windows Laptop,Edge,5812,75556,20,2026-03-10,147
+USR0369,Sudiksha Palla,Male,22,Doctor,55815,0753211270,sudiksha.palla123@gmail.com,ACC8030400668,sudiksha642@pay,Delhi,Delhi,Net Banking,Windows Laptop,Safari,2038,30570,7,2019-06-27,2595
+USR0370,Pratyush Lal,Male,21,Designer,25801,2873010794,pratyush.lal114@gmail.com,ACC6506640008,pratyush138@pay,Hyderabad,Telangana,Net Banking,Android,Firefox,1238,11142,7,2021-03-22,1961
+USR0371,Indali Wali,Female,31,Government Employee,130164,2282551958,indali.wali814@gmail.com,ACC8728631945,indali390@pay,Delhi,Delhi,Net Banking,Android,Edge,1157,10413,8,2022-12-26,1317
+USR0372,Rachana Salvi,Female,43,Software Engineer,162394,0774493651,rachana.salvi195@gmail.com,ACC8909351013,rachana846@pay,Ahmedabad,Gujarat,Net Banking,Android,Chrome,6792,81504,19,2023-09-20,1049
+USR0373,Udyati Subramanian,Female,33,Student,72213,3561949453,udyati.subramanian762@gmail.com,ACC4311402472,udyati543@pay,Ahmedabad,Gujarat,Debit Card,MacBook,Safari,6082,85148,17,2023-07-30,1101
+USR0374,Upkaar Dalal,Male,58,Student,215225,4883800730,upkaar.dalal543@gmail.com,ACC5819561096,upkaar502@pay,Jaipur,Rajasthan,Credit Card,iPhone,Edge,7770,46620,13,2022-03-25,1593
+USR0375,Vedhika Bala,Male,33,Lawyer,105069,4125138844,vedhika.bala181@gmail.com,ACC8706848089,vedhika608@pay,Chennai,Tamil Nadu,UPI,MacBook,Firefox,573,3438,22,2020-10-17,2117
+USR0376,Odika Keer,Male,41,Software Engineer,85201,2535131233,odika.keer521@gmail.com,ACC9982501269,odika643@pay,Hyderabad,Telangana,Credit Card,Android,Chrome,3412,30708,10,2024-02-16,900
+USR0377,Zashil Bhagat,Male,49,Teacher,103031,0371186504,zashil.bhagat817@gmail.com,ACC9125201729,zashil760@pay,Jaipur,Rajasthan,Debit Card,Android,Safari,3434,30906,15,2026-07-08,27
+USR0378,Baljiwan Chaudhry,Male,49,Accountant,166544,1215747685,baljiwan.chaudhry565@gmail.com,ACC8288721755,baljiwan204@pay,Delhi,Delhi,Wallet,iPhone,Edge,3151,59869,15,2025-09-11,327
+USR0379,Chakradhar Seth,Male,22,Designer,60638,1634096897,chakradhar.seth312@gmail.com,ACC8814343168,chakradhar564@pay,Ahmedabad,Gujarat,Credit Card,MacBook,Chrome,6856,116552,12,2021-01-17,2025
+USR0380,Hemangini Sankaran,Male,57,Government Employee,223428,6131427508,hemangini.sankaran254@gmail.com,ACC9861985372,hemangini561@pay,Kochi,Kerala,Net Banking,iPhone,Safari,6772,60948,16,2023-11-05,1003
+USR0381,Arya Reddy,Female,44,Government Employee,48957,5663352538,arya.reddy545@gmail.com,ACC3829915449,arya54@pay,Bangalore,Karnataka,Debit Card,iPhone,Chrome,2155,17240,22,2025-06-03,427
+USR0382,Isaiah Atwal,Male,24,Student,169687,2048410033,isaiah.atwal683@gmail.com,ACC7830290429,isaiah60@pay,Kolkata,West Bengal,Credit Card,iPhone,Chrome,607,6677,22,2023-11-10,998
+USR0383,Oscar Lalla,Male,47,Student,114614,7987300006,oscar.lalla771@gmail.com,ACC4042699946,oscar853@pay,Jaipur,Rajasthan,Wallet,Windows Laptop,Chrome,6515,45605,16,2022-08-24,1441
+USR0384,Yug Das,Male,31,Designer,45459,8794929418,yug.das752@gmail.com,ACC2654984428,yug207@pay,Bangalore,Karnataka,Wallet,iPhone,Firefox,5074,91332,10,2025-01-26,555
+USR0385,Jairaj Dutt,Female,61,Accountant,204169,9766086037,jairaj.dutt914@gmail.com,ACC1447116404,jairaj821@pay,Kolkata,West Bengal,Debit Card,Tablet,Safari,4634,69510,12,2021-12-12,1696
+USR0386,Maanas Datta,Female,40,Government Employee,164200,1674594222,maanas.datta875@gmail.com,ACC6891490448,maanas792@pay,Pune,Maharashtra,Net Banking,Windows Laptop,Firefox,5113,56243,19,2023-06-14,1147
+USR0387,Jagat Jhaveri,Female,41,Accountant,137309,8137457644,jagat.jhaveri10@gmail.com,ACC4119491798,jagat301@pay,Kolkata,West Bengal,Wallet,Android,Firefox,7793,109102,7,2024-07-14,751
+USR0388,Hamsini Rao,Female,32,Teacher,244321,1830706635,hamsini.rao32@gmail.com,ACC8826879784,hamsini951@pay,Pune,Maharashtra,Wallet,Tablet,Firefox,1272,7632,21,2023-01-05,1307
+USR0389,Eesha Bajaj,Female,27,Doctor,89465,0010468493,eesha.bajaj920@gmail.com,ACC3500339713,eesha248@pay,Pune,Maharashtra,Credit Card,Windows Laptop,Chrome,5173,87941,13,2024-07-30,735
+USR0390,Zansi Gokhale,Male,64,Government Employee,227855,0039952482,zansi.gokhale187@gmail.com,ACC9999520085,zansi667@pay,Ahmedabad,Gujarat,Credit Card,Android,Safari,1142,6852,17,2020-07-16,2210
+USR0391,Matthew Sharma,Female,45,Lawyer,247496,8178851065,matthew.sharma900@gmail.com,ACC4308800114,matthew775@pay,Bangalore,Karnataka,Wallet,Android,Safari,943,13202,8,2021-12-25,1683
+USR0392,Kevin Luthra,Female,52,Freelancer,59211,9571390108,kevin.luthra524@gmail.com,ACC3996893560,kevin166@pay,Pune,Maharashtra,UPI,MacBook,Safari,6667,46669,14,2024-10-25,648
+USR0393,Simon Kala,Female,36,Lawyer,58800,2630668115,simon.kala354@gmail.com,ACC5649495861,simon595@pay,Hyderabad,Telangana,UPI,Tablet,Safari,2650,18550,19,2019-07-02,2590
+USR0394,Sachi Ramanathan,Female,62,Doctor,219762,5699142363,sachi.ramanathan502@gmail.com,ACC3402158803,sachi509@pay,Hyderabad,Telangana,Net Banking,Tablet,Firefox,5097,61164,14,2021-10-06,1763
+USR0395,Chandran Prakash,Male,35,Lawyer,104780,1434362543,chandran.prakash101@gmail.com,ACC7071288688,chandran384@pay,Kochi,Kerala,Credit Card,iPhone,Edge,3322,16610,16,2026-07-26,9
+USR0396,Daksha Bhasin,Male,40,Freelancer,235373,9613568582,daksha.bhasin648@gmail.com,ACC5921252890,daksha55@pay,Ahmedabad,Gujarat,Debit Card,iPhone,Edge,1777,12439,10,2024-06-23,772
+USR0397,Damyanti Sen,Male,33,Freelancer,58712,9729786316,damyanti.sen24@gmail.com,ACC4454359624,damyanti322@pay,Delhi,Delhi,Net Banking,MacBook,Chrome,3218,35398,13,2025-04-20,471
+USR0398,Amruta Bose,Male,52,Designer,216701,3076239976,amruta.bose571@gmail.com,ACC5373945362,amruta606@pay,Delhi,Delhi,Wallet,Android,Edge,1895,11370,16,2025-05-18,443
+USR0399,Balveer Subramaniam,Male,62,Freelancer,91114,5434816163,balveer.subramaniam486@gmail.com,ACC1035795037,balveer407@pay,Chennai,Tamil Nadu,Credit Card,Windows Laptop,Chrome,656,9184,19,2018-08-31,2895
+USR0400,Henry Kapur,Male,42,Designer,206040,7157121576,henry.kapur935@gmail.com,ACC6649840375,henry897@pay,Bangalore,Karnataka,Wallet,Tablet,Chrome,2027,22297,21,2018-10-23,2842
+USR0401,Samaksh Mohan,Male,20,Teacher,158783,6095389793,samaksh.mohan351@gmail.com,ACC7399212842,samaksh772@pay,Delhi,Delhi,Debit Card,Android,Edge,6105,97680,18,2025-10-10,298
+USR0402,Finn Sinha,Female,33,Designer,92319,9106293209,finn.sinha650@gmail.com,ACC5253570650,finn976@pay,Chennai,Tamil Nadu,Wallet,Windows Laptop,Firefox,1742,26130,19,2024-12-08,604
+USR0403,Yashvi Dhaliwal,Male,23,Lawyer,156503,2000147756,yashvi.dhaliwal903@gmail.com,ACC6271763012,yashvi256@pay,Kochi,Kerala,Wallet,iPhone,Safari,3059,45885,21,2018-12-06,2798
+USR0404,Nitesh Tak,Male,31,Doctor,172313,4630033680,nitesh.tak710@gmail.com,ACC4436425084,nitesh893@pay,Jaipur,Rajasthan,Debit Card,Windows Laptop,Firefox,4023,36207,12,2022-02-28,1618
+USR0405,Karan Radhakrishnan,Female,22,Designer,159712,0640904364,karan.radhakrishnan198@gmail.com,ACC4778016973,karan754@pay,Bangalore,Karnataka,UPI,Windows Laptop,Safari,3868,54152,21,2021-10-13,1756
+USR0406,Chandani Handa,Female,27,Teacher,47989,0549751636,chandani.handa199@gmail.com,ACC7944732371,chandani630@pay,Hyderabad,Telangana,Wallet,Tablet,Firefox,5385,64620,14,2026-01-18,198
+USR0407,Chasmum Bajwa,Male,40,Software Engineer,200392,2758337711,chasmum.bajwa147@gmail.com,ACC7892184524,chasmum739@pay,Ahmedabad,Gujarat,Credit Card,iPhone,Safari,4525,90500,11,2021-12-04,1704
+USR0408,Varenya Mangal,Male,30,Teacher,28448,3882665618,varenya.mangal792@gmail.com,ACC5161029102,varenya957@pay,Kolkata,West Bengal,Credit Card,MacBook,Firefox,6581,72391,13,2026-06-13,52
+USR0409,Harshil Balan,Male,29,Accountant,247312,8399106297,harshil.balan511@gmail.com,ACC8249315123,harshil897@pay,Kochi,Kerala,Net Banking,iPhone,Safari,3816,22896,19,2021-07-02,1859
+USR0410,Indali Bora,Female,43,Freelancer,214633,4062197994,indali.bora618@gmail.com,ACC9755342261,indali121@pay,Kochi,Kerala,Net Banking,MacBook,Chrome,7690,92280,19,2019-11-24,2445
+USR0411,Luke Deol,Male,53,Lawyer,155299,2623908048,luke.deol204@gmail.com,ACC6545573143,luke417@pay,Chennai,Tamil Nadu,Credit Card,Windows Laptop,Safari,1863,33534,16,2021-04-05,1947
+USR0412,Arin Kala,Male,62,Designer,57287,5148361110,arin.kala859@gmail.com,ACC8069952132,arin102@pay,Ahmedabad,Gujarat,Wallet,Android,Firefox,6879,61911,19,2021-07-30,1831
+USR0413,Eta Bora,Female,38,Accountant,26530,2398699281,eta.bora474@gmail.com,ACC2952849519,eta266@pay,Hyderabad,Telangana,Credit Card,iPhone,Chrome,1247,9976,21,2021-07-09,1852
+USR0414,Lopa Sehgal,Female,23,Designer,205408,8711444882,lopa.sehgal754@gmail.com,ACC5079161918,lopa397@pay,Kolkata,West Bengal,Wallet,MacBook,Chrome,6793,67930,17,2023-03-18,1235
+USR0415,Warda Mitra,Male,28,Doctor,66888,2921149373,warda.mitra439@gmail.com,ACC6618084394,warda757@pay,Chennai,Tamil Nadu,Net Banking,Windows Laptop,Firefox,1463,13167,13,2022-04-08,1579
+USR0416,Balhaar Behl,Male,57,Business,23200,4686669888,balhaar.behl519@gmail.com,ACC8968929797,balhaar566@pay,Ahmedabad,Gujarat,UPI,Tablet,Safari,2448,26928,22,2022-09-16,1418
+USR0417,Vedhika Mannan,Female,44,Accountant,40815,6346548247,vedhika.mannan624@gmail.com,ACC1028230917,vedhika913@pay,Kochi,Kerala,Wallet,Windows Laptop,Firefox,900,9000,11,2023-01-17,1295
+USR0418,Arunima Kunda,Male,59,Government Employee,29626,8996060155,arunima.kunda884@gmail.com,ACC9729229346,arunima601@pay,Hyderabad,Telangana,Wallet,Windows Laptop,Edge,1218,7308,10,2023-01-09,1303
+USR0419,Shivansh Chacko,Female,29,Doctor,196184,8105420174,shivansh.chacko635@gmail.com,ACC3414532686,shivansh999@pay,Delhi,Delhi,Net Banking,Tablet,Edge,793,5551,16,2018-12-23,2781
+USR0420,Dhruv Banerjee,Female,41,Lawyer,235027,2203578271,dhruv.banerjee786@gmail.com,ACC3364255319,dhruv309@pay,Bangalore,Karnataka,Net Banking,iPhone,Chrome,6190,80470,17,2020-08-03,2192
+USR0421,Harish Ahuja,Female,51,Teacher,202407,0903776849,harish.ahuja636@gmail.com,ACC1249900899,harish595@pay,Mumbai,Maharashtra,Wallet,Android,Safari,6431,90034,20,2022-03-02,1616
+USR0422,Yash Lall,Female,34,Designer,170770,3480734271,yash.lall372@gmail.com,ACC4981887252,yash639@pay,Kochi,Kerala,Wallet,MacBook,Safari,4534,45340,14,2026-02-25,160
+USR0423,Falak Dyal,Female,30,Student,50987,8027965575,falak.dyal486@gmail.com,ACC4642432004,falak828@pay,Chennai,Tamil Nadu,Wallet,MacBook,Safari,872,13080,18,2025-09-23,315
+USR0424,Frederick Sood,Male,18,Teacher,200883,4642539203,frederick.sood270@gmail.com,ACC4393863868,frederick325@pay,Delhi,Delhi,Credit Card,Tablet,Edge,6783,33915,10,2023-10-01,1038
+USR0425,Parth Konda,Female,39,Lawyer,209896,8693184414,parth.konda640@gmail.com,ACC5123653209,parth862@pay,Kochi,Kerala,Debit Card,iPhone,Edge,7330,109950,22,2023-10-05,1034
+USR0426,Reyansh Gulati,Female,20,Doctor,146221,4742216156,reyansh.gulati652@gmail.com,ACC9142951341,reyansh483@pay,Hyderabad,Telangana,Net Banking,Android,Edge,5128,76920,7,2025-04-08,483
+USR0427,Vasatika Pal,Male,54,Government Employee,229593,1994324090,vasatika.pal77@gmail.com,ACC5164457378,vasatika297@pay,Pune,Maharashtra,UPI,Windows Laptop,Safari,5632,56320,19,2019-06-30,2592
+USR0428,Sanaya Gara,Male,56,Software Engineer,246648,6038868382,sanaya.gara732@gmail.com,ACC8979273911,sanaya736@pay,Delhi,Delhi,UPI,Windows Laptop,Safari,1211,24220,14,2023-10-05,1034
+USR0429,Qadim Varghese,Female,46,Business,76659,0179550616,qadim.varghese319@gmail.com,ACC1751674031,qadim393@pay,Jaipur,Rajasthan,UPI,iPhone,Chrome,4135,20675,22,2025-11-10,267
+USR0430,Bhavna Narasimhan,Male,30,Government Employee,146739,8073993881,bhavna.narasimhan327@gmail.com,ACC8625857078,bhavna156@pay,Jaipur,Rajasthan,UPI,Tablet,Firefox,2180,13080,21,2024-07-05,760
+USR0431,Bhavika Das,Female,63,Designer,50365,9650450883,bhavika.das328@gmail.com,ACC5004358412,bhavika713@pay,Chennai,Tamil Nadu,Wallet,Android,Edge,4324,25944,10,2025-12-13,234
+USR0432,Lakshmi Arya,Female,19,Freelancer,218834,1565446902,lakshmi.arya664@gmail.com,ACC4831693156,lakshmi338@pay,Delhi,Delhi,Debit Card,iPhone,Edge,2766,41490,21,2021-08-11,1819
+USR0433,Oscar Rastogi,Male,35,Doctor,61286,6879447333,oscar.rastogi127@gmail.com,ACC3207873733,oscar221@pay,Delhi,Delhi,Wallet,Windows Laptop,Edge,2720,24480,16,2024-10-08,665
+USR0434,Chavvi Dhaliwal,Male,28,Software Engineer,101625,8111684249,chavvi.dhaliwal923@gmail.com,ACC2905452099,chavvi143@pay,Kochi,Kerala,UPI,MacBook,Chrome,1367,23239,8,2022-07-22,1474
+USR0435,Chatura Kar,Male,45,Lawyer,66919,2475685951,chatura.kar922@gmail.com,ACC8298719245,chatura641@pay,Kochi,Kerala,Credit Card,Windows Laptop,Edge,7196,79156,9,2021-03-10,1973
+USR0436,Krishna Shere,Female,54,Doctor,44357,4318452042,krishna.shere109@gmail.com,ACC7251686413,krishna710@pay,Ahmedabad,Gujarat,Net Banking,MacBook,Firefox,2333,20997,15,2024-05-07,819
+USR0437,Ranbir Devan,Female,43,Doctor,203399,5778753878,ranbir.devan817@gmail.com,ACC6689805567,ranbir509@pay,Pune,Maharashtra,UPI,Android,Safari,1424,22784,22,2022-02-03,1643
+USR0438,Baljiwan Wagle,Female,28,Business,221311,0360942965,baljiwan.wagle628@gmail.com,ACC3468224333,baljiwan530@pay,Pune,Maharashtra,UPI,MacBook,Chrome,3169,22183,16,2022-06-26,1500
+USR0439,Pranit Palan,Female,43,Freelancer,128381,9589080547,pranit.palan645@gmail.com,ACC7366750668,pranit77@pay,Mumbai,Maharashtra,Credit Card,iPhone,Safari,6925,124650,17,2019-04-12,2671
+USR0440,Xalak Sane,Male,29,Software Engineer,213820,8486485324,xalak.sane866@gmail.com,ACC3090061251,xalak616@pay,Kochi,Kerala,Wallet,MacBook,Edge,5047,40376,21,2019-06-17,2605
+USR0441,Anthony Choudhry,Male,37,Lawyer,38247,1589776390,anthony.choudhry121@gmail.com,ACC8816263800,anthony345@pay,Kochi,Kerala,Net Banking,Android,Chrome,2282,20538,7,2020-09-03,2161
+USR0442,Onkar Walla,Male,60,Doctor,138744,0600766986,onkar.walla308@gmail.com,ACC7777163837,onkar210@pay,Jaipur,Rajasthan,Debit Card,Windows Laptop,Edge,5171,72394,20,2025-12-17,230
+USR0443,Shaurya Mannan,Female,23,Freelancer,22128,2971756512,shaurya.mannan532@gmail.com,ACC2263513519,shaurya388@pay,Kochi,Kerala,Wallet,Android,Chrome,6261,100176,10,2021-04-09,1943
+USR0444,Aarav Kade,Female,19,Teacher,133171,6964589708,aarav.kade413@gmail.com,ACC7980242272,aarav738@pay,Kochi,Kerala,Net Banking,MacBook,Safari,4065,44715,12,2020-12-15,2058
+USR0445,Daksha Goswami,Female,26,Teacher,165600,5900505420,daksha.goswami873@gmail.com,ACC9265587451,daksha870@pay,Kolkata,West Bengal,Net Banking,iPhone,Edge,7649,68841,11,2022-01-03,1674
+USR0446,Varsha Nath,Male,22,Student,57747,6029639962,varsha.nath683@gmail.com,ACC5252952412,varsha96@pay,Ahmedabad,Gujarat,Debit Card,MacBook,Safari,7820,140760,12,2024-01-17,930
+USR0447,Bhavani Halder,Female,50,Lawyer,164716,7396426056,bhavani.halder403@gmail.com,ACC2526032931,bhavani200@pay,Ahmedabad,Gujarat,Net Banking,Tablet,Chrome,5234,104680,14,2022-11-28,1345
+USR0448,Indrajit Doctor,Female,44,Designer,171087,6558196498,indrajit.doctor44@gmail.com,ACC5201480686,indrajit591@pay,Pune,Maharashtra,Net Banking,Windows Laptop,Chrome,5253,105060,9,2022-05-16,1541
+USR0449,Yuvraj Chaudhary,Male,64,Designer,245273,3395652392,yuvraj.chaudhary486@gmail.com,ACC3220281423,yuvraj545@pay,Delhi,Delhi,Wallet,Android,Firefox,4370,30590,16,2025-09-21,317
+USR0450,Anusha Chahal,Male,39,Designer,224086,0677428075,anusha.chahal490@gmail.com,ACC9186444252,anusha597@pay,Chennai,Tamil Nadu,Credit Card,MacBook,Edge,7039,98546,16,2022-07-12,1484
+USR0451,Vidhi Dubey,Male,20,Freelancer,216457,8481556045,vidhi.dubey754@gmail.com,ACC2118594780,vidhi654@pay,Delhi,Delhi,Net Banking,Tablet,Firefox,5192,31152,16,2023-02-26,1255
+USR0452,Wyatt Sachar,Male,36,Accountant,41629,3816380366,wyatt.sachar527@gmail.com,ACC8661202977,wyatt268@pay,Hyderabad,Telangana,Debit Card,Tablet,Edge,2754,35802,7,2024-01-27,920
+USR0453,Saumya Nayar,Male,56,Doctor,175128,1216735691,saumya.nayar684@gmail.com,ACC7213328054,saumya837@pay,Hyderabad,Telangana,Debit Card,Windows Laptop,Firefox,4472,44720,8,2019-02-10,2732
+USR0454,Advika Comar,Female,23,Doctor,176118,6330390108,advika.comar867@gmail.com,ACC9562384841,advika798@pay,Hyderabad,Telangana,Net Banking,iPhone,Safari,6447,64470,13,2023-03-13,1240
+USR0455,Bimala Kanda,Female,21,Business,218045,4212073958,bimala.kanda63@gmail.com,ACC6014805529,bimala418@pay,Bangalore,Karnataka,Net Banking,Windows Laptop,Safari,6612,79344,19,2024-02-24,892
+USR0456,Neha Sunder,Female,48,Business,58050,3322032289,neha.sunder901@gmail.com,ACC2867169740,neha305@pay,Jaipur,Rajasthan,Net Banking,MacBook,Edge,4843,29058,10,2024-10-23,650
+USR0457,Tanvi Goswami,Female,45,Freelancer,190935,2239073123,tanvi.goswami353@gmail.com,ACC6456009141,tanvi831@pay,Delhi,Delhi,UPI,Windows Laptop,Safari,4277,51324,13,2022-07-19,1477
+USR0458,Rohan Saxena,Female,61,Doctor,102121,1851696072,rohan.saxena20@gmail.com,ACC3889662004,rohan861@pay,Jaipur,Rajasthan,UPI,Android,Safari,1300,10400,21,2020-08-24,2171
+USR0459,Advay Sura,Female,32,Business,86033,5727325207,advay.sura44@gmail.com,ACC9691727358,advay104@pay,Mumbai,Maharashtra,UPI,Tablet,Firefox,5410,43280,10,2022-12-14,1329
+USR0460,Teerth Tiwari,Male,56,Doctor,118555,9058504914,teerth.tiwari832@gmail.com,ACC5153944226,teerth927@pay,Kochi,Kerala,UPI,iPhone,Edge,2913,55347,9,2024-06-09,786
+USR0461,Zarna Gokhale,Female,35,Lawyer,201461,1461207678,zarna.gokhale273@gmail.com,ACC5612782269,zarna805@pay,Pune,Maharashtra,UPI,MacBook,Safari,3225,19350,15,2023-01-21,1291
+USR0462,Chavvi Dube,Female,29,Accountant,38192,2735226938,chavvi.dube960@gmail.com,ACC2686352103,chavvi670@pay,Ahmedabad,Gujarat,Net Banking,Android,Firefox,4928,88704,13,2023-11-03,1005
+USR0463,Fiyaz Dube,Male,46,Business,47076,3047115414,fiyaz.dube84@gmail.com,ACC9892353238,fiyaz755@pay,Chennai,Tamil Nadu,Credit Card,MacBook,Chrome,7844,156880,11,2023-06-18,1143
+USR0464,Karan Wagle,Male,20,Lawyer,89844,8767203094,karan.wagle726@gmail.com,ACC9605842084,karan734@pay,Hyderabad,Telangana,Net Banking,MacBook,Safari,3808,26656,14,2021-06-01,1890
+USR0465,Frederick Agarwal,Male,42,Accountant,51772,7984020863,frederick.agarwal558@gmail.com,ACC6836509775,frederick708@pay,Kochi,Kerala,Credit Card,MacBook,Chrome,5679,39753,18,2020-02-01,2376
+USR0466,Benjamin Rama,Female,23,Accountant,219348,1989946148,benjamin.rama673@gmail.com,ACC1872395778,benjamin577@pay,Delhi,Delhi,UPI,MacBook,Firefox,2948,50116,10,2023-06-26,1135
+USR0467,Tanay Goda,Female,49,Software Engineer,185882,0235937652,tanay.goda762@gmail.com,ACC1813743830,tanay46@pay,Ahmedabad,Gujarat,Debit Card,Android,Firefox,4507,76619,9,2020-08-28,2167
+USR0468,Ekapad Om,Female,49,Designer,238693,9952476441,ekapad.om999@gmail.com,ACC5277072865,ekapad47@pay,Ahmedabad,Gujarat,Credit Card,Android,Edge,6953,41718,19,2023-10-02,1037
+USR0469,Ucchal Hora,Male,31,Designer,140159,1874490629,ucchal.hora162@gmail.com,ACC1309381429,ucchal763@pay,Jaipur,Rajasthan,Debit Card,MacBook,Chrome,4360,26160,14,2021-12-04,1704
+USR0470,Ekansh Sarraf,Male,18,Doctor,185848,0992981542,ekansh.sarraf936@gmail.com,ACC4408903107,ekansh477@pay,Chennai,Tamil Nadu,Wallet,iPhone,Chrome,7199,57592,10,2023-12-23,955
+USR0471,Gopal Sekhon,Female,56,Freelancer,77821,5397399655,gopal.sekhon833@gmail.com,ACC6165304376,gopal355@pay,Bangalore,Karnataka,Net Banking,Windows Laptop,Chrome,6104,54936,17,2019-04-10,2673
+USR0472,Veda Ganguly,Male,20,Freelancer,65468,5160848712,veda.ganguly74@gmail.com,ACC5813565243,veda154@pay,Pune,Maharashtra,Net Banking,iPhone,Edge,5033,50330,21,2020-04-04,2313
+USR0473,Qadim Dora,Male,55,Student,54962,8066205193,qadim.dora820@gmail.com,ACC7925383538,qadim806@pay,Bangalore,Karnataka,Debit Card,Android,Safari,1161,5805,7,2022-05-08,1549
+USR0474,David Kale,Male,23,Freelancer,94378,3556432602,david.kale720@gmail.com,ACC8613098877,david718@pay,Kolkata,West Bengal,Debit Card,iPhone,Firefox,5741,74633,21,2019-12-22,2417
+USR0475,Frederick Bedi,Female,33,Doctor,180048,0331027897,frederick.bedi620@gmail.com,ACC5081499111,frederick652@pay,Chennai,Tamil Nadu,Credit Card,Windows Laptop,Safari,537,6444,13,2024-12-15,597
+USR0476,Tamanna Sarma,Male,51,Software Engineer,182246,3152108422,tamanna.sarma893@gmail.com,ACC6236751117,tamanna798@pay,Pune,Maharashtra,Debit Card,Windows Laptop,Chrome,2086,16688,11,2018-11-13,2821
+USR0477,Nathan Bhatt,Female,49,Doctor,61880,1977374776,nathan.bhatt65@gmail.com,ACC8064623490,nathan301@pay,Chennai,Tamil Nadu,Debit Card,MacBook,Edge,3238,61522,8,2024-10-07,666
+USR0478,Leela Kala,Male,65,Student,160865,7805574298,leela.kala171@gmail.com,ACC4373662535,leela506@pay,Hyderabad,Telangana,Wallet,Android,Chrome,7832,93984,21,2020-11-30,2073
+USR0479,Ria Brahmbhatt,Female,44,Teacher,215844,7183580092,ria.brahmbhatt245@gmail.com,ACC4345673352,ria343@pay,Pune,Maharashtra,Debit Card,Android,Firefox,6543,117774,13,2024-11-12,630
+USR0480,Upasna Bakshi,Female,32,Software Engineer,143467,2524031331,upasna.bakshi506@gmail.com,ACC2872026192,upasna231@pay,Kochi,Kerala,Wallet,MacBook,Firefox,3673,58768,11,2024-07-30,735
+USR0481,Isha Bhakta,Female,64,Teacher,185680,2188689709,isha.bhakta286@gmail.com,ACC6163456469,isha140@pay,Pune,Maharashtra,UPI,Tablet,Chrome,2798,25182,10,2023-12-06,972
+USR0482,David Kale,Female,47,Lawyer,64879,8206877885,david.kale235@gmail.com,ACC9102064850,david628@pay,Pune,Maharashtra,Debit Card,Tablet,Firefox,5235,62820,9,2021-04-19,1933
+USR0483,Yatan Kumar,Female,51,Accountant,246020,8624601969,yatan.kumar615@gmail.com,ACC7282518886,yatan24@pay,Mumbai,Maharashtra,Net Banking,iPhone,Firefox,3181,57258,14,2025-07-31,369
+USR0484,Jack Dani,Male,54,Student,129516,6415858778,jack.dani51@gmail.com,ACC9552454578,jack761@pay,Chennai,Tamil Nadu,Wallet,Android,Safari,4850,82450,22,2018-12-14,2790
+USR0485,Victor Chaudhary,Male,46,Accountant,83048,6643287512,victor.chaudhary581@gmail.com,ACC4234448365,victor719@pay,Bangalore,Karnataka,Net Banking,iPhone,Firefox,3436,48104,14,2020-06-28,2228
+USR0486,Rachit Kant,Male,19,Accountant,195383,1645846172,rachit.kant175@gmail.com,ACC8315637075,rachit888@pay,Delhi,Delhi,Wallet,Tablet,Chrome,4226,80294,11,2020-03-02,2346
+USR0487,Vamakshi Luthra,Female,29,Government Employee,184314,6810995788,vamakshi.luthra730@gmail.com,ACC3720442203,vamakshi891@pay,Ahmedabad,Gujarat,UPI,MacBook,Edge,4849,29094,16,2022-04-15,1572
+USR0488,Mason Joshi,Female,35,Freelancer,162196,0987195470,mason.joshi823@gmail.com,ACC3940614579,mason645@pay,Kochi,Kerala,Credit Card,Android,Edge,7774,46644,10,2019-10-06,2494
+USR0489,Kritika Buch,Female,41,Accountant,182302,8663901821,kritika.buch384@gmail.com,ACC2573817755,kritika673@pay,Chennai,Tamil Nadu,Wallet,Android,Firefox,1633,24495,14,2020-07-10,2216
+USR0490,Damini Bassi,Male,59,Accountant,213299,8093183593,damini.bassi902@gmail.com,ACC6263212814,damini371@pay,Kochi,Kerala,Credit Card,Tablet,Safari,2770,16620,9,2022-07-14,1482
+USR0491,Arunima Korpal,Female,40,Accountant,147461,1209504102,arunima.korpal549@gmail.com,ACC4562932351,arunima491@pay,Jaipur,Rajasthan,Wallet,Tablet,Edge,4202,67232,9,2022-08-13,1452
+USR0492,Nicholas Roy,Male,47,Software Engineer,41016,4407689906,nicholas.roy929@gmail.com,ACC6062958224,nicholas991@pay,Kolkata,West Bengal,UPI,Android,Firefox,2760,22080,11,2020-01-15,2393
+USR0493,Ekanta Nagy,Female,27,Teacher,156495,6005333714,ekanta.nagy310@gmail.com,ACC5001713266,ekanta495@pay,Chennai,Tamil Nadu,Credit Card,MacBook,Safari,6543,32715,16,2020-03-03,2345
+USR0494,Nihal Joshi,Male,22,Student,248535,7476200141,nihal.joshi864@gmail.com,ACC8063812593,nihal431@pay,Mumbai,Maharashtra,Wallet,Windows Laptop,Edge,4482,85158,21,2025-03-11,511
+USR0495,Nisha Contractor,Female,54,Doctor,226922,2872759522,nisha.contractor185@gmail.com,ACC8684846286,nisha242@pay,Delhi,Delhi,Net Banking,Windows Laptop,Edge,6805,40830,11,2023-08-08,1092
+USR0496,Tarak Dugar,Female,36,Accountant,63611,8640092868,tarak.dugar956@gmail.com,ACC7594134964,tarak196@pay,Kochi,Kerala,Debit Card,iPhone,Firefox,2448,19584,8,2019-10-10,2490
+USR0497,Ronith Mandal,Female,54,Doctor,135576,0910977814,ronith.mandal388@gmail.com,ACC1792406808,ronith585@pay,Delhi,Delhi,UPI,Windows Laptop,Edge,1711,27376,21,2023-12-10,968
+USR0498,Ubika Doctor,Male,52,Business,51847,1831867625,ubika.doctor424@gmail.com,ACC9293877846,ubika796@pay,Chennai,Tamil Nadu,Debit Card,MacBook,Edge,1778,8890,17,2025-08-13,356
+USR0499,Sachi Pradhan,Female,48,Business,217698,3108221448,sachi.pradhan692@gmail.com,ACC7193796102,sachi715@pay,Kochi,Kerala,UPI,MacBook,Chrome,1642,13136,16,2020-11-08,2095
+USR0500,Geetika Shan,Male,43,Freelancer,240430,5284624248,geetika.shan466@gmail.com,ACC2534993610,geetika344@pay,Mumbai,Maharashtra,UPI,Tablet,Firefox,5279,63348,15,2019-08-06,2555
+USR0501,Madhavi Garde,Male,19,Software Engineer,161141,6905382634,madhavi.garde703@gmail.com,ACC7493077954,madhavi209@pay,Ahmedabad,Gujarat,Net Banking,Windows Laptop,Chrome,7941,127056,19,2025-09-04,334
+USR0502,Amol Bala,Male,63,Lawyer,116896,6485626699,amol.bala391@gmail.com,ACC5347326358,amol363@pay,Kolkata,West Bengal,Credit Card,Windows Laptop,Safari,7662,53634,13,2026-06-14,51
+USR0503,Wyatt Gupta,Female,65,Lawyer,230681,1902454052,wyatt.gupta305@gmail.com,ACC9150660834,wyatt756@pay,Ahmedabad,Gujarat,Net Banking,iPhone,Chrome,1676,18436,16,2022-02-25,1621
+USR0504,Abdul Bahl,Female,51,Government Employee,37331,3459649578,abdul.bahl784@gmail.com,ACC2613930214,abdul16@pay,Kochi,Kerala,Net Banking,Windows Laptop,Safari,1932,36708,11,2023-11-13,995
+USR0505,Gunbir Srinivasan,Male,29,Lawyer,95881,4693771421,gunbir.srinivasan512@gmail.com,ACC8843676736,gunbir864@pay,Jaipur,Rajasthan,Wallet,Windows Laptop,Safari,5081,96539,14,2024-12-08,604
+USR0506,Aarna Lad,Male,18,Doctor,88859,4937995726,aarna.lad988@gmail.com,ACC8028975243,aarna137@pay,Delhi,Delhi,Credit Card,MacBook,Firefox,4529,54348,7,2018-10-01,2864
+USR0507,Tristan Buch,Male,35,Accountant,37491,4375629217,tristan.buch773@gmail.com,ACC8240940498,tristan720@pay,Kochi,Kerala,UPI,Windows Laptop,Chrome,7424,96512,12,2026-05-27,69
+USR0508,Timothy Bora,Male,27,Government Employee,140859,4827842399,timothy.bora375@gmail.com,ACC1701406202,timothy289@pay,Hyderabad,Telangana,Credit Card,MacBook,Edge,899,12586,16,2024-09-12,691
+USR0509,Sneha Issac,Male,50,Teacher,220918,9999746700,sneha.issac793@gmail.com,ACC9995846146,sneha780@pay,Hyderabad,Telangana,Debit Card,Tablet,Edge,7647,114705,16,2019-02-05,2737
+USR0510,Ekansh Wason,Female,61,Government Employee,45122,1859755830,ekansh.wason603@gmail.com,ACC1617262027,ekansh150@pay,Jaipur,Rajasthan,Wallet,Windows Laptop,Edge,6879,137580,20,2022-08-03,1462
+USR0511,Yagnesh Ray,Female,28,Software Engineer,77114,8790493837,yagnesh.ray525@gmail.com,ACC5784450697,yagnesh481@pay,Hyderabad,Telangana,UPI,Android,Firefox,642,12840,18,2020-02-13,2364
+USR0512,Qadim Narain,Female,62,Government Employee,56441,1940887937,qadim.narain921@gmail.com,ACC9461564269,qadim186@pay,Ahmedabad,Gujarat,Credit Card,Android,Chrome,2321,20889,11,2021-09-27,1772
+USR0513,Vedika Koshy,Male,37,Doctor,75008,3255562850,vedika.koshy90@gmail.com,ACC1479843174,vedika29@pay,Hyderabad,Telangana,Net Banking,MacBook,Chrome,2108,16864,8,2021-02-13,1998
+USR0514,Vinaya Dalal,Male,48,Software Engineer,86325,5638267591,vinaya.dalal77@gmail.com,ACC3584676841,vinaya611@pay,Chennai,Tamil Nadu,Debit Card,iPhone,Edge,739,5173,11,2024-10-07,666
+USR0515,Amruta Shankar,Female,55,Government Employee,112327,0205131050,amruta.shankar885@gmail.com,ACC3449142215,amruta111@pay,Hyderabad,Telangana,Wallet,Android,Firefox,6363,69993,16,2024-09-17,686
+USR0516,Sai Sama,Male,52,Student,210145,9797209836,sai.sama956@gmail.com,ACC8334756553,sai385@pay,Bangalore,Karnataka,Wallet,iPhone,Safari,6017,48136,12,2021-10-09,1760
+USR0517,Hemang Nazareth,Female,42,Lawyer,76170,5405353152,hemang.nazareth243@gmail.com,ACC2750534060,hemang789@pay,Jaipur,Rajasthan,Credit Card,Android,Safari,1403,12627,22,2025-03-25,497
+USR0518,Mekhala Gade,Female,63,Business,166048,8839916391,mekhala.gade94@gmail.com,ACC6704212255,mekhala128@pay,Chennai,Tamil Nadu,Net Banking,Windows Laptop,Safari,5418,75852,21,2024-02-17,899
+USR0519,Parth Anne,Male,53,Lawyer,96176,3720301392,parth.anne203@gmail.com,ACC4679815234,parth926@pay,Kolkata,West Bengal,Net Banking,Windows Laptop,Firefox,604,12080,10,2024-03-01,886
+USR0520,Imaran Anand,Female,46,Designer,192634,1175180688,imaran.anand132@gmail.com,ACC5910726286,imaran420@pay,Bangalore,Karnataka,Wallet,Android,Firefox,1030,16480,13,2023-12-23,955
+USR0521,Nakul Balay,Female,30,Freelancer,241257,4451419611,nakul.balay135@gmail.com,ACC7438628899,nakul793@pay,Kolkata,West Bengal,Wallet,Tablet,Edge,6695,113815,18,2021-02-10,2001
+USR0522,Anjali Shetty,Female,60,Freelancer,126022,1054334491,anjali.shetty533@gmail.com,ACC2197826153,anjali796@pay,Ahmedabad,Gujarat,Net Banking,Android,Chrome,2553,51060,22,2025-01-01,580
+USR0523,Akshay Manne,Male,58,Doctor,27791,3880347639,akshay.manne765@gmail.com,ACC5588007201,akshay704@pay,Bangalore,Karnataka,UPI,iPhone,Safari,5452,81780,11,2026-07-02,33
+USR0524,Triveni Wali,Female,57,Freelancer,45253,1626070879,triveni.wali686@gmail.com,ACC8591664389,triveni821@pay,Bangalore,Karnataka,Net Banking,iPhone,Edge,5923,118460,22,2026-01-17,199
+USR0525,Bhavani Doshi,Female,52,Government Employee,232200,9423087982,bhavani.doshi569@gmail.com,ACC4281204295,bhavani450@pay,Jaipur,Rajasthan,UPI,MacBook,Safari,3076,52292,21,2024-01-28,919
+USR0526,Elijah Tiwari,Female,20,Student,66365,7617204659,elijah.tiwari685@gmail.com,ACC4032501215,elijah513@pay,Jaipur,Rajasthan,Net Banking,iPhone,Edge,6363,108171,22,2018-08-28,2898
+USR0527,Vedant Mahal,Male,54,Accountant,193035,2091244731,vedant.mahal711@gmail.com,ACC7312821876,vedant585@pay,Jaipur,Rajasthan,Debit Card,Tablet,Chrome,3706,48178,22,2021-07-05,1856
+USR0528,Omya Roy,Female,57,Government Employee,220925,7181976527,omya.roy338@gmail.com,ACC1263813981,omya614@pay,Delhi,Delhi,UPI,iPhone,Edge,3357,16785,17,2018-09-06,2889
+USR0529,Arya Tailor,Female,24,Lawyer,110477,0847944485,arya.tailor431@gmail.com,ACC2508689990,arya687@pay,Pune,Maharashtra,Debit Card,iPhone,Firefox,5809,81326,9,2020-11-25,2078
+USR0530,Guneet Sankar,Male,37,Software Engineer,108498,8052847721,guneet.sankar30@gmail.com,ACC7607449891,guneet48@pay,Hyderabad,Telangana,Net Banking,MacBook,Safari,2684,13420,22,2019-05-19,2634
+USR0531,Tamanna Bhakta,Male,38,Lawyer,169514,7762396918,tamanna.bhakta340@gmail.com,ACC3459034771,tamanna837@pay,Kolkata,West Bengal,Net Banking,Android,Firefox,3252,65040,17,2021-07-16,1845
+USR0532,Ronith Sengupta,Male,57,Business,115245,0917542548,ronith.sengupta216@gmail.com,ACC4380781824,ronith870@pay,Kolkata,West Bengal,Wallet,iPhone,Edge,2672,16032,16,2025-08-22,347
+USR0533,Alka Walla,Female,32,Freelancer,214743,4443175372,alka.walla744@gmail.com,ACC9996812354,alka354@pay,Bangalore,Karnataka,Credit Card,Android,Safari,3998,43978,18,2019-02-09,2733
+USR0534,Laksh Chaudhari,Male,59,Business,152288,9031332551,laksh.chaudhari453@gmail.com,ACC2345840745,laksh434@pay,Delhi,Delhi,Net Banking,Windows Laptop,Safari,6001,60010,7,2018-12-02,2802
+USR0535,Ganga Mukherjee,Male,54,Accountant,75824,5089176228,ganga.mukherjee284@gmail.com,ACC3691907159,ganga544@pay,Ahmedabad,Gujarat,Debit Card,Windows Laptop,Safari,1710,20520,11,2024-06-10,785
+USR0536,Forum Karan,Female,45,Lawyer,103533,2704812677,forum.karan659@gmail.com,ACC7066376657,forum853@pay,Bangalore,Karnataka,Credit Card,iPhone,Edge,6126,73512,19,2019-08-15,2546
+USR0537,Indrajit Narula,Male,25,Doctor,70309,5267979814,indrajit.narula261@gmail.com,ACC6628728894,indrajit507@pay,Chennai,Tamil Nadu,Wallet,MacBook,Safari,5799,34794,13,2020-04-12,2305
+USR0538,Dalaja Karpe,Male,35,Doctor,27639,0685484495,dalaja.karpe818@gmail.com,ACC8746137515,dalaja684@pay,Delhi,Delhi,Wallet,iPhone,Chrome,6418,128360,7,2024-07-04,761
+USR0539,Manan Palla,Male,23,Government Employee,177705,1586555491,manan.palla897@gmail.com,ACC9397041061,manan928@pay,Delhi,Delhi,Credit Card,Android,Safari,7379,66411,14,2023-08-06,1094
+USR0540,Ronith Nagarajan,Male,54,Designer,51625,8822563897,ronith.nagarajan690@gmail.com,ACC6376474657,ronith915@pay,Jaipur,Rajasthan,UPI,iPhone,Chrome,6833,102495,17,2023-07-29,1102
+USR0541,Chaitanya Dubey,Female,65,Teacher,130852,1036173603,chaitanya.dubey157@gmail.com,ACC1458762697,chaitanya229@pay,Mumbai,Maharashtra,Credit Card,MacBook,Safari,2583,15498,22,2024-07-04,761
+USR0542,Pranit Dewan,Female,62,Software Engineer,102965,3206562905,pranit.dewan443@gmail.com,ACC5917357577,pranit496@pay,Jaipur,Rajasthan,Credit Card,Windows Laptop,Chrome,5787,34722,8,2021-05-26,1896
+USR0543,Aadi Merchant,Male,34,Designer,120844,6364782905,aadi.merchant664@gmail.com,ACC4723534498,aadi888@pay,Delhi,Delhi,Net Banking,MacBook,Chrome,7952,135184,15,2023-06-01,1160
+USR0544,Ishwar Sahota,Female,23,Teacher,97967,3197313122,ishwar.sahota890@gmail.com,ACC4823580587,ishwar947@pay,Mumbai,Maharashtra,Net Banking,Windows Laptop,Safari,6966,41796,15,2022-10-08,1396
+USR0545,Isha Acharya,Male,49,Accountant,213184,7682760189,isha.acharya958@gmail.com,ACC8907736885,isha744@pay,Kolkata,West Bengal,Net Banking,Android,Firefox,6221,80873,9,2019-09-07,2523
+USR0546,Megha Dhar,Female,44,Freelancer,211163,1576400344,megha.dhar765@gmail.com,ACC6698426649,megha721@pay,Jaipur,Rajasthan,UPI,Android,Firefox,5662,107578,11,2019-05-23,2630
+USR0547,Abeer Sekhon,Male,43,Teacher,184704,9273777418,abeer.sekhon331@gmail.com,ACC3473082326,abeer123@pay,Delhi,Delhi,Debit Card,iPhone,Firefox,7438,133884,17,2021-03-27,1956
+USR0548,Kiaan Mangal,Female,48,Doctor,88335,0276107711,kiaan.mangal713@gmail.com,ACC2210310334,kiaan96@pay,Hyderabad,Telangana,Net Banking,Windows Laptop,Firefox,3723,63291,14,2019-08-05,2556
+USR0549,Aarush Bali,Male,19,Designer,189635,0652206100,aarush.bali651@gmail.com,ACC2986099771,aarush278@pay,Kochi,Kerala,Debit Card,Android,Safari,5562,100116,15,2023-08-16,1084
+USR0550,Om Ray,Male,23,Government Employee,64596,0524130521,om.ray130@gmail.com,ACC9650557648,om548@pay,Kochi,Kerala,Net Banking,MacBook,Safari,1470,17640,13,2021-01-14,2028
+USR0551,Meghana Sami,Male,35,Business,215675,0223273913,meghana.sami401@gmail.com,ACC5854169162,meghana886@pay,Ahmedabad,Gujarat,Debit Card,Tablet,Firefox,7250,101500,13,2024-07-31,734
+USR0552,Girindra Viswanathan,Female,29,Lawyer,227739,3401302625,girindra.viswanathan39@gmail.com,ACC2124420145,girindra642@pay,Hyderabad,Telangana,Net Banking,iPhone,Edge,5275,100225,9,2022-08-31,1434
+USR0553,Pavani Rajagopalan,Male,48,Doctor,248443,4110124469,pavani.rajagopalan719@gmail.com,ACC7859904332,pavani84@pay,Pune,Maharashtra,UPI,Tablet,Chrome,926,13890,14,2026-06-17,48
+USR0554,Chameli Barad,Female,40,Freelancer,195843,1437753833,chameli.barad736@gmail.com,ACC1195472006,chameli269@pay,Kochi,Kerala,Wallet,Tablet,Safari,2978,50626,18,2025-02-06,544
+USR0555,Caleb Seshadri,Male,53,Student,172171,4461518073,caleb.seshadri276@gmail.com,ACC3010409194,caleb101@pay,Hyderabad,Telangana,Credit Card,Tablet,Safari,1661,21593,10,2023-04-06,1216
+USR0556,Sudiksha Ghosh,Female,20,Doctor,150865,2155619432,sudiksha.ghosh775@gmail.com,ACC7142172699,sudiksha934@pay,Delhi,Delhi,Credit Card,Tablet,Edge,4735,71025,20,2024-04-23,833
+USR0557,Timothy Dayal,Male,38,Accountant,220192,5768390490,timothy.dayal579@gmail.com,ACC8723296882,timothy64@pay,Hyderabad,Telangana,Debit Card,iPhone,Chrome,2383,23830,8,2022-02-08,1638
+USR0558,Aarav Dixit,Female,34,Doctor,205063,2277536707,aarav.dixit456@gmail.com,ACC3125625600,aarav462@pay,Ahmedabad,Gujarat,Credit Card,Tablet,Safari,4249,84980,10,2019-06-05,2617
+USR0559,Panini Rajagopalan,Male,25,Government Employee,44530,5600401850,panini.rajagopalan899@gmail.com,ACC2220270866,panini864@pay,Mumbai,Maharashtra,Debit Card,Tablet,Edge,5114,56254,7,2019-11-06,2463
+USR0560,Geetika Krishnan,Male,44,Software Engineer,84528,7150142642,geetika.krishnan703@gmail.com,ACC2411574423,geetika301@pay,Ahmedabad,Gujarat,UPI,MacBook,Edge,5336,42688,17,2026-01-01,215
+USR0561,Azaan Shetty,Male,19,Software Engineer,140647,2793284109,azaan.shetty474@gmail.com,ACC3826115582,azaan347@pay,Ahmedabad,Gujarat,UPI,Tablet,Safari,3161,28449,13,2021-07-10,1851
+USR0562,Thomas Nanda,Male,59,Business,104717,4121222165,thomas.nanda771@gmail.com,ACC9893692242,thomas984@pay,Chennai,Tamil Nadu,Wallet,MacBook,Chrome,3767,48971,12,2021-11-01,1737
+USR0563,Lila Lala,Male,43,Software Engineer,25377,4042113369,lila.lala176@gmail.com,ACC7023245961,lila672@pay,Mumbai,Maharashtra,Debit Card,Android,Edge,4521,81378,16,2019-12-19,2420
+USR0564,Sarthak Mangat,Male,40,Software Engineer,238117,7900185900,sarthak.mangat534@gmail.com,ACC6153407834,sarthak466@pay,Pune,Maharashtra,Net Banking,MacBook,Edge,5112,92016,9,2025-03-17,505
+USR0565,Jatin Prabhu,Female,41,Freelancer,68852,7456190557,jatin.prabhu655@gmail.com,ACC2829729510,jatin51@pay,Kolkata,West Bengal,Wallet,Windows Laptop,Safari,6041,72492,11,2022-05-22,1535
+USR0566,Vanya Sem,Female,51,Designer,42012,9865999549,vanya.sem489@gmail.com,ACC2878427679,vanya938@pay,Delhi,Delhi,Net Banking,Windows Laptop,Firefox,1546,21644,14,2026-03-03,154
+USR0567,Shivansh Handa,Female,36,Freelancer,32511,9135991494,shivansh.handa88@gmail.com,ACC4939782161,shivansh535@pay,Jaipur,Rajasthan,UPI,Tablet,Safari,3883,31064,21,2020-06-03,2253
+USR0568,Arjun Rao,Female,40,Business,173503,5389301539,arjun.rao797@gmail.com,ACC3162277965,arjun126@pay,Bangalore,Karnataka,Net Banking,iPhone,Firefox,7405,125885,8,2022-04-18,1569
+USR0569,Madhavi Sura,Male,44,Business,102299,6252254086,madhavi.sura751@gmail.com,ACC8173711511,madhavi648@pay,Kochi,Kerala,Credit Card,Windows Laptop,Firefox,2229,22290,9,2025-08-08,361
+USR0570,Gavin Kothari,Female,61,Software Engineer,133717,9687396593,gavin.kothari28@gmail.com,ACC5320080287,gavin129@pay,Jaipur,Rajasthan,UPI,iPhone,Safari,4269,72573,22,2019-05-31,2622
+USR0571,Ishwar Wadhwa,Female,57,Freelancer,114562,5948259186,ishwar.wadhwa833@gmail.com,ACC2299900457,ishwar138@pay,Kolkata,West Bengal,Debit Card,Android,Firefox,1416,7080,13,2023-01-09,1303
+USR0572,Girik Edwin,Male,31,Accountant,190032,8493281407,girik.edwin675@gmail.com,ACC6333405410,girik872@pay,Hyderabad,Telangana,Wallet,iPhone,Chrome,2965,56335,11,2026-07-14,21
+USR0573,Meghana Koshy,Female,45,Student,50528,0181751053,meghana.koshy934@gmail.com,ACC8312603168,meghana996@pay,Hyderabad,Telangana,Net Banking,MacBook,Chrome,7543,143317,14,2022-07-01,1495
+USR0574,Gautami Chadha,Male,36,Freelancer,237435,7440370400,gautami.chadha62@gmail.com,ACC2433875095,gautami115@pay,Kolkata,West Bengal,Net Banking,MacBook,Safari,6538,91532,8,2024-10-27,646
+USR0575,Girish De,Female,43,Accountant,154573,7980534428,girish.de752@gmail.com,ACC3095520970,girish741@pay,Kochi,Kerala,UPI,Tablet,Chrome,3957,59355,9,2022-05-15,1542
+USR0576,Ryan Chandra,Female,59,Lawyer,144082,9658850914,ryan.chandra516@gmail.com,ACC8070288470,ryan469@pay,Bangalore,Karnataka,Net Banking,Android,Firefox,2859,31449,22,2026-05-22,74
+USR0577,Sara Viswanathan,Female,46,Teacher,153073,1516044163,sara.viswanathan611@gmail.com,ACC8116581001,sara144@pay,Mumbai,Maharashtra,Credit Card,MacBook,Safari,7324,117184,22,2019-05-05,2648
+USR0578,Jeet Borde,Male,57,Teacher,94044,2303266911,jeet.borde693@gmail.com,ACC3073995755,jeet187@pay,Bangalore,Karnataka,Debit Card,iPhone,Safari,1326,23868,22,2020-05-29,2258
+USR0579,Tara Chada,Female,33,Teacher,165969,2927210229,tara.chada28@gmail.com,ACC6415129153,tara703@pay,Chennai,Tamil Nadu,Debit Card,iPhone,Chrome,7109,49763,17,2024-03-31,856
+USR0580,Ekansh Ray,Female,25,Freelancer,79425,5216182682,ekansh.ray585@gmail.com,ACC6257450736,ekansh274@pay,Bangalore,Karnataka,Credit Card,Windows Laptop,Chrome,6808,88504,11,2024-08-28,706
+USR0581,Kamala Saini,Male,63,Student,134773,7685017697,kamala.saini995@gmail.com,ACC5068981129,kamala853@pay,Ahmedabad,Gujarat,Wallet,Android,Chrome,1868,14944,13,2020-05-29,2258
+USR0582,Zayan Bakshi,Female,28,Business,205640,3564731745,zayan.bakshi790@gmail.com,ACC7467776722,zayan760@pay,Ahmedabad,Gujarat,UPI,iPhone,Edge,3241,29169,10,2019-08-12,2549
+USR0583,Isha Memon,Male,46,Lawyer,221646,7945422433,isha.memon261@gmail.com,ACC7329335818,isha303@pay,Chennai,Tamil Nadu,Wallet,iPhone,Chrome,2679,42864,20,2026-06-06,59
+USR0584,Chanakya Pathak,Female,58,Teacher,59743,3592149421,chanakya.pathak441@gmail.com,ACC4381065875,chanakya151@pay,Jaipur,Rajasthan,Net Banking,MacBook,Safari,7856,149264,18,2025-09-05,333
+USR0585,Mugdha Kunda,Male,46,Doctor,221890,8247494849,mugdha.kunda744@gmail.com,ACC5052915145,mugdha96@pay,Chennai,Tamil Nadu,Credit Card,Windows Laptop,Safari,6827,68270,20,2024-02-08,908
+USR0586,Barkha Singh,Male,43,Student,193061,3023329962,barkha.singh934@gmail.com,ACC3467704659,barkha656@pay,Hyderabad,Telangana,Wallet,Windows Laptop,Safari,3793,53102,17,2023-08-20,1080
+USR0587,David Kala,Female,18,Business,158357,3603419983,david.kala952@gmail.com,ACC7029868098,david669@pay,Kochi,Kerala,Debit Card,Tablet,Safari,6213,99408,19,2023-11-07,1001
+USR0588,Devika Patla,Male,37,Software Engineer,29691,6968060112,devika.patla352@gmail.com,ACC4779036992,devika542@pay,Jaipur,Rajasthan,Wallet,Windows Laptop,Firefox,1260,17640,17,2022-05-22,1535
+USR0589,Janani Joshi,Male,19,Student,228823,3844871830,janani.joshi616@gmail.com,ACC2111065867,janani862@pay,Jaipur,Rajasthan,Credit Card,MacBook,Chrome,6496,38976,18,2025-07-05,395
+USR0590,Xiti Om,Female,58,Designer,112923,1493727008,xiti.om58@gmail.com,ACC5043037541,xiti469@pay,Bangalore,Karnataka,Credit Card,Tablet,Chrome,4212,63180,14,2020-08-02,2193
+USR0591,Nitesh Bhargava,Male,40,Business,94589,2132174491,nitesh.bhargava698@gmail.com,ACC4167591308,nitesh117@pay,Kochi,Kerala,Credit Card,Tablet,Firefox,7240,115840,21,2025-04-06,485
+USR0592,Jasmit Kapur,Male,27,Lawyer,237169,3525099182,jasmit.kapur93@gmail.com,ACC1396204771,jasmit445@pay,Kolkata,West Bengal,Debit Card,MacBook,Firefox,4154,29078,18,2025-08-04,365
+USR0593,Karan Dhar,Female,55,Designer,156038,6280542874,karan.dhar902@gmail.com,ACC9475140777,karan853@pay,Kolkata,West Bengal,Debit Card,iPhone,Firefox,4471,84949,11,2025-04-01,490
+USR0594,Warda Dhar,Male,62,Teacher,139388,8020798351,warda.dhar43@gmail.com,ACC4206177239,warda976@pay,Ahmedabad,Gujarat,Wallet,Windows Laptop,Chrome,5428,97704,10,2023-06-15,1146
+USR0595,Yoshita Ahluwalia,Male,41,Freelancer,95914,2695286298,yoshita.ahluwalia545@gmail.com,ACC1658437876,yoshita390@pay,Chennai,Tamil Nadu,Credit Card,Windows Laptop,Edge,2908,58160,7,2021-04-17,1935
+USR0596,Chakradhar Kade,Male,27,Freelancer,130561,2996418850,chakradhar.kade969@gmail.com,ACC9135754389,chakradhar920@pay,Chennai,Tamil Nadu,Credit Card,iPhone,Firefox,7210,144200,7,2024-10-31,642
+USR0597,Nachiket Yogi,Male,53,Government Employee,37711,0537357825,nachiket.yogi437@gmail.com,ACC6915482645,nachiket864@pay,Chennai,Tamil Nadu,Wallet,iPhone,Firefox,4635,88065,21,2020-09-20,2144
+USR0598,Tara Dubey,Female,27,Government Employee,43413,0100686295,tara.dubey690@gmail.com,ACC7973263691,tara406@pay,Kochi,Kerala,Debit Card,MacBook,Edge,4931,29586,21,2024-09-03,700
+USR0599,Dhruv Banerjee,Female,59,Software Engineer,247004,4086150517,dhruv.banerjee734@gmail.com,ACC9696467331,dhruv655@pay,Hyderabad,Telangana,Credit Card,Tablet,Chrome,5774,40418,13,2019-03-04,2710
+USR0600,Isaiah Chada,Male,54,Designer,69648,2057721118,isaiah.chada524@gmail.com,ACC4852002754,isaiah133@pay,Ahmedabad,Gujarat,Wallet,iPhone,Chrome,2752,30272,14,2023-10-17,1022
+USR0601,Nihal Muni,Female,23,Designer,179083,6318552765,nihal.muni421@gmail.com,ACC3529276291,nihal513@pay,Pune,Maharashtra,UPI,Windows Laptop,Safari,1978,35604,7,2025-01-23,558
+USR0602,Saumya Jani,Female,42,Business,43861,6985748686,saumya.jani111@gmail.com,ACC3326924276,saumya302@pay,Bangalore,Karnataka,Debit Card,iPhone,Edge,6793,47551,11,2025-07-13,387
+USR0603,Siddharth Mukherjee,Female,44,Doctor,35443,7217594220,siddharth.mukherjee994@gmail.com,ACC2397112924,siddharth37@pay,Kochi,Kerala,UPI,Windows Laptop,Safari,1308,19620,11,2022-09-04,1430
+USR0604,Kashish Cherian,Female,38,Business,118438,5615999064,kashish.cherian63@gmail.com,ACC1869986241,kashish780@pay,Bangalore,Karnataka,Wallet,Tablet,Firefox,4538,77146,10,2020-08-16,2179
+USR0605,Manya Ravi,Female,21,Government Employee,141850,1648080182,manya.ravi426@gmail.com,ACC5576108188,manya39@pay,Jaipur,Rajasthan,Net Banking,iPhone,Chrome,2704,21632,14,2021-05-31,1891
+USR0606,Neelima Pall,Male,37,Freelancer,126626,1203896525,neelima.pall95@gmail.com,ACC3149340695,neelima811@pay,Ahmedabad,Gujarat,Debit Card,Windows Laptop,Firefox,6906,82872,20,2025-01-23,558
+USR0607,Jagrati Pradhan,Female,20,Student,233029,3693798813,jagrati.pradhan994@gmail.com,ACC5175059577,jagrati10@pay,Ahmedabad,Gujarat,UPI,MacBook,Edge,5397,70161,19,2022-07-08,1488
+USR0608,Wazir Mody,Female,58,Teacher,173395,7695181636,wazir.mody298@gmail.com,ACC1195355435,wazir766@pay,Jaipur,Rajasthan,Wallet,Tablet,Chrome,2962,20734,19,2022-05-11,1546
+USR0609,Anmol Raju,Male,26,Designer,93258,4571071768,anmol.raju225@gmail.com,ACC7239376653,anmol261@pay,Kolkata,West Bengal,Credit Card,Windows Laptop,Firefox,4266,63990,7,2025-06-13,417
+USR0610,Chanchal Dash,Male,59,Student,179589,2920393425,chanchal.dash14@gmail.com,ACC4871676777,chanchal698@pay,Ahmedabad,Gujarat,Debit Card,MacBook,Safari,6746,114682,9,2023-10-23,1016
+USR0611,Amaira Aggarwal,Male,52,Student,238125,8841326397,amaira.aggarwal698@gmail.com,ACC5825033229,amaira842@pay,Ahmedabad,Gujarat,Net Banking,Tablet,Edge,3668,36680,7,2022-08-31,1434
+USR0612,Omisha Bhargava,Male,47,Government Employee,70591,1240639204,omisha.bhargava19@gmail.com,ACC2536829594,omisha102@pay,Ahmedabad,Gujarat,Wallet,Windows Laptop,Firefox,2419,48380,18,2026-07-04,31
+USR0613,Riya Sandal,Male,35,Accountant,204561,3691794073,riya.sandal224@gmail.com,ACC1030646323,riya850@pay,Kochi,Kerala,Net Banking,Android,Edge,5162,103240,12,2023-11-10,998
+USR0614,Ayaan Sandhu,Male,60,Freelancer,196206,4195826328,ayaan.sandhu588@gmail.com,ACC1753890647,ayaan612@pay,Kochi,Kerala,Debit Card,Android,Firefox,2626,31512,15,2026-02-05,180
+USR0615,Lajita Mahajan,Male,61,Student,201662,7862349927,lajita.mahajan639@gmail.com,ACC2949597857,lajita970@pay,Jaipur,Rajasthan,Net Banking,Android,Edge,4043,72774,15,2021-12-24,1684
+USR0616,Benjamin Vasa,Male,61,Designer,142312,1994013520,benjamin.vasa380@gmail.com,ACC4097617527,benjamin58@pay,Ahmedabad,Gujarat,Credit Card,MacBook,Safari,3090,15450,19,2024-02-01,915
+USR0617,Mitesh Bahri,Male,39,Software Engineer,169899,8205593680,mitesh.bahri765@gmail.com,ACC8256557537,mitesh990@pay,Chennai,Tamil Nadu,UPI,iPhone,Firefox,1847,27705,16,2021-04-15,1937
+USR0618,Maanas Kumer,Male,58,Software Engineer,27306,4092096790,maanas.kumer452@gmail.com,ACC4470587327,maanas616@pay,Ahmedabad,Gujarat,Credit Card,Windows Laptop,Firefox,1383,27660,14,2024-01-31,916
+USR0619,Kevin Narasimhan,Female,21,Government Employee,156229,4177756914,kevin.narasimhan976@gmail.com,ACC1536125194,kevin72@pay,Mumbai,Maharashtra,UPI,MacBook,Edge,7791,54537,11,2024-11-19,623
+USR0620,Tarak Nadig,Male,46,Student,99028,2608313700,tarak.nadig651@gmail.com,ACC2854734360,tarak114@pay,Kochi,Kerala,UPI,Tablet,Chrome,2915,49555,19,2024-07-10,755
+USR0621,Ekiya Ram,Male,57,Lawyer,81108,0811994069,ekiya.ram816@gmail.com,ACC5340522065,ekiya403@pay,Kochi,Kerala,Net Banking,MacBook,Chrome,3282,16410,21,2019-11-16,2453
+USR0622,Bimala Lad,Female,55,Teacher,48313,9364867280,bimala.lad22@gmail.com,ACC9880035879,bimala818@pay,Bangalore,Karnataka,Debit Card,Tablet,Firefox,5721,74373,18,2021-05-14,1908
+USR0623,Shivani Sarin,Female,48,Freelancer,136555,0831128419,shivani.sarin258@gmail.com,ACC1189282613,shivani140@pay,Hyderabad,Telangana,Credit Card,Tablet,Safari,4703,75248,16,2020-11-14,2089
+USR0624,Liam Mani,Male,27,Accountant,100917,4820425840,liam.mani361@gmail.com,ACC6545077429,liam18@pay,Kochi,Kerala,Wallet,Tablet,Firefox,969,11628,8,2021-05-14,1908
+USR0625,Abeer Jani,Female,40,Teacher,72526,7689489673,abeer.jani814@gmail.com,ACC5588759271,abeer203@pay,Mumbai,Maharashtra,Net Banking,MacBook,Edge,7479,112185,16,2024-02-27,889
+USR0626,Arjun Sinha,Female,39,Doctor,47485,1407810749,arjun.sinha907@gmail.com,ACC5476181191,arjun234@pay,Ahmedabad,Gujarat,UPI,iPhone,Firefox,4321,47531,14,2020-03-21,2327
+USR0627,Quincy Mohan,Female,65,Government Employee,231621,3967093974,quincy.mohan220@gmail.com,ACC2719329399,quincy855@pay,Kolkata,West Bengal,UPI,Windows Laptop,Chrome,1104,17664,7,2018-10-09,2856
+USR0628,Upadhriti Chaudry,Male,27,Business,135450,7624039974,upadhriti.chaudry656@gmail.com,ACC8582905353,upadhriti54@pay,Mumbai,Maharashtra,UPI,iPhone,Firefox,2827,28270,14,2024-12-06,606
+USR0629,Saanvi Nigam,Female,64,Doctor,109081,9891847113,saanvi.nigam261@gmail.com,ACC1766829608,saanvi32@pay,Jaipur,Rajasthan,Debit Card,Windows Laptop,Chrome,671,6039,19,2019-10-20,2480
+USR0630,Garima Magar,Male,39,Teacher,99972,1761939457,garima.magar255@gmail.com,ACC4053473268,garima131@pay,Ahmedabad,Gujarat,Debit Card,iPhone,Firefox,2070,35190,18,2018-10-26,2839
+USR0631,Harshil Raghavan,Female,56,Lawyer,186761,2629045809,harshil.raghavan953@gmail.com,ACC7594786332,harshil818@pay,Mumbai,Maharashtra,Debit Card,Windows Laptop,Firefox,936,12168,11,2021-04-01,1951
+USR0632,Quincy Gera,Female,31,Software Engineer,225695,1917604821,quincy.gera819@gmail.com,ACC1278627610,quincy530@pay,Ahmedabad,Gujarat,Net Banking,Tablet,Edge,4584,87096,12,2022-07-13,1483
+USR0633,Yashodhara Mander,Female,63,Government Employee,157750,2730933009,yashodhara.mander742@gmail.com,ACC9399890415,yashodhara495@pay,Ahmedabad,Gujarat,Credit Card,Tablet,Safari,5727,34362,13,2022-11-26,1347
+USR0634,Raksha Bose,Male,30,Accountant,246274,0868479985,raksha.bose415@gmail.com,ACC6233820216,raksha445@pay,Mumbai,Maharashtra,Net Banking,Tablet,Firefox,7401,118416,15,2020-02-16,2361
+USR0635,Harshil Magar,Male,26,Software Engineer,97345,9674173549,harshil.magar541@gmail.com,ACC2510002930,harshil607@pay,Ahmedabad,Gujarat,UPI,MacBook,Edge,3990,75810,21,2022-07-30,1466
+USR0636,Advik Thakkar,Female,44,Government Employee,230896,1574193328,advik.thakkar334@gmail.com,ACC6467576990,advik35@pay,Ahmedabad,Gujarat,Debit Card,MacBook,Firefox,2675,18725,18,2019-06-27,2595
+USR0637,Harrison Suresh,Male,36,Designer,154425,3554202906,harrison.suresh669@gmail.com,ACC1978142717,harrison131@pay,Jaipur,Rajasthan,UPI,Windows Laptop,Chrome,4973,54703,17,2022-07-31,1465
+USR0638,Anjali Aggarwal,Male,61,Government Employee,85542,6869861816,anjali.aggarwal773@gmail.com,ACC2178816289,anjali732@pay,Delhi,Delhi,Wallet,iPhone,Edge,569,7966,16,2018-08-16,2910
+USR0639,Bishakha Ravel,Female,43,Lawyer,235446,1115154975,bishakha.ravel785@gmail.com,ACC3814528616,bishakha493@pay,Kochi,Kerala,Wallet,iPhone,Safari,2364,28368,13,2020-07-22,2204
+USR0640,Ganga Andra,Female,32,Designer,173879,9373156577,ganga.andra785@gmail.com,ACC8792778835,ganga358@pay,Jaipur,Rajasthan,UPI,Windows Laptop,Firefox,4012,72216,13,2023-06-27,1134
+USR0641,Isaac Lanka,Female,46,Designer,27891,8718930906,isaac.lanka152@gmail.com,ACC5846207636,isaac975@pay,Pune,Maharashtra,UPI,MacBook,Edge,3283,39396,20,2020-12-20,2053
+USR0642,Dakshesh Kalita,Female,61,Lawyer,219974,3910523118,dakshesh.kalita316@gmail.com,ACC9689748933,dakshesh814@pay,Jaipur,Rajasthan,UPI,iPhone,Firefox,3205,54485,19,2022-10-26,1378
+USR0643,Netra Dayal,Male,43,Software Engineer,160113,5552820202,netra.dayal202@gmail.com,ACC3039154519,netra346@pay,Kolkata,West Bengal,Wallet,MacBook,Edge,1263,12630,10,2024-02-03,913
+USR0644,Omkaar Malhotra,Male,20,Freelancer,148087,9390043099,omkaar.malhotra201@gmail.com,ACC1854693080,omkaar943@pay,Chennai,Tamil Nadu,Net Banking,Windows Laptop,Firefox,2409,33726,9,2026-03-07,150
+USR0645,Finn Savant,Female,21,Government Employee,155929,0651364680,finn.savant185@gmail.com,ACC9202582000,finn410@pay,Chennai,Tamil Nadu,Debit Card,Android,Firefox,4894,88092,22,2020-06-07,2249
+USR0646,Lohit Bal,Male,42,Teacher,54060,3296047079,lohit.bal327@gmail.com,ACC3039164674,lohit628@pay,Mumbai,Maharashtra,Wallet,Windows Laptop,Firefox,4616,87704,15,2022-05-25,1532
+USR0647,Gavin Maharaj,Male,18,Doctor,136845,9415031711,gavin.maharaj854@gmail.com,ACC4468468836,gavin548@pay,Bangalore,Karnataka,Credit Card,Tablet,Safari,4269,81111,8,2023-02-24,1257
+USR0648,Xavier Subramaniam,Male,36,Accountant,110906,9060543445,xavier.subramaniam410@gmail.com,ACC6047128978,xavier265@pay,Delhi,Delhi,Debit Card,Tablet,Safari,4250,72250,12,2023-01-03,1309
+USR0649,Wyatt Raval,Male,43,Student,82834,0805370683,wyatt.raval290@gmail.com,ACC7604532467,wyatt692@pay,Hyderabad,Telangana,UPI,iPhone,Safari,3869,30952,18,2019-10-04,2496
+USR0650,Gopal Lanka,Male,24,Designer,220943,7405045393,gopal.lanka429@gmail.com,ACC2936755326,gopal268@pay,Pune,Maharashtra,Debit Card,Tablet,Chrome,4286,21430,9,2024-07-12,753
+USR0651,Amaira Basu,Female,42,Government Employee,215548,9193341240,amaira.basu886@gmail.com,ACC6129924345,amaira48@pay,Kolkata,West Bengal,UPI,Windows Laptop,Chrome,6308,56772,17,2020-09-07,2157
+USR0652,Amruta Ray,Female,49,Accountant,37887,6676742755,amruta.ray571@gmail.com,ACC3821890600,amruta740@pay,Bangalore,Karnataka,Net Banking,iPhone,Safari,7220,93860,12,2022-04-24,1563
+USR0653,Ria Kala,Male,19,Freelancer,46349,1206373160,ria.kala311@gmail.com,ACC8479455700,ria182@pay,Hyderabad,Telangana,UPI,Android,Edge,1757,33383,18,2022-04-28,1559
+USR0654,Jeremiah More,Male,31,Student,196958,2744800127,jeremiah.more231@gmail.com,ACC5736461116,jeremiah716@pay,Jaipur,Rajasthan,Credit Card,MacBook,Chrome,5400,27000,8,2021-12-28,1680
+USR0655,Kavya Padmanabhan,Female,30,Teacher,118210,3297253544,kavya.padmanabhan214@gmail.com,ACC1392501735,kavya441@pay,Mumbai,Maharashtra,UPI,Android,Edge,7221,79431,9,2018-09-20,2875
+USR0656,Banjeet Lal,Male,24,Doctor,209795,4470240753,banjeet.lal55@gmail.com,ACC6700029200,banjeet585@pay,Hyderabad,Telangana,Debit Card,Tablet,Firefox,4937,83929,20,2025-11-18,259
+USR0657,Jatin Peri,Male,32,Teacher,47757,5605902337,jatin.peri341@gmail.com,ACC1745698933,jatin421@pay,Pune,Maharashtra,Credit Card,Android,Safari,2242,42598,14,2021-07-15,1846
+USR0658,Darpan Warrior,Male,60,Business,190379,6261720642,darpan.warrior387@gmail.com,ACC1188716346,darpan916@pay,Kochi,Kerala,Debit Card,MacBook,Edge,6787,135740,10,2023-03-20,1233
+USR0659,Vrishti Jani,Male,34,Software Engineer,177251,4089411897,vrishti.jani656@gmail.com,ACC8285619035,vrishti704@pay,Pune,Maharashtra,Debit Card,Windows Laptop,Firefox,5704,85560,22,2024-04-07,849
+USR0660,Zayyan Borra,Male,39,Student,179523,5206128714,zayyan.borra469@gmail.com,ACC5245063515,zayyan248@pay,Kochi,Kerala,UPI,Tablet,Chrome,3030,36360,20,2020-02-16,2361
+USR0661,Aditya Sant,Male,57,Software Engineer,35708,3603278866,aditya.sant393@gmail.com,ACC7436981246,aditya216@pay,Hyderabad,Telangana,Debit Card,MacBook,Firefox,5759,34554,14,2024-09-01,702
+USR0662,Azad Agrawal,Female,65,Government Employee,55197,6838992442,azad.agrawal335@gmail.com,ACC4266296360,azad543@pay,Delhi,Delhi,Net Banking,Windows Laptop,Chrome,2376,35640,17,2019-02-06,2736
+USR0663,Abdul Sharma,Male,31,Designer,34175,1159617915,abdul.sharma830@gmail.com,ACC4090238502,abdul632@pay,Mumbai,Maharashtra,Net Banking,Tablet,Edge,2003,38057,7,2020-03-18,2330
+USR0664,Anika Prashad,Male,49,Software Engineer,70453,6769377599,anika.prashad659@gmail.com,ACC5260661552,anika970@pay,Chennai,Tamil Nadu,Debit Card,iPhone,Chrome,1922,21142,14,2021-06-27,1864
+USR0665,Widisha Choudhry,Male,45,Accountant,101648,5339585392,widisha.choudhry748@gmail.com,ACC1848411797,widisha444@pay,Hyderabad,Telangana,Debit Card,Tablet,Firefox,2983,41762,21,2023-03-24,1229
+USR0666,Rajeshri Nagarajan,Male,35,Accountant,40975,8931835679,rajeshri.nagarajan417@gmail.com,ACC2622284281,rajeshri492@pay,Pune,Maharashtra,Net Banking,MacBook,Safari,6728,60552,22,2025-04-23,468
+USR0667,Xavier Bajaj,Male,42,Lawyer,243882,1463609823,xavier.bajaj787@gmail.com,ACC3307246477,xavier576@pay,Bangalore,Karnataka,Debit Card,Windows Laptop,Safari,4298,60172,21,2024-11-18,624
+USR0668,Oeshi Nori,Female,42,Designer,178865,0271399574,oeshi.nori83@gmail.com,ACC2431229740,oeshi742@pay,Ahmedabad,Gujarat,Net Banking,iPhone,Firefox,2053,10265,7,2025-09-10,328
+USR0669,Leela Dasgupta,Female,49,Lawyer,129004,6236012866,leela.dasgupta770@gmail.com,ACC6897612430,leela511@pay,Kolkata,West Bengal,Credit Card,Tablet,Chrome,3848,23088,10,2020-03-23,2325
+USR0670,Abdul Shenoy,Female,54,Doctor,70915,7537321827,abdul.shenoy990@gmail.com,ACC8396987201,abdul531@pay,Kolkata,West Bengal,Net Banking,Windows Laptop,Chrome,5832,99144,20,2020-03-02,2346
+USR0671,Hemal Mittal,Male,33,Accountant,29045,9222574248,hemal.mittal656@gmail.com,ACC9711293507,hemal691@pay,Pune,Maharashtra,Debit Card,Windows Laptop,Safari,6079,54711,15,2022-04-15,1572
+USR0672,Ayushman Loyal,Male,56,Freelancer,193697,5568143207,ayushman.loyal22@gmail.com,ACC9986384992,ayushman738@pay,Hyderabad,Telangana,Net Banking,MacBook,Chrome,4747,52217,20,2021-12-18,1690
+USR0673,Dalbir Mukhopadhyay,Male,45,Business,201360,4014721104,dalbir.mukhopadhyay522@gmail.com,ACC1381708520,dalbir661@pay,Delhi,Delhi,Wallet,Windows Laptop,Firefox,2703,29733,19,2022-10-09,1395
+USR0674,Logan Khare,Female,18,Doctor,234011,7318803680,logan.khare11@gmail.com,ACC1416056343,logan802@pay,Ahmedabad,Gujarat,Net Banking,Tablet,Safari,5861,82054,20,2023-07-23,1108
+USR0675,Waida Rao,Male,29,Government Employee,68863,1405813178,waida.rao212@gmail.com,ACC3089378173,waida524@pay,Hyderabad,Telangana,UPI,MacBook,Firefox,2020,22220,8,2024-07-08,757
+USR0676,Ayaan Buch,Male,30,Business,248488,5537650647,ayaan.buch461@gmail.com,ACC3681869740,ayaan899@pay,Kolkata,West Bengal,Debit Card,Android,Edge,1202,20434,10,2020-11-27,2076
+USR0677,Gaurang Bera,Female,22,Government Employee,27776,2722339882,gaurang.bera250@gmail.com,ACC7347519787,gaurang698@pay,Kochi,Kerala,UPI,Android,Chrome,2679,13395,8,2024-09-24,679
+USR0678,Aashi Padmanabhan,Male,31,Designer,227562,0066423913,aashi.padmanabhan394@gmail.com,ACC8565000642,aashi964@pay,Chennai,Tamil Nadu,Net Banking,MacBook,Edge,5451,98118,17,2025-02-08,542
+USR0679,Aishani Manne,Female,61,Government Employee,102634,7573576760,aishani.manne973@gmail.com,ACC7006388717,aishani635@pay,Mumbai,Maharashtra,UPI,Windows Laptop,Edge,7104,56832,7,2024-06-26,769
+USR0680,Dalbir Anand,Female,62,Lawyer,210112,6851533994,dalbir.anand36@gmail.com,ACC3585180243,dalbir899@pay,Hyderabad,Telangana,Wallet,Windows Laptop,Firefox,3518,66842,22,2021-05-23,1899
+USR0681,Zaid Venkataraman,Female,60,Teacher,20820,8050245684,zaid.venkataraman27@gmail.com,ACC8017020095,zaid904@pay,Pune,Maharashtra,UPI,Windows Laptop,Safari,2413,48260,19,2022-02-23,1623
+USR0682,Benjamin Vig,Male,40,Lawyer,144812,6832278245,benjamin.vig761@gmail.com,ACC6947922164,benjamin631@pay,Bangalore,Karnataka,Debit Card,iPhone,Chrome,1547,30940,9,2026-01-03,213
+USR0683,Ansh Munshi,Female,61,Designer,249319,7214327367,ansh.munshi182@gmail.com,ACC9145012813,ansh987@pay,Ahmedabad,Gujarat,UPI,MacBook,Firefox,2493,27423,12,2021-04-11,1941
+USR0684,Raghav Wadhwa,Male,24,Lawyer,207633,0136109541,raghav.wadhwa174@gmail.com,ACC2204127801,raghav746@pay,Chennai,Tamil Nadu,Credit Card,MacBook,Chrome,5951,53559,22,2025-11-28,249
+USR0685,Yauvani Kaur,Male,62,Government Employee,248573,2548814613,yauvani.kaur964@gmail.com,ACC9867677356,yauvani361@pay,Mumbai,Maharashtra,Net Banking,MacBook,Safari,7122,85464,14,2022-08-16,1449
+USR0686,Wriddhish Chakrabarti,Female,25,Business,42984,9183824245,wriddhish.chakrabarti101@gmail.com,ACC5045892188,wriddhish596@pay,Bangalore,Karnataka,Credit Card,iPhone,Edge,3614,18070,16,2022-10-13,1391
+USR0687,Peter Thaman,Male,55,Designer,69770,3094753089,peter.thaman443@gmail.com,ACC4421221951,peter542@pay,Kolkata,West Bengal,Wallet,Tablet,Firefox,1373,23341,7,2024-08-27,707
+USR0688,Zinal Agrawal,Female,38,Doctor,233948,9397962966,zinal.agrawal867@gmail.com,ACC6235153847,zinal706@pay,Delhi,Delhi,Net Banking,iPhone,Edge,1694,10164,17,2025-02-11,539
+USR0689,Ikshita Kashyap,Female,50,Software Engineer,91683,3145548752,ikshita.kashyap499@gmail.com,ACC6221413488,ikshita308@pay,Kochi,Kerala,Net Banking,Android,Edge,1750,19250,14,2022-10-29,1375
+USR0690,Pahal Swaminathan,Male,29,Accountant,210682,7686161098,pahal.swaminathan316@gmail.com,ACC4644358139,pahal32@pay,Kolkata,West Bengal,Wallet,MacBook,Edge,3960,79200,18,2026-01-09,207
+USR0691,Yauvani Dara,Female,43,Software Engineer,158371,5492155339,yauvani.dara299@gmail.com,ACC2691239817,yauvani144@pay,Delhi,Delhi,Credit Card,Tablet,Chrome,7461,104454,21,2022-05-31,1526
+USR0692,Rachita Lad,Male,54,Doctor,135837,7227205978,rachita.lad308@gmail.com,ACC4853522356,rachita224@pay,Ahmedabad,Gujarat,Debit Card,iPhone,Chrome,3467,27736,11,2026-01-19,197
+USR0693,Manan Batta,Female,45,Doctor,34766,4421177567,manan.batta374@gmail.com,ACC9478947301,manan193@pay,Bangalore,Karnataka,UPI,Android,Edge,5361,96498,11,2025-03-07,515
+USR0694,Zayan Kara,Female,33,Student,51143,7397883901,zayan.kara416@gmail.com,ACC7393599544,zayan714@pay,Mumbai,Maharashtra,Wallet,iPhone,Safari,6855,47985,21,2025-07-14,386
+USR0695,Sneha Konda,Female,35,Accountant,116291,5019293420,sneha.konda132@gmail.com,ACC1500911893,sneha134@pay,Chennai,Tamil Nadu,Net Banking,Tablet,Firefox,688,13760,15,2021-10-16,1753
+USR0696,Kamya Suresh,Male,55,Doctor,120652,2406681184,kamya.suresh670@gmail.com,ACC8313199661,kamya315@pay,Ahmedabad,Gujarat,Wallet,iPhone,Chrome,3164,22148,12,2024-05-09,817
+USR0697,Damyanti Mittal,Female,62,Student,123231,7921176975,damyanti.mittal847@gmail.com,ACC3098363243,damyanti541@pay,Jaipur,Rajasthan,Wallet,Tablet,Chrome,6672,73392,10,2024-07-28,737
+USR0698,Vamakshi Kapur,Male,56,Doctor,21395,1352190590,vamakshi.kapur467@gmail.com,ACC8733144348,vamakshi135@pay,Jaipur,Rajasthan,UPI,iPhone,Firefox,5846,58460,9,2022-09-20,1414
+USR0699,Ikbal Sheth,Female,20,Software Engineer,52693,2133996941,ikbal.sheth315@gmail.com,ACC3338296830,ikbal443@pay,Jaipur,Rajasthan,UPI,iPhone,Edge,878,12292,21,2022-03-20,1598
+USR0700,Gaurangi Comar,Male,54,Accountant,202216,6795448944,gaurangi.comar545@gmail.com,ACC9576178517,gaurangi630@pay,Pune,Maharashtra,Wallet,Tablet,Firefox,6135,49080,8,2021-02-25,1986
+USR0701,Devika Shukla,Male,20,Teacher,57137,7028415305,devika.shukla886@gmail.com,ACC4576109211,devika990@pay,Delhi,Delhi,Debit Card,Tablet,Firefox,5347,85552,15,2018-11-11,2823
+USR0702,Bhanumati Gandhi,Male,64,Freelancer,130628,9331751224,bhanumati.gandhi573@gmail.com,ACC6390043836,bhanumati400@pay,Bangalore,Karnataka,Debit Card,MacBook,Safari,1182,15366,20,2024-07-22,743
+USR0703,Aadhya Gola,Male,52,Teacher,38496,0162173228,aadhya.gola658@gmail.com,ACC3598217672,aadhya439@pay,Delhi,Delhi,Debit Card,Windows Laptop,Safari,3604,18020,14,2021-07-22,1839
+USR0704,Gautam Mane,Male,35,Software Engineer,159321,6952829224,gautam.mane710@gmail.com,ACC7650193311,gautam77@pay,Bangalore,Karnataka,Credit Card,Android,Edge,7948,119220,15,2022-03-25,1593
+USR0705,Chaitaly Mital,Male,32,Business,22585,5175390187,chaitaly.mital396@gmail.com,ACC6249418877,chaitaly984@pay,Bangalore,Karnataka,UPI,Android,Firefox,4812,67368,22,2022-12-11,1332
+USR0706,Rishi Patil,Male,51,Government Employee,203620,1159499588,rishi.patil896@gmail.com,ACC1206000737,rishi335@pay,Kochi,Kerala,Net Banking,iPhone,Edge,7103,120751,22,2022-05-15,1542
+USR0707,Manya Shere,Male,34,Student,200003,4813582466,manya.shere740@gmail.com,ACC1542747974,manya397@pay,Jaipur,Rajasthan,Wallet,Windows Laptop,Chrome,6442,103072,14,2025-03-09,513
+USR0708,Neha Kuruvilla,Female,63,Accountant,67999,7519017990,neha.kuruvilla372@gmail.com,ACC8724365118,neha524@pay,Ahmedabad,Gujarat,Credit Card,Windows Laptop,Safari,4764,57168,16,2019-08-29,2532
+USR0709,Bahadurjit Mutti,Male,37,Lawyer,222002,8037863466,bahadurjit.mutti875@gmail.com,ACC9977085483,bahadurjit91@pay,Pune,Maharashtra,UPI,iPhone,Chrome,1852,11112,9,2026-01-22,194
+USR0710,Daksh Kadakia,Female,53,Accountant,231903,2837764054,daksh.kadakia995@gmail.com,ACC9368300034,daksh703@pay,Chennai,Tamil Nadu,Wallet,iPhone,Safari,4578,36624,19,2021-03-01,1982
+USR0711,Anusha Parikh,Male,57,Teacher,237945,8376080781,anusha.parikh741@gmail.com,ACC2482024096,anusha766@pay,Chennai,Tamil Nadu,Wallet,Tablet,Chrome,5475,104025,12,2021-04-30,1922
+USR0712,Dalaja Ramachandran,Male,29,Software Engineer,116220,5728236723,dalaja.ramachandran536@gmail.com,ACC5513609342,dalaja517@pay,Hyderabad,Telangana,Net Banking,iPhone,Edge,1427,21405,14,2021-12-21,1687
+USR0713,Patrick Sehgal,Male,36,Business,146648,6439801138,patrick.sehgal281@gmail.com,ACC1915111272,patrick765@pay,Delhi,Delhi,Wallet,MacBook,Firefox,2997,17982,21,2026-07-18,17
+USR0714,Nikita Jhaveri,Female,21,Government Employee,21544,3415771549,nikita.jhaveri481@gmail.com,ACC6706086556,nikita372@pay,Kochi,Kerala,UPI,Android,Edge,7792,77920,19,2023-06-21,1140
+USR0715,Warhi Barad,Female,18,Software Engineer,132932,7380443031,warhi.barad212@gmail.com,ACC9953906342,warhi536@pay,Ahmedabad,Gujarat,Debit Card,MacBook,Chrome,7980,159600,7,2022-04-24,1563
+USR0716,Chakradev Contractor,Male,60,Business,79269,0260474050,chakradev.contractor414@gmail.com,ACC6902614211,chakradev383@pay,Ahmedabad,Gujarat,Net Banking,iPhone,Edge,1390,26410,21,2020-01-01,2407
+USR0717,Ojasvi Krishnan,Male,26,Government Employee,215845,4156642299,ojasvi.krishnan15@gmail.com,ACC1852399067,ojasvi204@pay,Kolkata,West Bengal,Credit Card,Android,Firefox,3732,67176,17,2026-06-22,43
+USR0718,Gaurangi Bedi,Male,28,Teacher,145644,1910425827,gaurangi.bedi131@gmail.com,ACC7103557930,gaurangi573@pay,Delhi,Delhi,Net Banking,iPhone,Edge,6652,113084,19,2022-12-07,1336
+USR0719,Dakshesh Dalal,Male,25,Software Engineer,227804,5580644185,dakshesh.dalal139@gmail.com,ACC5963015056,dakshesh522@pay,Chennai,Tamil Nadu,UPI,iPhone,Chrome,6056,90840,20,2023-12-16,962
+USR0720,Varsha Choudhary,Male,45,Accountant,95881,4171731918,varsha.choudhary507@gmail.com,ACC2842334552,varsha642@pay,Delhi,Delhi,Debit Card,Tablet,Firefox,2543,33059,10,2020-04-05,2312
+USR0721,Ladli Oommen,Female,62,Teacher,194674,7052081107,ladli.oommen213@gmail.com,ACC3624656441,ladli203@pay,Kolkata,West Bengal,Wallet,iPhone,Firefox,1486,13374,19,2024-04-09,847
+USR0722,Girish Patil,Male,35,Teacher,58327,1698595729,girish.patil28@gmail.com,ACC3647707140,girish103@pay,Kolkata,West Bengal,UPI,MacBook,Safari,4800,67200,14,2025-02-07,543
+USR0723,Yug Bhalla,Male,39,Lawyer,145618,8463025458,yug.bhalla532@gmail.com,ACC5516825943,yug122@pay,Chennai,Tamil Nadu,Credit Card,Windows Laptop,Edge,3375,60750,14,2024-05-02,824
+USR0724,Vivaan Manne,Female,21,Doctor,30718,2240685094,vivaan.manne63@gmail.com,ACC2381431592,vivaan302@pay,Chennai,Tamil Nadu,Net Banking,Windows Laptop,Chrome,4029,40290,15,2023-06-07,1154
+USR0725,Owen Dube,Female,41,Government Employee,99785,1603966819,owen.dube109@gmail.com,ACC3873107809,owen709@pay,Bangalore,Karnataka,Wallet,iPhone,Edge,3453,55248,18,2024-04-21,835
+USR0726,Jairaj Patel,Male,59,Business,75058,3802439376,jairaj.patel403@gmail.com,ACC1456836428,jairaj654@pay,Kochi,Kerala,Wallet,Android,Chrome,5305,58355,13,2021-05-13,1909
+USR0727,Janya Kalita,Female,24,Software Engineer,163282,3214041648,janya.kalita361@gmail.com,ACC4268418626,janya556@pay,Kochi,Kerala,Debit Card,Android,Firefox,2070,37260,15,2023-12-30,948
+USR0728,Upma Verma,Female,41,Accountant,185115,0071034450,upma.verma942@gmail.com,ACC2873145919,upma504@pay,Bangalore,Karnataka,Net Banking,Tablet,Chrome,1867,24271,11,2018-12-26,2778
+USR0729,Maanas Cherian,Female,20,Freelancer,35936,9580223789,maanas.cherian768@gmail.com,ACC8793362077,maanas516@pay,Mumbai,Maharashtra,Wallet,Tablet,Chrome,1855,35245,19,2023-09-10,1059
+USR0730,Manan Edwin,Female,43,Freelancer,91170,7003842662,manan.edwin198@gmail.com,ACC1015464229,manan595@pay,Mumbai,Maharashtra,Debit Card,Tablet,Chrome,7702,146338,15,2020-11-20,2083
+USR0731,Anvi Kapadia,Female,32,Business,205664,4861333851,anvi.kapadia575@gmail.com,ACC1511545211,anvi239@pay,Delhi,Delhi,UPI,Tablet,Firefox,2890,17340,11,2025-08-21,348
+USR0732,Devansh Dada,Female,26,Business,248952,9679268009,devansh.dada667@gmail.com,ACC5209169576,devansh853@pay,Chennai,Tamil Nadu,Debit Card,Tablet,Chrome,511,8176,18,2025-08-03,366
+USR0733,Yatin Bhavsar,Female,23,Designer,89216,0862242725,yatin.bhavsar428@gmail.com,ACC6561533151,yatin68@pay,Hyderabad,Telangana,UPI,Windows Laptop,Firefox,6484,84292,12,2024-12-03,609
+USR0734,Ishwar Devan,Female,19,Designer,192311,8109395236,ishwar.devan118@gmail.com,ACC8250400388,ishwar978@pay,Kochi,Kerala,Credit Card,Tablet,Firefox,7191,136629,14,2024-01-27,920
+USR0735,Ansh D’Alia,Female,35,Teacher,172479,3026331941,ansh.d’alia169@gmail.com,ACC2915795547,ansh757@pay,Kolkata,West Bengal,Net Banking,Windows Laptop,Firefox,7890,157800,9,2019-03-19,2695
+USR0736,Fiyaz Sheth,Female,29,Accountant,68503,1958261376,fiyaz.sheth203@gmail.com,ACC7741629702,fiyaz975@pay,Hyderabad,Telangana,Debit Card,Windows Laptop,Chrome,3040,30400,12,2024-11-23,619
+USR0737,Jyoti Chand,Female,61,Freelancer,69243,8011247040,jyoti.chand156@gmail.com,ACC5604414067,jyoti261@pay,Bangalore,Karnataka,Net Banking,MacBook,Chrome,6433,57897,7,2026-06-24,41
+USR0738,Kashvi Verma,Male,42,Lawyer,25430,1171002877,kashvi.verma856@gmail.com,ACC5014410308,kashvi145@pay,Bangalore,Karnataka,Debit Card,Android,Edge,1668,8340,7,2021-03-06,1977
+USR0739,Ekansh Mitra,Male,52,Government Employee,243535,0662766300,ekansh.mitra217@gmail.com,ACC5892956017,ekansh787@pay,Bangalore,Karnataka,Wallet,MacBook,Firefox,3018,45270,22,2025-10-16,292
+USR0740,Aachal Gulati,Male,33,Student,162482,5320067417,aachal.gulati652@gmail.com,ACC3334799664,aachal31@pay,Delhi,Delhi,UPI,Android,Edge,1340,24120,11,2025-08-31,338
+USR0741,Chavvi Dalal,Male,32,Student,79421,9653273419,chavvi.dalal404@gmail.com,ACC5927944597,chavvi681@pay,Kolkata,West Bengal,Credit Card,iPhone,Safari,6125,49000,22,2023-10-22,1017
+USR0742,Vamakshi Basak,Male,25,Teacher,46669,5160152810,vamakshi.basak375@gmail.com,ACC9917597402,vamakshi351@pay,Delhi,Delhi,UPI,Windows Laptop,Chrome,7836,47016,11,2022-03-30,1588
+USR0743,Neel Loke,Male,45,Designer,107777,2358956246,neel.loke195@gmail.com,ACC8213111159,neel163@pay,Kochi,Kerala,Credit Card,Tablet,Edge,3353,26824,15,2020-06-20,2236
+USR0744,Charvi Warrior,Female,60,Government Employee,89573,5131229073,charvi.warrior817@gmail.com,ACC3816872014,charvi337@pay,Bangalore,Karnataka,Debit Card,MacBook,Safari,6409,128180,9,2025-07-13,387
+USR0745,Ekaja Reddy,Male,54,Lawyer,210502,8017201072,ekaja.reddy158@gmail.com,ACC5683434276,ekaja140@pay,Delhi,Delhi,Debit Card,MacBook,Edge,3115,62300,20,2021-05-09,1913
+USR0746,Jai Om,Female,62,Lawyer,177743,9862154231,jai.om151@gmail.com,ACC6351134654,jai438@pay,Pune,Maharashtra,Wallet,MacBook,Safari,4862,58344,19,2022-05-16,1541
+USR0747,Oeshi Dani,Male,55,Lawyer,158135,4628039953,oeshi.dani805@gmail.com,ACC4213853162,oeshi729@pay,Kochi,Kerala,UPI,iPhone,Edge,523,5753,7,2019-08-29,2532
+USR0748,Rohan Vora,Female,53,Accountant,55020,9951375137,rohan.vora71@gmail.com,ACC9209236972,rohan379@pay,Bangalore,Karnataka,Debit Card,Windows Laptop,Safari,1680,30240,14,2021-03-25,1958
+USR0749,Gunbir Shenoy,Male,32,Student,215820,7006605036,gunbir.shenoy130@gmail.com,ACC4023497467,gunbir396@pay,Hyderabad,Telangana,UPI,MacBook,Edge,943,7544,9,2018-09-11,2884
+USR0750,Panini Mannan,Female,56,Doctor,27913,3119074848,panini.mannan384@gmail.com,ACC1606782223,panini260@pay,Hyderabad,Telangana,UPI,Android,Safari,1726,17260,22,2024-05-05,821
+USR0751,Raghav Badal,Male,65,Designer,203124,3227204149,raghav.badal491@gmail.com,ACC6743818629,raghav810@pay,Delhi,Delhi,UPI,Windows Laptop,Chrome,1777,10662,8,2021-07-07,1854
+USR0752,Chakradhar Samra,Male,50,Doctor,22848,6374747086,chakradhar.samra862@gmail.com,ACC6271277159,chakradhar963@pay,Kolkata,West Bengal,Debit Card,Windows Laptop,Chrome,4772,81124,11,2021-05-06,1916
+USR0753,Thomas Kurian,Male,43,Freelancer,34679,1660168741,thomas.kurian411@gmail.com,ACC4615129784,thomas846@pay,Mumbai,Maharashtra,Net Banking,MacBook,Edge,5846,99382,19,2022-03-19,1599
+USR0754,Max Ramesh,Male,21,Government Employee,189514,8890087986,max.ramesh209@gmail.com,ACC2159295684,max116@pay,Kolkata,West Bengal,UPI,Windows Laptop,Edge,729,8748,16,2022-10-21,1383
+USR0755,Yochana Krishnamurthy,Male,52,Software Engineer,37123,0984916769,yochana.krishnamurthy621@gmail.com,ACC9202043288,yochana202@pay,Mumbai,Maharashtra,Wallet,iPhone,Chrome,2468,32084,9,2026-03-07,150
+USR0756,Rehaan Bajwa,Male,54,Accountant,31974,7547730454,rehaan.bajwa332@gmail.com,ACC2325447786,rehaan375@pay,Chennai,Tamil Nadu,Credit Card,MacBook,Firefox,3076,52292,18,2019-12-08,2431
+USR0757,Warhi Chadha,Male,62,Software Engineer,106853,9673495210,warhi.chadha928@gmail.com,ACC1645046796,warhi611@pay,Kolkata,West Bengal,Net Banking,MacBook,Chrome,2876,28760,11,2021-06-07,1884
+USR0758,Triya Pandey,Female,23,Software Engineer,208340,0514900080,triya.pandey915@gmail.com,ACC4086168237,triya996@pay,Mumbai,Maharashtra,Wallet,Tablet,Edge,4165,37485,17,2020-09-16,2148
+USR0759,Tripti Lata,Female,41,Freelancer,244382,0361167874,tripti.lata50@gmail.com,ACC2664876543,tripti223@pay,Kolkata,West Bengal,Wallet,Tablet,Chrome,1748,34960,10,2020-10-24,2110
+USR0760,Vincent Garde,Male,27,Business,163428,4595457574,vincent.garde520@gmail.com,ACC5699183813,vincent331@pay,Bangalore,Karnataka,Debit Card,Windows Laptop,Firefox,1058,13754,18,2023-05-29,1163
+USR0761,Yashica Das,Female,23,Software Engineer,66972,1462040865,yashica.das274@gmail.com,ACC9530420568,yashica272@pay,Ahmedabad,Gujarat,Net Banking,iPhone,Chrome,5159,103180,8,2023-12-30,948
+USR0762,Rachit Pant,Female,36,Lawyer,127225,1417976841,rachit.pant949@gmail.com,ACC3923089394,rachit461@pay,Kochi,Kerala,Credit Card,Tablet,Edge,3561,24927,20,2025-01-08,573
+USR0763,Forum Mahal,Female,34,Student,182690,8972852257,forum.mahal768@gmail.com,ACC4395560956,forum726@pay,Chennai,Tamil Nadu,Wallet,Android,Firefox,7488,59904,16,2021-04-02,1950
+USR0764,Adweta Barman,Female,28,Freelancer,124668,8813247636,adweta.barman238@gmail.com,ACC5696560131,adweta487@pay,Bangalore,Karnataka,Net Banking,Tablet,Safari,1393,9751,12,2024-02-04,912
+USR0765,Anjali Vig,Male,43,Lawyer,72290,2227569941,anjali.vig346@gmail.com,ACC5571870428,anjali360@pay,Kolkata,West Bengal,Wallet,MacBook,Firefox,6253,125060,10,2021-09-20,1779
+USR0766,Onveer Dhaliwal,Female,47,Student,162889,7353893160,onveer.dhaliwal981@gmail.com,ACC3018495252,onveer665@pay,Hyderabad,Telangana,Debit Card,Windows Laptop,Chrome,5424,92208,8,2019-11-28,2441
+USR0767,Robert Om,Female,45,Accountant,75946,1382168567,robert.om226@gmail.com,ACC4728120111,robert985@pay,Chennai,Tamil Nadu,Net Banking,Windows Laptop,Edge,5707,57070,9,2026-02-28,157
+USR0768,Tara Narayan,Male,22,Business,126186,5916202297,tara.narayan315@gmail.com,ACC9130688289,tara198@pay,Bangalore,Karnataka,UPI,Android,Safari,3301,46214,12,2021-08-29,1801
+USR0769,Vasudha Chowdhury,Male,40,Lawyer,146255,4060353343,vasudha.chowdhury558@gmail.com,ACC8287228425,vasudha373@pay,Ahmedabad,Gujarat,Wallet,MacBook,Chrome,5094,56034,9,2025-07-28,372
+USR0770,Nimrat Warrior,Male,38,Government Employee,23718,6353031358,nimrat.warrior928@gmail.com,ACC5928417345,nimrat895@pay,Hyderabad,Telangana,Credit Card,Android,Safari,2652,13260,21,2019-10-06,2494
+USR0771,Upadhriti Hans,Male,58,Accountant,187488,5907130427,upadhriti.hans109@gmail.com,ACC1156706071,upadhriti773@pay,Kochi,Kerala,Debit Card,MacBook,Firefox,5422,92174,13,2022-08-08,1457
+USR0772,Daksha Rao,Female,31,Teacher,198160,6871116127,daksha.rao988@gmail.com,ACC5356690340,daksha843@pay,Kochi,Kerala,Credit Card,Android,Edge,7845,109830,10,2024-12-30,582
+USR0773,Raghav Badal,Female,59,Accountant,128541,9915251683,raghav.badal370@gmail.com,ACC7624845382,raghav545@pay,Kolkata,West Bengal,Credit Card,Android,Firefox,4258,76644,18,2022-01-07,1670
+USR0774,Pallavi Joshi,Male,53,Freelancer,62639,6692136990,pallavi.joshi456@gmail.com,ACC6933769301,pallavi875@pay,Jaipur,Rajasthan,Net Banking,Windows Laptop,Chrome,1217,9736,9,2019-06-29,2593
+USR0775,Odika Deo,Male,57,Lawyer,47177,8831011271,odika.deo777@gmail.com,ACC9730103138,odika306@pay,Ahmedabad,Gujarat,Net Banking,iPhone,Firefox,6864,130416,19,2025-12-30,217
+USR0776,Amrita Mohanty,Male,30,Accountant,52621,1256748532,amrita.mohanty822@gmail.com,ACC9220693336,amrita432@pay,Pune,Maharashtra,Net Banking,Android,Edge,6907,82884,16,2023-12-26,952
+USR0777,Amrita Acharya,Female,60,Business,100582,7369710392,amrita.acharya699@gmail.com,ACC2037468443,amrita931@pay,Kolkata,West Bengal,Net Banking,Android,Chrome,715,6435,18,2024-09-14,689
+USR0778,Parth Bhandari,Female,39,Doctor,169995,1772039289,parth.bhandari257@gmail.com,ACC2680888691,parth641@pay,Kolkata,West Bengal,Net Banking,Android,Safari,1555,26435,12,2019-05-03,2650
+USR0779,Watika Dhaliwal,Female,38,Designer,61535,9677447427,watika.dhaliwal246@gmail.com,ACC4441007454,watika526@pay,Kolkata,West Bengal,UPI,Tablet,Safari,7406,96278,12,2025-03-15,507
+USR0780,Jagvi Sachdeva,Female,31,Software Engineer,44448,2596792302,jagvi.sachdeva457@gmail.com,ACC9639490447,jagvi798@pay,Chennai,Tamil Nadu,Wallet,iPhone,Chrome,5563,38941,19,2021-11-17,1721
+USR0781,Chatresh Vig,Male,65,Doctor,138936,1421306319,chatresh.vig201@gmail.com,ACC4856490828,chatresh314@pay,Pune,Maharashtra,Debit Card,Tablet,Firefox,6449,109633,15,2020-11-14,2089
+USR0782,Ishani Sanghvi,Male,35,Software Engineer,57688,8923031736,ishani.sanghvi663@gmail.com,ACC4723474875,ishani123@pay,Chennai,Tamil Nadu,Net Banking,Tablet,Chrome,1377,12393,16,2022-02-14,1632
+USR0783,Advik Kunda,Female,29,Software Engineer,40285,0208870138,advik.kunda874@gmail.com,ACC4600539313,advik410@pay,Ahmedabad,Gujarat,UPI,MacBook,Chrome,3889,27223,22,2024-06-15,780
+USR0784,Baghyawati Prabhakar,Male,31,Lawyer,118370,5255155591,baghyawati.prabhakar658@gmail.com,ACC9196096398,baghyawati837@pay,Pune,Maharashtra,Debit Card,iPhone,Edge,583,5830,8,2025-04-15,476
+USR0785,Mekhala Om,Male,39,Government Employee,146854,0146762836,mekhala.om624@gmail.com,ACC3347125656,mekhala172@pay,Kochi,Kerala,Wallet,Windows Laptop,Chrome,2079,10395,7,2019-08-17,2544
+USR0786,Yachana Rattan,Male,31,Government Employee,50091,7022205978,yachana.rattan40@gmail.com,ACC2406772445,yachana235@pay,Mumbai,Maharashtra,UPI,iPhone,Edge,2741,54820,13,2026-03-25,132
+USR0787,Tristan Sarna,Male,40,Designer,190898,4255067020,tristan.sarna488@gmail.com,ACC7424419411,tristan534@pay,Delhi,Delhi,Net Banking,iPhone,Edge,1916,21076,15,2020-01-06,2402
+USR0788,Pooja Mittal,Female,24,Freelancer,227920,1071056433,pooja.mittal329@gmail.com,ACC8396192882,pooja453@pay,Kochi,Kerala,Net Banking,MacBook,Edge,7183,107745,10,2025-11-11,266
+USR0789,Chatura Shroff,Female,45,Teacher,168672,9279485522,chatura.shroff392@gmail.com,ACC4519045785,chatura470@pay,Pune,Maharashtra,Debit Card,Android,Edge,5307,95526,16,2024-06-24,771
+USR0790,Nikita Rege,Female,43,Student,50054,8229161591,nikita.rege838@gmail.com,ACC6680872342,nikita819@pay,Hyderabad,Telangana,Debit Card,Windows Laptop,Firefox,1095,12045,18,2023-08-14,1086
+USR0791,Nidhi Anand,Female,27,Government Employee,52061,7161547524,nidhi.anand336@gmail.com,ACC3956193411,nidhi744@pay,Chennai,Tamil Nadu,Credit Card,iPhone,Safari,5148,77220,14,2018-12-25,2779
+USR0792,Dipta Khurana,Male,42,Business,177758,8036052209,dipta.khurana549@gmail.com,ACC1933998295,dipta584@pay,Mumbai,Maharashtra,Credit Card,Tablet,Chrome,5201,93618,20,2026-02-18,167
+USR0793,Amara Batta,Female,38,Teacher,71674,8802985289,amara.batta831@gmail.com,ACC7416398798,amara57@pay,Chennai,Tamil Nadu,Credit Card,MacBook,Chrome,1516,28804,12,2020-08-14,2181
+USR0794,Arjun Bassi,Female,55,Lawyer,81976,6941461291,arjun.bassi31@gmail.com,ACC2224224246,arjun669@pay,Kochi,Kerala,Wallet,Android,Safari,2829,25461,19,2024-02-10,906
+USR0795,Pratyush Bhatti,Male,52,Designer,30255,3933945058,pratyush.bhatti670@gmail.com,ACC1069888983,pratyush491@pay,Pune,Maharashtra,UPI,MacBook,Edge,2750,41250,18,2025-03-31,491
+USR0796,Vivaan Varghese,Female,23,Designer,223060,9612404151,vivaan.varghese515@gmail.com,ACC3629897176,vivaan412@pay,Pune,Maharashtra,Credit Card,MacBook,Safari,7452,59616,18,2024-11-28,614
+USR0797,Ronith Kapadia,Male,19,Teacher,32539,0817155205,ronith.kapadia152@gmail.com,ACC2871241920,ronith184@pay,Chennai,Tamil Nadu,UPI,iPhone,Edge,7185,35925,8,2021-02-26,1985
+USR0798,Ethan Anne,Female,20,Software Engineer,32583,7482890996,ethan.anne86@gmail.com,ACC6427666706,ethan714@pay,Delhi,Delhi,Wallet,MacBook,Edge,6223,62230,11,2022-04-06,1581
+USR0799,Dipta Bakshi,Female,25,Doctor,103711,9801666342,dipta.bakshi781@gmail.com,ACC9141012041,dipta662@pay,Hyderabad,Telangana,Net Banking,Android,Firefox,5234,104680,22,2021-08-12,1818
+USR0800,Arjun Zachariah,Female,38,Accountant,79200,4016795285,arjun.zachariah280@gmail.com,ACC8585779744,arjun738@pay,Bangalore,Karnataka,UPI,Windows Laptop,Firefox,5902,64922,9,2021-12-11,1697
+USR0801,Gabriel Comar,Male,49,Student,75699,7485816489,gabriel.comar696@gmail.com,ACC6223262065,gabriel848@pay,Chennai,Tamil Nadu,Net Banking,iPhone,Safari,1356,20340,13,2020-07-17,2209
+USR0802,Chaitanya Sandhu,Female,37,Accountant,191780,4841750539,chaitanya.sandhu878@gmail.com,ACC3166860023,chaitanya946@pay,Hyderabad,Telangana,Debit Card,iPhone,Edge,3658,69502,13,2018-09-23,2872
+USR0803,Isha Din,Female,30,Software Engineer,92833,1725452242,isha.din178@gmail.com,ACC8242457324,isha984@pay,Kolkata,West Bengal,Wallet,Android,Firefox,4276,34208,10,2021-11-06,1732
+USR0804,Darsh Randhawa,Male,19,Accountant,69028,9955583677,darsh.randhawa39@gmail.com,ACC7575102757,darsh370@pay,Delhi,Delhi,Credit Card,Android,Chrome,3403,61254,13,2024-11-26,616
+USR0805,Max More,Male,43,Designer,132944,0331520962,max.more351@gmail.com,ACC5523275189,max289@pay,Jaipur,Rajasthan,Credit Card,Android,Chrome,5813,98821,20,2019-07-22,2570
+USR0806,Anita Krishna,Male,36,Teacher,125563,5654913176,anita.krishna618@gmail.com,ACC7903937176,anita541@pay,Hyderabad,Telangana,Net Banking,Android,Chrome,5794,69528,10,2020-06-13,2243
+USR0807,Wakeeta Kata,Male,25,Student,29355,4880252649,wakeeta.kata282@gmail.com,ACC2025497024,wakeeta554@pay,Kochi,Kerala,UPI,Windows Laptop,Firefox,7730,131410,19,2018-12-27,2777
+USR0808,Vyanjana Lad,Female,24,Teacher,212393,0779685293,vyanjana.lad517@gmail.com,ACC1883497862,vyanjana814@pay,Delhi,Delhi,Debit Card,Windows Laptop,Edge,6282,87948,7,2023-10-13,1026
+USR0809,Aadi Maharaj,Male,29,Designer,203624,4025038329,aadi.maharaj498@gmail.com,ACC8469337898,aadi883@pay,Kochi,Kerala,Debit Card,iPhone,Edge,6082,42574,12,2019-09-24,2506
+USR0810,Leena Goda,Male,39,Accountant,57180,2321781454,leena.goda692@gmail.com,ACC7333361741,leena352@pay,Chennai,Tamil Nadu,UPI,iPhone,Edge,7719,54033,12,2019-05-08,2645
+USR0811,Indrajit Walla,Male,56,Government Employee,144211,6788197819,indrajit.walla11@gmail.com,ACC6358016493,indrajit122@pay,Kochi,Kerala,UPI,Android,Edge,7343,88116,12,2019-12-13,2426
+USR0812,Chasmum Krishnan,Male,24,Software Engineer,99849,9703373403,chasmum.krishnan473@gmail.com,ACC7638795698,chasmum689@pay,Pune,Maharashtra,Net Banking,Windows Laptop,Edge,4258,21290,18,2026-01-20,196
+USR0813,Tanveer Saraf,Female,63,Government Employee,155746,9932919135,tanveer.saraf505@gmail.com,ACC5779272394,tanveer712@pay,Kochi,Kerala,Wallet,Android,Firefox,3861,46332,11,2026-01-04,212
+USR0814,Om Babu,Female,49,Student,84059,3075854716,om.babu768@gmail.com,ACC7144897817,om221@pay,Kochi,Kerala,UPI,iPhone,Safari,5732,45856,15,2020-02-18,2359
+USR0815,Jhalak Bala,Female,51,Doctor,89549,7938863431,jhalak.bala919@gmail.com,ACC6717441860,jhalak613@pay,Pune,Maharashtra,Net Banking,Windows Laptop,Edge,2061,12366,17,2024-07-10,755
+USR0816,Jason Pai,Male,45,Accountant,168547,6717271100,jason.pai305@gmail.com,ACC5330765328,jason959@pay,Pune,Maharashtra,Debit Card,MacBook,Firefox,4785,66990,12,2025-12-01,246
+USR0817,Yatan Wable,Female,49,Business,36938,6036439616,yatan.wable25@gmail.com,ACC2949306060,yatan232@pay,Delhi,Delhi,Credit Card,Tablet,Chrome,935,18700,16,2019-09-13,2517
+USR0818,Vinaya Kumar,Male,45,Government Employee,193081,9815212174,vinaya.kumar61@gmail.com,ACC2079898502,vinaya368@pay,Chennai,Tamil Nadu,Credit Card,Tablet,Firefox,1204,15652,11,2025-07-28,372
+USR0819,Parth Bir,Male,45,Freelancer,41159,6277907983,parth.bir234@gmail.com,ACC5432993319,parth965@pay,Delhi,Delhi,Credit Card,iPhone,Safari,3961,67337,10,2022-02-20,1626
+USR0820,Priya Varma,Female,37,Freelancer,101457,0228608864,priya.varma587@gmail.com,ACC9057068336,priya833@pay,Hyderabad,Telangana,Wallet,iPhone,Firefox,2548,22932,20,2026-03-28,129
+USR0821,Vansha Amble,Male,37,Business,42438,9142946032,vansha.amble590@gmail.com,ACC6082544784,vansha811@pay,Delhi,Delhi,Net Banking,Android,Firefox,4813,91447,17,2024-08-18,716
+USR0822,Yamini Dar,Female,47,Government Employee,132110,9996973754,yamini.dar440@gmail.com,ACC9424350379,yamini482@pay,Ahmedabad,Gujarat,UPI,Tablet,Chrome,6781,122058,9,2021-08-19,1811
+USR0823,Aayush Manne,Male,57,Business,226210,3356176828,aayush.manne604@gmail.com,ACC7494878720,aayush140@pay,Mumbai,Maharashtra,Wallet,Tablet,Edge,938,15946,11,2018-10-02,2863
+USR0824,Manbir Dubey,Female,60,Student,141322,8370146655,manbir.dubey481@gmail.com,ACC4604328146,manbir96@pay,Jaipur,Rajasthan,UPI,Windows Laptop,Chrome,3231,25848,16,2020-08-10,2185
+USR0825,Dalbir Wagle,Female,62,Government Employee,246574,3623617273,dalbir.wagle134@gmail.com,ACC9817654910,dalbir219@pay,Chennai,Tamil Nadu,Wallet,iPhone,Safari,1617,19404,11,2023-01-16,1296
+USR0826,Alka Ramakrishnan,Female,58,Business,208518,1011590457,alka.ramakrishnan834@gmail.com,ACC3953969835,alka127@pay,Chennai,Tamil Nadu,UPI,Android,Firefox,5446,43568,10,2024-03-28,859
+USR0827,Vinaya Varughese,Male,31,Software Engineer,144188,1361986869,vinaya.varughese862@gmail.com,ACC7467381113,vinaya410@pay,Chennai,Tamil Nadu,UPI,Android,Edge,3814,76280,12,2019-11-17,2452
+USR0828,Alka Jain,Male,52,Business,235400,9709015434,alka.jain707@gmail.com,ACC5824092354,alka159@pay,Kochi,Kerala,UPI,iPhone,Firefox,7205,86460,12,2021-03-22,1961
+USR0829,Amol Srivastava,Male,48,Accountant,96031,0802017813,amol.srivastava693@gmail.com,ACC7823688564,amol386@pay,Delhi,Delhi,Credit Card,MacBook,Safari,6215,49720,21,2020-06-18,2238
+USR0830,Divya Suri,Female,45,Doctor,27332,7341608074,divya.suri478@gmail.com,ACC2672586542,divya604@pay,Delhi,Delhi,Credit Card,Android,Safari,849,13584,11,2021-03-08,1975
+USR0831,Vedika Ram,Female,64,Accountant,92588,3882384451,vedika.ram172@gmail.com,ACC3161251707,vedika367@pay,Chennai,Tamil Nadu,Wallet,MacBook,Chrome,1929,17361,18,2023-10-30,1009
+USR0832,Yashica Tripathi,Female,47,Doctor,92965,4919374637,yashica.tripathi955@gmail.com,ACC2691911008,yashica948@pay,Delhi,Delhi,Net Banking,MacBook,Safari,5463,54630,15,2023-09-13,1056
+USR0833,Bhavika Upadhyay,Male,62,Government Employee,174364,4596236157,bhavika.upadhyay366@gmail.com,ACC8859301687,bhavika79@pay,Kochi,Kerala,UPI,Android,Firefox,2398,19184,10,2024-05-31,795
+USR0834,Chameli Parikh,Female,61,Accountant,104845,5366552684,chameli.parikh800@gmail.com,ACC2016263083,chameli931@pay,Mumbai,Maharashtra,Debit Card,MacBook,Safari,1027,6162,15,2023-02-01,1280
+USR0835,Anusha Mutti,Male,20,Software Engineer,135744,0811845636,anusha.mutti631@gmail.com,ACC6042580412,anusha120@pay,Pune,Maharashtra,Net Banking,MacBook,Firefox,5721,62931,13,2023-01-07,1305
+USR0836,Wriddhish Pillay,Female,49,Accountant,197956,0858599960,wriddhish.pillay240@gmail.com,ACC5991136756,wriddhish843@pay,Delhi,Delhi,Wallet,iPhone,Chrome,5268,26340,10,2024-12-08,604
+USR0837,Indali Narayan,Male,20,Doctor,21372,3035761557,indali.narayan802@gmail.com,ACC5604055120,indali199@pay,Pune,Maharashtra,Wallet,MacBook,Firefox,7319,80509,22,2021-04-23,1929
+USR0838,Chaitanya Bahri,Female,40,Freelancer,166459,6494577010,chaitanya.bahri830@gmail.com,ACC5583394443,chaitanya447@pay,Hyderabad,Telangana,Net Banking,Android,Chrome,1541,21574,10,2023-06-15,1146
+USR0839,Divya D’Alia,Male,49,Teacher,33494,4037146679,divya.d’alia563@gmail.com,ACC2421289722,divya239@pay,Kochi,Kerala,Credit Card,Windows Laptop,Safari,6261,100176,9,2025-03-31,491
+USR0840,Ubika Tandon,Male,36,Software Engineer,160095,8025517078,ubika.tandon257@gmail.com,ACC7442652840,ubika418@pay,Kochi,Kerala,Wallet,Android,Chrome,5274,105480,15,2024-06-09,786
+USR0841,Rachit Mukhopadhyay,Male,20,Government Employee,130468,1588172918,rachit.mukhopadhyay215@gmail.com,ACC4284515765,rachit152@pay,Delhi,Delhi,Debit Card,Tablet,Edge,6704,40224,14,2026-04-01,125
+USR0842,Amol Bedi,Female,22,Freelancer,179908,7159900244,amol.bedi364@gmail.com,ACC5213603623,amol982@pay,Chennai,Tamil Nadu,Net Banking,Tablet,Chrome,7770,155400,11,2026-04-27,99
+USR0843,Arjun Srinivas,Female,64,Student,47279,9170183826,arjun.srinivas518@gmail.com,ACC3180143731,arjun675@pay,Chennai,Tamil Nadu,Credit Card,MacBook,Safari,2985,35820,7,2022-08-03,1462
+USR0844,Amol Madan,Male,19,Teacher,160033,4902396973,amol.madan890@gmail.com,ACC9667651430,amol503@pay,Kochi,Kerala,UPI,MacBook,Safari,6197,55773,20,2023-10-12,1027
+USR0845,Waida Chokshi,Female,53,Doctor,50299,2341750794,waida.chokshi130@gmail.com,ACC6874264020,waida208@pay,Ahmedabad,Gujarat,Credit Card,MacBook,Chrome,2451,29412,9,2021-07-20,1841
+USR0846,Eshana Chokshi,Male,32,Lawyer,215946,9400414267,eshana.chokshi591@gmail.com,ACC4443563465,eshana904@pay,Jaipur,Rajasthan,Debit Card,Android,Chrome,964,8676,21,2024-04-17,839
+USR0847,Faris Prakash,Male,36,Student,102346,1409892546,faris.prakash626@gmail.com,ACC2255903097,faris630@pay,Pune,Maharashtra,Net Banking,MacBook,Chrome,5878,41146,9,2024-07-15,750
+USR0848,Harshil Prabhakar,Female,52,Teacher,149742,0627550497,harshil.prabhakar929@gmail.com,ACC6241094005,harshil740@pay,Pune,Maharashtra,Credit Card,Windows Laptop,Edge,7618,91416,15,2025-12-02,245
+USR0849,Nirja Vaidya,Female,62,Designer,151975,8965159063,nirja.vaidya65@gmail.com,ACC7383213464,nirja90@pay,Bangalore,Karnataka,Debit Card,iPhone,Firefox,2998,32978,10,2020-03-17,2331
+USR0850,Aachal Kapadia,Female,64,Doctor,29402,8381304827,aachal.kapadia725@gmail.com,ACC8577146879,aachal985@pay,Mumbai,Maharashtra,UPI,Android,Safari,7351,44106,15,2024-11-15,627
+USR0851,Yachana Pant,Female,55,Lawyer,98751,8109951604,yachana.pant71@gmail.com,ACC7913813833,yachana517@pay,Bangalore,Karnataka,UPI,MacBook,Safari,4137,24822,14,2022-06-03,1523
+USR0852,Gabriel Kapoor,Male,42,Doctor,192995,5212244363,gabriel.kapoor555@gmail.com,ACC9814388068,gabriel322@pay,Kolkata,West Bengal,UPI,Tablet,Edge,712,10680,15,2025-02-12,538
+USR0853,Brijesh Srinivas,Male,19,Government Employee,210260,7972839249,brijesh.srinivas454@gmail.com,ACC9013302138,brijesh811@pay,Kochi,Kerala,UPI,Android,Safari,6408,89712,21,2024-03-14,873
+USR0854,Damini Borah,Female,54,Freelancer,221591,4100823962,damini.borah276@gmail.com,ACC6932599814,damini773@pay,Jaipur,Rajasthan,Debit Card,iPhone,Chrome,2799,36387,9,2025-04-11,480
+USR0855,Dhriti Shroff,Male,52,Business,108482,7930604729,dhriti.shroff414@gmail.com,ACC9755746983,dhriti290@pay,Kochi,Kerala,Credit Card,Windows Laptop,Edge,6909,34545,10,2018-09-25,2870
+USR0856,Jatin Bhatt,Female,54,Government Employee,239152,9623919373,jatin.bhatt877@gmail.com,ACC6062840421,jatin483@pay,Delhi,Delhi,UPI,MacBook,Chrome,4321,25926,18,2026-04-02,124
+USR0857,Hritik Madan,Female,58,Designer,77106,2725008630,hritik.madan69@gmail.com,ACC5636618622,hritik928@pay,Kolkata,West Bengal,Wallet,Tablet,Edge,1024,19456,12,2025-03-05,517
+USR0858,Harinakshi Hayer,Female,35,Business,247817,9403608269,harinakshi.hayer140@gmail.com,ACC1749451693,harinakshi902@pay,Ahmedabad,Gujarat,Wallet,Android,Firefox,1437,8622,12,2024-01-14,933
+USR0859,Yashoda Kibe,Female,55,Government Employee,30998,6758932470,yashoda.kibe744@gmail.com,ACC1979048220,yashoda984@pay,Jaipur,Rajasthan,Credit Card,Windows Laptop,Chrome,6057,96912,8,2019-01-04,2769
+USR0860,Utkarsh Bhatia,Male,40,Software Engineer,40310,4283107716,utkarsh.bhatia464@gmail.com,ACC1332646182,utkarsh218@pay,Jaipur,Rajasthan,Credit Card,Tablet,Edge,7292,131256,9,2025-07-03,397
+USR0861,Mohini Babu,Female,36,Doctor,26473,5990130064,mohini.babu631@gmail.com,ACC8680107879,mohini353@pay,Pune,Maharashtra,Net Banking,Windows Laptop,Safari,2908,14540,12,2023-10-21,1018
+USR0862,Nandini Kibe,Female,20,Business,59338,6801080870,nandini.kibe36@gmail.com,ACC8356592812,nandini972@pay,Kochi,Kerala,Debit Card,MacBook,Chrome,5882,52938,19,2019-03-01,2713
+USR0863,Ayaan Sangha,Male,22,Teacher,168216,5895107376,ayaan.sangha598@gmail.com,ACC8447263911,ayaan561@pay,Jaipur,Rajasthan,UPI,Tablet,Chrome,5473,109460,21,2022-09-11,1423
+USR0864,Vaishnavi Muni,Female,35,Teacher,239154,1081568487,vaishnavi.muni310@gmail.com,ACC4913013819,vaishnavi346@pay,Kochi,Kerala,Debit Card,Windows Laptop,Firefox,4234,63510,10,2026-02-19,166
+USR0865,Yachana Nair,Male,46,Lawyer,114864,7911144200,yachana.nair370@gmail.com,ACC6284312306,yachana815@pay,Bangalore,Karnataka,Net Banking,iPhone,Firefox,4904,58848,20,2026-01-22,194
+USR0866,Madhav Rajagopalan,Male,56,Business,228628,8078651158,madhav.rajagopalan359@gmail.com,ACC2347951178,madhav93@pay,Delhi,Delhi,Net Banking,MacBook,Firefox,5218,104360,13,2024-04-20,836
+USR0867,Darpan Gour,Male,47,Student,63718,3757981279,darpan.gour438@gmail.com,ACC9289824456,darpan770@pay,Bangalore,Karnataka,UPI,iPhone,Chrome,7330,131940,7,2020-01-29,2379
+USR0868,Vasana Dixit,Male,22,Doctor,154977,7534730447,vasana.dixit950@gmail.com,ACC7108984060,vasana140@pay,Jaipur,Rajasthan,Net Banking,Tablet,Firefox,6332,88648,10,2026-04-04,122
+USR0869,Faraj Varkey,Female,39,Freelancer,179582,9424550466,faraj.varkey120@gmail.com,ACC1194294443,faraj766@pay,Kochi,Kerala,Credit Card,MacBook,Safari,5667,107673,20,2023-03-22,1231
+USR0870,Qasim Pathak,Female,48,Doctor,212267,5919446703,qasim.pathak751@gmail.com,ACC1359873139,qasim927@pay,Hyderabad,Telangana,UPI,Tablet,Edge,6020,114380,19,2021-11-25,1713
+USR0871,Damyanti Chand,Female,46,Doctor,153344,4073729695,damyanti.chand296@gmail.com,ACC1416176337,damyanti314@pay,Kochi,Kerala,Net Banking,Windows Laptop,Chrome,5121,92178,16,2021-05-13,1909
+USR0872,Raksha Nagi,Female,42,Government Employee,218521,9576208587,raksha.nagi986@gmail.com,ACC1615024545,raksha843@pay,Hyderabad,Telangana,Debit Card,MacBook,Edge,5211,78165,10,2021-07-01,1860
+USR0873,Wakeeta Devi,Female,36,Doctor,51077,9495552438,wakeeta.devi290@gmail.com,ACC7385051823,wakeeta239@pay,Delhi,Delhi,Debit Card,Windows Laptop,Edge,5465,43720,14,2020-11-16,2087
+USR0874,Lopa Barad,Female,27,Software Engineer,74222,0950149237,lopa.barad868@gmail.com,ACC1725215637,lopa622@pay,Jaipur,Rajasthan,UPI,Tablet,Firefox,554,11080,7,2025-07-25,375
+USR0875,Aahana Rattan,Female,31,Business,169727,3717561902,aahana.rattan759@gmail.com,ACC7244235534,aahana950@pay,Kolkata,West Bengal,UPI,Android,Safari,7781,140058,22,2021-07-02,1859
+USR0876,Amruta Kakar,Female,23,Doctor,92994,0796765918,amruta.kakar372@gmail.com,ACC4451612191,amruta772@pay,Bangalore,Karnataka,Debit Card,Android,Edge,1783,26745,15,2026-05-23,73
+USR0877,Luke Dar,Female,58,Designer,196182,2366350640,luke.dar733@gmail.com,ACC8249636686,luke923@pay,Bangalore,Karnataka,UPI,MacBook,Chrome,6276,94140,13,2020-02-19,2358
+USR0878,Gautami Pandit,Male,58,Student,84464,1261078307,gautami.pandit610@gmail.com,ACC5050851541,gautami699@pay,Hyderabad,Telangana,Debit Card,Windows Laptop,Safari,1740,34800,12,2025-11-14,263
+USR0879,Girindra Swamy,Female,36,Doctor,72054,0370518521,girindra.swamy983@gmail.com,ACC1919935099,girindra454@pay,Bangalore,Karnataka,UPI,MacBook,Firefox,6316,63160,8,2022-09-21,1413
+USR0880,Vamakshi Shanker,Female,62,Business,180793,6300906821,vamakshi.shanker656@gmail.com,ACC3507826917,vamakshi663@pay,Kolkata,West Bengal,Credit Card,MacBook,Firefox,7691,107674,14,2019-02-18,2724
+USR0881,Om Gala,Female,60,Accountant,148508,9861160727,om.gala622@gmail.com,ACC7360670711,om108@pay,Kolkata,West Bengal,Debit Card,Android,Edge,3937,74803,17,2023-03-09,1244
+USR0882,Sanya Chatterjee,Male,60,Lawyer,50361,4238282463,sanya.chatterjee485@gmail.com,ACC9402311231,sanya686@pay,Hyderabad,Telangana,UPI,Windows Laptop,Safari,6273,56457,22,2019-11-24,2445
+USR0883,Vritti Bajaj,Female,56,Lawyer,200151,2230311878,vritti.bajaj39@gmail.com,ACC6544503163,vritti529@pay,Mumbai,Maharashtra,Debit Card,MacBook,Chrome,5106,76590,15,2023-05-04,1188
+USR0884,Raksha Kanda,Female,44,Lawyer,232082,8691747049,raksha.kanda445@gmail.com,ACC7007282752,raksha944@pay,Ahmedabad,Gujarat,UPI,Windows Laptop,Safari,6465,77580,17,2021-01-18,2024
+USR0885,Luke Garg,Male,37,Accountant,127429,6196175093,luke.garg596@gmail.com,ACC4760767765,luke558@pay,Mumbai,Maharashtra,Debit Card,Android,Edge,1558,7790,7,2019-09-18,2512
+USR0886,Advik Patil,Female,23,Government Employee,112458,3504759401,advik.patil74@gmail.com,ACC3812909739,advik541@pay,Jaipur,Rajasthan,Debit Card,Windows Laptop,Firefox,1786,30362,14,2021-11-27,1711
+USR0887,Upadhriti Sem,Female,28,Government Employee,106901,2832426535,upadhriti.sem230@gmail.com,ACC1058587182,upadhriti875@pay,Kolkata,West Bengal,UPI,Tablet,Chrome,4608,78336,22,2020-04-30,2287
+USR0888,Ekta Wadhwa,Male,28,Business,99027,8319310413,ekta.wadhwa245@gmail.com,ACC3955238301,ekta44@pay,Chennai,Tamil Nadu,Credit Card,Android,Safari,5868,99756,11,2018-10-01,2864
+USR0889,Urishilla Das,Female,23,Software Engineer,39369,5364366177,urishilla.das749@gmail.com,ACC8441627106,urishilla30@pay,Jaipur,Rajasthan,UPI,Tablet,Firefox,1282,21794,13,2020-02-04,2373
+USR0890,Vasudha Ramachandran,Female,38,Lawyer,154310,2134649986,vasudha.ramachandran319@gmail.com,ACC6472001976,vasudha217@pay,Chennai,Tamil Nadu,UPI,Windows Laptop,Safari,3584,50176,20,2021-06-19,1872
+USR0891,Hiral Pandya,Male,32,Lawyer,167061,2713482823,hiral.pandya504@gmail.com,ACC3175802532,hiral401@pay,Delhi,Delhi,UPI,MacBook,Safari,3553,28424,21,2018-10-17,2848
+USR0892,Jeevika Gulati,Male,54,Student,124162,9945187579,jeevika.gulati467@gmail.com,ACC6883339101,jeevika586@pay,Mumbai,Maharashtra,UPI,Windows Laptop,Edge,1677,11739,10,2022-03-05,1613
+USR0893,Leela Soman,Male,31,Accountant,175558,1982459292,leela.soman95@gmail.com,ACC5901977457,leela641@pay,Mumbai,Maharashtra,Net Banking,Tablet,Firefox,982,19640,15,2018-10-18,2847
+USR0894,Shivansh Sen,Female,37,Government Employee,238712,1492061916,shivansh.sen47@gmail.com,ACC5318897881,shivansh716@pay,Hyderabad,Telangana,Debit Card,Tablet,Safari,4969,99380,17,2018-10-03,2862
+USR0895,Dayamai Sheth,Male,38,Accountant,205825,6175888690,dayamai.sheth536@gmail.com,ACC4148508746,dayamai953@pay,Ahmedabad,Gujarat,UPI,MacBook,Chrome,3577,32193,7,2019-11-12,2457
+USR0896,Neha Mukherjee,Male,51,Software Engineer,63567,3038238405,neha.mukherjee458@gmail.com,ACC1488185700,neha916@pay,Mumbai,Maharashtra,Net Banking,MacBook,Firefox,5629,112580,11,2022-06-28,1498
+USR0897,Jagdish Roy,Female,43,Student,97791,4365579456,jagdish.roy455@gmail.com,ACC9571656562,jagdish747@pay,Bangalore,Karnataka,Credit Card,Tablet,Edge,5538,88608,12,2019-07-31,2561
+USR0898,Niharika Khatri,Male,36,Designer,199574,4366852129,niharika.khatri832@gmail.com,ACC8363613204,niharika541@pay,Mumbai,Maharashtra,Wallet,Windows Laptop,Safari,4291,47201,17,2022-04-09,1578
+USR0899,Alexander Kanda,Male,28,Designer,207454,1103828555,alexander.kanda20@gmail.com,ACC6659426982,alexander193@pay,Ahmedabad,Gujarat,Debit Card,MacBook,Chrome,545,7630,13,2020-08-16,2179
+USR0900,Chakradev Dua,Male,62,Software Engineer,160963,2867189843,chakradev.dua348@gmail.com,ACC1406795995,chakradev649@pay,Ahmedabad,Gujarat,Net Banking,Tablet,Firefox,1046,16736,14,2020-11-24,2079
+USR0901,Zilmil Yadav,Female,58,Student,70499,8827250403,zilmil.yadav301@gmail.com,ACC9023399012,zilmil608@pay,Delhi,Delhi,Credit Card,Windows Laptop,Safari,2586,28446,9,2025-03-28,494
+USR0902,Ikshita Choudhary,Male,24,Teacher,93396,3998338337,ikshita.choudhary279@gmail.com,ACC3420900257,ikshita139@pay,Hyderabad,Telangana,Wallet,Tablet,Safari,3204,41652,22,2024-09-12,691
+USR0903,Aadhya Mallick,Male,28,Student,225354,2558701329,aadhya.mallick231@gmail.com,ACC1629176876,aadhya178@pay,Mumbai,Maharashtra,Net Banking,Android,Edge,1137,6822,11,2020-11-03,2100
+USR0904,Ijaya Gaba,Female,45,Accountant,105744,5797732825,ijaya.gaba522@gmail.com,ACC4264207051,ijaya256@pay,Delhi,Delhi,Wallet,MacBook,Safari,6839,116263,22,2021-08-10,1820
+USR0905,Laksh Mand,Female,37,Designer,103092,0941367491,laksh.mand90@gmail.com,ACC4617183757,laksh988@pay,Jaipur,Rajasthan,Debit Card,Windows Laptop,Firefox,7380,132840,21,2019-03-12,2702
+USR0906,Osha Narayan,Female,62,Business,199665,2926861257,osha.narayan581@gmail.com,ACC9159416252,osha677@pay,Bangalore,Karnataka,Credit Card,iPhone,Chrome,7595,121520,21,2026-03-16,141
+USR0907,Zinal Bhat,Female,64,Lawyer,76041,9872571762,zinal.bhat583@gmail.com,ACC6115237403,zinal393@pay,Kochi,Kerala,Debit Card,Android,Firefox,4121,65936,13,2023-06-30,1131
+USR0908,Jairaj Dutt,Male,55,Business,106101,7173786261,jairaj.dutt942@gmail.com,ACC4958087064,jairaj631@pay,Bangalore,Karnataka,Credit Card,Android,Edge,5756,115120,19,2025-08-04,365
+USR0909,Wakeeta Dada,Male,62,Business,91873,2457022707,wakeeta.dada595@gmail.com,ACC4536156992,wakeeta893@pay,Chennai,Tamil Nadu,Net Banking,Tablet,Safari,4516,45160,22,2019-11-09,2460
+USR0910,Bachittar Sachdeva,Male,20,Government Employee,27559,1465977416,bachittar.sachdeva925@gmail.com,ACC4063645073,bachittar732@pay,Kochi,Kerala,Debit Card,iPhone,Chrome,3937,31496,8,2026-01-24,192
+USR0911,Ekapad Prasad,Female,58,Student,102375,5898808723,ekapad.prasad888@gmail.com,ACC7631788070,ekapad883@pay,Bangalore,Karnataka,Debit Card,Tablet,Chrome,3225,48375,12,2024-08-19,715
+USR0912,Yuvraj Varkey,Female,51,Student,194193,3318931625,yuvraj.varkey436@gmail.com,ACC3876086952,yuvraj76@pay,Kolkata,West Bengal,Debit Card,Tablet,Firefox,6471,84123,9,2023-10-31,1008
+USR0913,Zarna Khurana,Male,46,Student,92227,2692187602,zarna.khurana213@gmail.com,ACC2757721882,zarna660@pay,Kochi,Kerala,UPI,Windows Laptop,Edge,5092,81472,10,2024-02-19,897
+USR0914,Tara Kant,Female,47,Freelancer,239180,5210342079,tara.kant589@gmail.com,ACC9290458773,tara100@pay,Bangalore,Karnataka,UPI,Android,Firefox,6476,45332,12,2026-05-04,92
+USR0915,Pooja Chaudhari,Female,55,Student,220991,9821827652,pooja.chaudhari817@gmail.com,ACC1044833889,pooja663@pay,Hyderabad,Telangana,Credit Card,MacBook,Chrome,7686,92232,16,2026-04-11,115
+USR0916,Lavanya Sengupta,Male,65,Doctor,101392,4844810025,lavanya.sengupta398@gmail.com,ACC8326844674,lavanya192@pay,Chennai,Tamil Nadu,Credit Card,iPhone,Edge,3891,46692,13,2023-10-19,1020
+USR0917,Jagdish Boase,Female,30,Doctor,97314,6195727942,jagdish.boase724@gmail.com,ACC7183027712,jagdish104@pay,Delhi,Delhi,Net Banking,Windows Laptop,Edge,3357,63783,12,2021-04-30,1922
+USR0918,Samuel Patil,Male,55,Lawyer,60816,1569187751,samuel.patil592@gmail.com,ACC8310839493,samuel365@pay,Jaipur,Rajasthan,Credit Card,iPhone,Edge,6231,81003,9,2024-09-15,688
+USR0919,Simon Chopra,Male,34,Teacher,142601,9509304103,simon.chopra42@gmail.com,ACC4959613569,simon539@pay,Delhi,Delhi,Debit Card,MacBook,Firefox,4327,64905,18,2023-12-12,966
+USR0920,Advaith Kapoor,Female,60,Freelancer,28873,3372256330,advaith.kapoor728@gmail.com,ACC4869868882,advaith172@pay,Pune,Maharashtra,Net Banking,MacBook,Edge,3258,26064,12,2020-04-29,2288
+USR0921,Nisha Bava,Female,37,Doctor,142379,8208201920,nisha.bava200@gmail.com,ACC4230009441,nisha459@pay,Jaipur,Rajasthan,Wallet,MacBook,Safari,6487,110279,22,2023-01-21,1291
+USR0922,Jacob Setty,Male,34,Government Employee,177533,7300190626,jacob.setty504@gmail.com,ACC8209342438,jacob317@pay,Pune,Maharashtra,UPI,iPhone,Chrome,3948,71064,15,2019-09-06,2524
+USR0923,Aashi Goel,Female,55,Student,62998,1218509637,aashi.goel180@gmail.com,ACC9256445847,aashi917@pay,Jaipur,Rajasthan,Wallet,Tablet,Firefox,5152,46368,11,2024-03-09,878
+USR0924,Wakeeta Sha,Female,21,Software Engineer,101074,3884641167,wakeeta.sha830@gmail.com,ACC6781465992,wakeeta415@pay,Hyderabad,Telangana,Debit Card,MacBook,Chrome,5895,53055,13,2020-09-04,2160
+USR0925,Robert Saini,Male,37,Business,41069,6581909880,robert.saini251@gmail.com,ACC4684060593,robert457@pay,Hyderabad,Telangana,UPI,iPhone,Firefox,6109,97744,7,2019-11-12,2457
+USR0926,Victor Modi,Female,28,Government Employee,46191,3734689189,victor.modi573@gmail.com,ACC8244692595,victor725@pay,Ahmedabad,Gujarat,Debit Card,MacBook,Safari,7310,138890,14,2020-07-05,2221
+USR0927,Simon Khurana,Male,42,Doctor,103455,8336698837,simon.khurana419@gmail.com,ACC8616095594,simon929@pay,Hyderabad,Telangana,Credit Card,MacBook,Safari,4875,34125,18,2021-07-23,1838
+USR0928,Samesh Deep,Female,60,Freelancer,27050,7197488618,samesh.deep916@gmail.com,ACC3613583525,samesh796@pay,Mumbai,Maharashtra,Debit Card,Windows Laptop,Edge,3284,16420,19,2026-03-21,136
+USR0929,Kai Kala,Male,59,Teacher,56196,7272059069,kai.kala202@gmail.com,ACC1190043366,kai319@pay,Ahmedabad,Gujarat,Net Banking,Android,Edge,3646,36460,20,2020-12-11,2062
+USR0930,Parth Borra,Male,36,Business,121401,5838930374,parth.borra45@gmail.com,ACC9396734394,parth193@pay,Ahmedabad,Gujarat,Debit Card,MacBook,Chrome,4308,30156,18,2020-01-18,2390
+USR0931,Samuel Nagy,Male,59,Lawyer,230645,5647399836,samuel.nagy174@gmail.com,ACC2370205303,samuel598@pay,Chennai,Tamil Nadu,Wallet,MacBook,Safari,594,11880,19,2020-03-05,2343
+USR0932,Unnati Hans,Female,21,Business,131406,6873892201,unnati.hans769@gmail.com,ACC3723512559,unnati628@pay,Delhi,Delhi,Net Banking,Tablet,Edge,6897,137940,17,2026-02-27,158
+USR0933,Indrajit Solanki,Female,25,Doctor,131166,3359598804,indrajit.solanki787@gmail.com,ACC3897895650,indrajit163@pay,Jaipur,Rajasthan,UPI,Windows Laptop,Edge,2118,40242,20,2022-11-10,1363
+USR0934,Kashvi Shenoy,Male,47,Business,30444,0926857890,kashvi.shenoy898@gmail.com,ACC7397875236,kashvi385@pay,Bangalore,Karnataka,UPI,Tablet,Edge,2567,46206,17,2022-06-12,1514
+USR0935,Yachana Sastry,Female,19,Designer,90054,9606297838,yachana.sastry310@gmail.com,ACC6827778245,yachana27@pay,Hyderabad,Telangana,Net Banking,Windows Laptop,Edge,5709,34254,10,2021-11-22,1716
+USR0936,Timothy Sheth,Female,64,Student,159268,4958209479,timothy.sheth264@gmail.com,ACC1752622784,timothy557@pay,Kolkata,West Bengal,UPI,iPhone,Firefox,5684,113680,20,2019-04-02,2681
+USR0937,Isha Swamy,Female,40,Accountant,200615,4388549818,isha.swamy259@gmail.com,ACC7739096956,isha51@pay,Kochi,Kerala,UPI,Windows Laptop,Edge,813,7317,10,2022-08-25,1440
+USR0938,Praneel Solanki,Female,50,Software Engineer,108545,4944786280,praneel.solanki442@gmail.com,ACC2721163424,praneel198@pay,Delhi,Delhi,Credit Card,Android,Safari,1453,15983,15,2022-08-05,1460
+USR0939,Turvi Ray,Female,57,Designer,161336,2476831986,turvi.ray720@gmail.com,ACC4431481733,turvi393@pay,Mumbai,Maharashtra,Wallet,MacBook,Firefox,6731,121158,15,2021-09-25,1774
+USR0940,Jack Chana,Male,35,Designer,196013,4246459371,jack.chana629@gmail.com,ACC6518657187,jack15@pay,Chennai,Tamil Nadu,Net Banking,iPhone,Chrome,6906,124308,11,2026-04-25,101
+USR0941,Wazir Bhardwaj,Female,35,Accountant,177045,7886545690,wazir.bhardwaj109@gmail.com,ACC1950578005,wazir28@pay,Pune,Maharashtra,Credit Card,iPhone,Chrome,5508,77112,21,2025-08-10,359
+USR0942,Michael Nanda,Female,58,Freelancer,106180,9408028984,michael.nanda408@gmail.com,ACC3395119111,michael361@pay,Jaipur,Rajasthan,Credit Card,Windows Laptop,Edge,7238,137522,11,2024-07-14,751
+USR0943,Warinder Swaminathan,Female,65,Accountant,75217,6732589854,warinder.swaminathan724@gmail.com,ACC6970267626,warinder422@pay,Jaipur,Rajasthan,UPI,Tablet,Chrome,5672,113440,18,2020-10-27,2107
+USR0944,Jackson Parsa,Male,31,Designer,116781,3546595903,jackson.parsa308@gmail.com,ACC8519875792,jackson472@pay,Delhi,Delhi,Net Banking,Android,Firefox,5618,56180,18,2020-09-20,2144
+USR0945,Zinal Buch,Female,44,Student,216971,5829287731,zinal.buch579@gmail.com,ACC8490646376,zinal250@pay,Delhi,Delhi,Net Banking,Tablet,Firefox,3600,28800,10,2022-04-11,1576
+USR0946,Edhitha Mani,Female,31,Teacher,49001,1898950883,edhitha.mani306@gmail.com,ACC7049530959,edhitha779@pay,Kochi,Kerala,Debit Card,MacBook,Edge,3116,49856,10,2024-08-17,717
+USR0947,Zayan Sawhney,Female,50,Designer,159593,9749518629,zayan.sawhney240@gmail.com,ACC8984587234,zayan516@pay,Kolkata,West Bengal,Net Banking,Windows Laptop,Safari,1785,17850,19,2023-09-02,1067
+USR0948,Hardik Handa,Female,18,Designer,237544,3226109142,hardik.handa791@gmail.com,ACC4896741733,hardik402@pay,Pune,Maharashtra,Wallet,MacBook,Safari,3861,42471,7,2023-03-31,1222
+USR0949,Ridhi Srivastava,Male,26,Freelancer,182508,4737061922,ridhi.srivastava92@gmail.com,ACC8439518982,ridhi978@pay,Jaipur,Rajasthan,UPI,Windows Laptop,Firefox,1863,37260,9,2019-08-01,2560
+USR0950,Raagini Walla,Female,19,Freelancer,227062,3805025301,raagini.walla575@gmail.com,ACC4922193193,raagini478@pay,Kolkata,West Bengal,Credit Card,iPhone,Firefox,4368,48048,17,2024-07-26,739
+USR0951,Edhitha Sawhney,Male,36,Software Engineer,28097,7723873946,edhitha.sawhney601@gmail.com,ACC7275718549,edhitha260@pay,Mumbai,Maharashtra,Wallet,MacBook,Firefox,7027,70270,21,2021-12-13,1695
+USR0952,Lucky Nair,Male,56,Government Employee,248611,5837015954,lucky.nair260@gmail.com,ACC5133794489,lucky17@pay,Hyderabad,Telangana,UPI,MacBook,Safari,7562,128554,9,2020-11-23,2080
+USR0953,Owen Vala,Female,34,Designer,51714,1600644978,owen.vala672@gmail.com,ACC4069888953,owen459@pay,Kochi,Kerala,Net Banking,Android,Edge,7149,121533,8,2024-04-22,834
+USR0954,Vidhi Bose,Female,43,Designer,184958,2772296230,vidhi.bose448@gmail.com,ACC4381958315,vidhi116@pay,Ahmedabad,Gujarat,Debit Card,Windows Laptop,Chrome,6414,64140,18,2019-09-27,2503
+USR0955,Mekhala Rama,Female,60,Government Employee,57211,7826423957,mekhala.rama824@gmail.com,ACC3072712577,mekhala280@pay,Mumbai,Maharashtra,UPI,Windows Laptop,Chrome,4253,85060,14,2019-08-22,2539
+USR0956,Pratyush Vasa,Female,39,Business,200668,0216107021,pratyush.vasa348@gmail.com,ACC8676712652,pratyush726@pay,Ahmedabad,Gujarat,Credit Card,Tablet,Edge,5369,32214,11,2019-04-06,2677
+USR0957,Agastya Golla,Male,51,Business,26800,4320591880,agastya.golla911@gmail.com,ACC6545740371,agastya977@pay,Mumbai,Maharashtra,Debit Card,Tablet,Edge,4393,83467,16,2020-04-18,2299
+USR0958,Hardik Purohit,Male,65,Doctor,58410,2611832105,hardik.purohit309@gmail.com,ACC8984978241,hardik273@pay,Kochi,Kerala,Debit Card,Android,Firefox,5277,73878,11,2023-12-31,947
+USR0959,Kala Deol,Male,34,Government Employee,209042,4235241547,kala.deol773@gmail.com,ACC7514683531,kala498@pay,Jaipur,Rajasthan,Wallet,iPhone,Edge,5774,51966,17,2023-06-26,1135
+USR0960,William Gera,Female,42,Accountant,189968,3058359804,william.gera901@gmail.com,ACC7550842481,william189@pay,Hyderabad,Telangana,Net Banking,MacBook,Chrome,5978,41846,17,2019-03-24,2690
+USR0961,Faraj Batta,Male,37,Teacher,78801,8234091239,faraj.batta294@gmail.com,ACC6140827626,faraj520@pay,Hyderabad,Telangana,Net Banking,Tablet,Chrome,7381,88572,13,2023-12-10,968
+USR0962,Nisha Dash,Female,60,Student,124462,5994970782,nisha.dash984@gmail.com,ACC5583579348,nisha576@pay,Bangalore,Karnataka,Wallet,Tablet,Chrome,7036,42216,21,2024-07-13,752
+USR0963,Agastya Ravi,Male,33,Business,228999,9994944057,agastya.ravi716@gmail.com,ACC4683031554,agastya243@pay,Hyderabad,Telangana,Net Banking,iPhone,Chrome,5490,71370,15,2020-02-15,2362
+USR0964,Urishilla Mutti,Male,65,Teacher,212239,1280468607,urishilla.mutti937@gmail.com,ACC4878929220,urishilla545@pay,Bangalore,Karnataka,Credit Card,Android,Firefox,2364,28368,22,2025-08-03,366
+USR0965,Mitali Rau,Female,24,Designer,224842,0625141421,mitali.rau336@gmail.com,ACC1313766891,mitali499@pay,Chennai,Tamil Nadu,UPI,MacBook,Chrome,4399,48389,10,2019-05-18,2635
+USR0966,Ronith Anand,Male,56,Accountant,98632,3087192533,ronith.anand19@gmail.com,ACC7793407965,ronith891@pay,Kochi,Kerala,UPI,MacBook,Firefox,5324,101156,7,2022-06-25,1501
+USR0967,Zaitra Samra,Female,44,Freelancer,90973,0073402913,zaitra.samra656@gmail.com,ACC6053165948,zaitra529@pay,Ahmedabad,Gujarat,Net Banking,Tablet,Edge,5786,81004,15,2023-10-08,1031
+USR0968,Nachiket Pall,Male,39,Business,197692,5979489779,nachiket.pall525@gmail.com,ACC2889973756,nachiket784@pay,Jaipur,Rajasthan,Debit Card,MacBook,Chrome,3114,62280,22,2023-10-29,1010
+USR0969,Amol Venkataraman,Male,29,Software Engineer,219344,9233198030,amol.venkataraman699@gmail.com,ACC2308423044,amol957@pay,Kolkata,West Bengal,Net Banking,Windows Laptop,Firefox,2085,16680,14,2021-04-29,1923
+USR0970,Max Thaman,Male,37,Designer,100054,3150725156,max.thaman794@gmail.com,ACC7573015878,max115@pay,Pune,Maharashtra,Credit Card,Tablet,Firefox,5177,46593,17,2025-01-18,563
+USR0971,Pahal Dar,Male,30,Lawyer,225995,5933873780,pahal.dar882@gmail.com,ACC3845805571,pahal343@pay,Hyderabad,Telangana,Wallet,MacBook,Safari,6887,89531,14,2021-08-04,1826
+USR0972,Anvi Iyer,Female,48,Business,117200,9038110463,anvi.iyer323@gmail.com,ACC8495636795,anvi470@pay,Hyderabad,Telangana,Credit Card,MacBook,Safari,6747,121446,7,2023-12-03,975
+USR0973,Ekiya Barad,Female,21,Lawyer,112697,3297033776,ekiya.barad477@gmail.com,ACC8589415939,ekiya29@pay,Hyderabad,Telangana,Debit Card,iPhone,Edge,2914,46624,7,2023-06-02,1159
+USR0974,Azaan Doctor,Female,45,Lawyer,105376,3375311840,azaan.doctor583@gmail.com,ACC4174053689,azaan826@pay,Jaipur,Rajasthan,Debit Card,Tablet,Safari,7515,97695,10,2025-07-13,387
+USR0975,Idika Lad,Male,33,Doctor,105323,7922333743,idika.lad974@gmail.com,ACC8127147064,idika714@pay,Ahmedabad,Gujarat,Net Banking,iPhone,Edge,5470,92990,8,2019-08-21,2540
+USR0976,Champak Wadhwa,Male,21,Government Employee,92363,1878262022,champak.wadhwa388@gmail.com,ACC2220781469,champak493@pay,Jaipur,Rajasthan,Debit Card,Android,Edge,6850,123300,11,2021-10-08,1761
+USR0977,Priya Swamy,Male,55,Business,170493,2033041628,priya.swamy585@gmail.com,ACC5672946587,priya261@pay,Mumbai,Maharashtra,Credit Card,Tablet,Edge,5060,70840,7,2021-04-22,1930
+USR0978,Lila Chakrabarti,Male,22,Government Employee,243722,0333119661,lila.chakrabarti936@gmail.com,ACC8613701350,lila775@pay,Pune,Maharashtra,Debit Card,iPhone,Edge,4336,52032,21,2018-08-10,2916
+USR0979,Ishwar Muni,Female,39,Teacher,197646,2059131341,ishwar.muni271@gmail.com,ACC5005835472,ishwar153@pay,Delhi,Delhi,UPI,MacBook,Safari,3746,74920,8,2024-03-02,885
+USR0980,Ekta Wagle,Male,50,Government Employee,24247,1066412055,ekta.wagle457@gmail.com,ACC5276303367,ekta992@pay,Kochi,Kerala,Wallet,Windows Laptop,Safari,2815,42225,9,2019-08-13,2548
+USR0981,Anika Edwin,Male,54,Software Engineer,166352,0020348854,anika.edwin554@gmail.com,ACC4657104313,anika597@pay,Bangalore,Karnataka,Net Banking,Tablet,Firefox,6659,46613,20,2025-01-15,566
+USR0982,Samaksh Nagi,Female,47,Accountant,213707,4417838012,samaksh.nagi676@gmail.com,ACC2419183659,samaksh196@pay,Hyderabad,Telangana,Wallet,Windows Laptop,Safari,4823,86814,7,2023-10-17,1022
+USR0983,Hemangini Halder,Female,54,Business,21665,1826715001,hemangini.halder858@gmail.com,ACC2674811775,hemangini18@pay,Kochi,Kerala,Debit Card,Windows Laptop,Safari,1732,22516,14,2024-10-19,654
+USR0984,Gaurangi Krishnamurthy,Female,52,Accountant,191340,5810276166,gaurangi.krishnamurthy798@gmail.com,ACC9269343397,gaurangi924@pay,Mumbai,Maharashtra,Wallet,iPhone,Firefox,6832,61488,13,2023-12-28,950
+USR0985,Brinda Parmer,Female,29,Software Engineer,26874,0901454173,brinda.parmer626@gmail.com,ACC5592466298,brinda901@pay,Jaipur,Rajasthan,Credit Card,iPhone,Firefox,2152,30128,12,2021-06-13,1878
+USR0986,Ridhi Mahal,Female,35,Teacher,76947,5733410795,ridhi.mahal37@gmail.com,ACC2888243482,ridhi864@pay,Pune,Maharashtra,Net Banking,Android,Safari,7606,83666,19,2023-08-30,1070
+USR0987,Veer Soni,Male,46,Accountant,124642,0681461477,veer.soni220@gmail.com,ACC8606317217,veer614@pay,Mumbai,Maharashtra,UPI,Android,Firefox,4650,37200,12,2025-04-28,463
+USR0988,Neelima Saini,Male,25,Accountant,214154,8154470076,neelima.saini376@gmail.com,ACC6655954739,neelima205@pay,Kochi,Kerala,Debit Card,Android,Edge,4415,57395,10,2020-08-28,2167
+USR0989,Chaitaly Bose,Female,19,Student,119622,3172007244,chaitaly.bose419@gmail.com,ACC5724747614,chaitaly379@pay,Kolkata,West Bengal,Credit Card,Android,Safari,7445,104230,14,2019-09-02,2528
+USR0990,Adya Varghese,Male,59,Lawyer,249622,9262355645,adya.varghese26@gmail.com,ACC2388438102,adya154@pay,Ahmedabad,Gujarat,Debit Card,iPhone,Chrome,1548,13932,11,2019-09-29,2501
+USR0991,Shivani Rana,Female,20,Student,176291,5194822494,shivani.rana897@gmail.com,ACC6553755986,shivani642@pay,Mumbai,Maharashtra,Net Banking,iPhone,Safari,1912,19120,11,2024-11-30,612
+USR0992,Chanchal Prabhu,Male,41,Software Engineer,226191,9220384567,chanchal.prabhu40@gmail.com,ACC3136984143,chanchal323@pay,Hyderabad,Telangana,Net Banking,Windows Laptop,Edge,5594,83910,7,2025-10-22,286
+USR0993,Turvi Naidu,Male,39,Student,143339,3868199050,turvi.naidu762@gmail.com,ACC4745332581,turvi945@pay,Chennai,Tamil Nadu,Net Banking,Android,Safari,6746,67460,12,2019-05-24,2629
+USR0994,Ati Shetty,Male,18,Government Employee,78379,7130960743,ati.shetty439@gmail.com,ACC5244250209,ati125@pay,Bangalore,Karnataka,Net Banking,MacBook,Safari,7513,142747,11,2019-08-30,2531
+USR0995,Janani Ahuja,Male,37,Accountant,143073,0117140616,janani.ahuja141@gmail.com,ACC7614189891,janani989@pay,Delhi,Delhi,Wallet,Android,Safari,4537,49907,11,2018-12-19,2785
+USR0996,Tarak Vig,Male,50,Doctor,231143,7973883411,tarak.vig240@gmail.com,ACC3831285092,tarak771@pay,Hyderabad,Telangana,UPI,MacBook,Edge,7765,62120,14,2025-05-03,458
+USR0997,Tanvi Mahal,Male,34,Doctor,211373,2226646807,tanvi.mahal346@gmail.com,ACC4863461116,tanvi345@pay,Delhi,Delhi,Net Banking,Windows Laptop,Firefox,5246,31476,19,2021-05-23,1899
+USR0998,William Sood,Male,30,Doctor,23754,3112311821,william.sood659@gmail.com,ACC4413520679,william175@pay,Hyderabad,Telangana,Net Banking,Windows Laptop,Chrome,5186,103720,22,2019-02-05,2737
+USR0999,Harita Kota,Female,30,Freelancer,126340,3211612926,harita.kota229@gmail.com,ACC2889197205,harita772@pay,Ahmedabad,Gujarat,Credit Card,Tablet,Edge,3262,32620,15,2021-01-12,2030
+USR1000,Gopal Choudhary,Female,49,Designer,139620,8068555716,gopal.choudhary694@gmail.com,ACC8972380077,gopal791@pay,Bangalore,Karnataka,Wallet,Windows Laptop,Chrome,6905,110480,20,2025-02-04,546

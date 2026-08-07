@@ -1,0 +1,101 @@
+Merchant_ID,Merchant_Name,Merchant_Category,Business_Type,Merchant_City,Merchant_State,Merchant_Risk_Level,Merchant_Rating,Merchant_Age_Years,Daily_Transaction_Volume,Average_Transaction_Value,Supports_UPI,Supports_Debit_Card,Supports_Credit_Card,Supports_Net_Banking,Supports_Wallet,Merchant_Status
+MER0001,MutualFund SIP,Finance,Financial Services,Chennai,Tamil Nadu,Medium,3.8,24,7217,4212,Yes,Yes,Yes,Yes,Yes,Active
+MER0002,SecureInvest,Finance,Financial Services,Bangalore,Karnataka,Low,3.5,7,15747,720,Yes,Yes,Yes,Yes,Yes,Active
+MER0003,FuelPoint,Fuel,Fuel Station,Chennai,Tamil Nadu,Low,4.5,18,27993,11931,Yes,Yes,Yes,Yes,Yes,Active
+MER0004,TravelHub,Travel,Travel Booking,Kochi,Kerala,Low,4.6,6,46253,306,Yes,Yes,Yes,Yes,Yes,Active
+MER0005,Vi,Telecom,Telecommunication,Delhi,Delhi,Low,3.7,13,6838,5714,Yes,Yes,Yes,Yes,Yes,Active
+MER0006,WaterBoard,Utility Bills,Utility,Kochi,Kerala,Low,4.6,18,8680,911,Yes,Yes,Yes,Yes,Yes,Active
+MER0007,Airtel,Telecom,Telecommunication,Jaipur,Rajasthan,Low,4.4,12,38337,10499,Yes,Yes,Yes,Yes,Yes,Active
+MER0008,TripSmart,Travel,Travel Booking,Bangalore,Karnataka,Low,4.7,3,15756,3933,Yes,Yes,Yes,Yes,Yes,Active
+MER0009,FoodDash,Food Delivery,Food Service,Delhi,Delhi,Low,3.7,12,14230,6177,Yes,Yes,Yes,Yes,Yes,Active
+MER0010,FinanceHub,Finance,Financial Services,Bangalore,Karnataka,Low,4.3,8,11208,3003,Yes,Yes,Yes,Yes,Yes,Active
+MER0011,PrimeVideo,Entertainment,Subscription,Delhi,Delhi,High,4.5,8,45366,10685,Yes,Yes,Yes,Yes,Yes,Active
+MER0012,TNEB,Utility Bills,Utility,Mumbai,Maharashtra,Medium,4.1,3,14326,5368,Yes,Yes,Yes,Yes,Yes,Active
+MER0013,ICICI Lombard,Insurance,Insurance,Mumbai,Maharashtra,Low,4.8,21,30571,6682,Yes,Yes,Yes,Yes,Yes,Active
+MER0014,MedLife,Healthcare,Hospital,Hyderabad,Telangana,Low,4.3,24,38811,9397,Yes,Yes,Yes,Yes,Yes,Active
+MER0015,TeleConnect,Telecom,Telecommunication,Kolkata,West Bengal,Low,4.3,3,3587,2466,Yes,Yes,Yes,Yes,Yes,Active
+MER0016,FoodExpress,Food Delivery,Food Service,Hyderabad,Telangana,Medium,4.4,13,25509,7116,Yes,Yes,Yes,Yes,Yes,Active
+MER0017,SafeLife,Insurance,Insurance,Jaipur,Rajasthan,Low,4.8,1,45083,9264,Yes,Yes,Yes,Yes,Yes,Active
+MER0018,BigBasket,Grocery,Retail Grocery,Jaipur,Rajasthan,Medium,4.0,10,28992,10701,Yes,Yes,Yes,Yes,Yes,Active
+MER0019,CityCare Hospital,Healthcare,Hospital,Chennai,Tamil Nadu,High,3.9,17,12208,11991,Yes,Yes,Yes,Yes,Yes,Active
+MER0020,Indian Oil,Fuel,Fuel Station,Delhi,Delhi,Medium,4.4,5,25004,8517,Yes,Yes,Yes,Yes,Yes,Active
+MER0021,HealthPlus,Healthcare,Hospital,Jaipur,Rajasthan,High,4.0,1,7831,10013,Yes,Yes,Yes,Yes,Yes,Active
+MER0022,WaterBoard 22,Utility Bills,Utility,Mumbai,Maharashtra,Low,4.9,3,48466,9495,Yes,Yes,Yes,Yes,Yes,Active
+MER0023,Netflix,Entertainment,Subscription,Jaipur,Rajasthan,Medium,4.5,18,11321,2303,Yes,Yes,Yes,Yes,Yes,Active
+MER0024,CoursePoint,Education,Education,Kochi,Kerala,Low,4.9,25,48336,3670,Yes,Yes,Yes,Yes,Yes,Active
+MER0025,Blinkit,Grocery,Retail Grocery,Delhi,Delhi,Low,4.5,15,34419,11204,Yes,Yes,Yes,Yes,Yes,Active
+MER0026,Netflix 26,Entertainment,Subscription,Mumbai,Maharashtra,Low,3.5,18,15580,5739,Yes,Yes,Yes,Yes,Yes,Active
+MER0027,HDFC Ergo,Insurance,Insurance,Chennai,Tamil Nadu,Low,3.6,3,2558,10539,Yes,Yes,Yes,Yes,Yes,Active
+MER0028,TNEB 28,Utility Bills,Utility,Jaipur,Rajasthan,Low,4.2,18,9171,11160,Yes,Yes,Yes,Yes,Yes,Active
+MER0029,GreenGrocer,Grocery,Retail Grocery,Kochi,Kerala,Low,4.7,7,6681,7949,Yes,Yes,Yes,Yes,Yes,Active
+MER0030,FoodDash 30,Food Delivery,Food Service,Pune,Maharashtra,Low,4.8,2,44629,7851,Yes,Yes,Yes,Yes,Yes,Active
+MER0031,MutualFund SIP 31,Finance,Financial Services,Chennai,Tamil Nadu,Low,4.7,4,16795,5759,Yes,Yes,Yes,Yes,Yes,Active
+MER0032,MakeMyTrip,Travel,Travel Booking,Jaipur,Rajasthan,Low,3.8,15,16871,7112,Yes,Yes,Yes,Yes,Yes,Active
+MER0033,HungryNow,Food Delivery,Food Service,Jaipur,Rajasthan,Low,5.0,1,6612,10884,Yes,Yes,Yes,Yes,Yes,Active
+MER0034,MakeMyTrip 34,Travel,Travel Booking,Kolkata,West Bengal,Low,4.8,2,11289,3702,Yes,Yes,Yes,Yes,Yes,Active
+MER0035,Airtel 35,Telecom,Telecommunication,Kolkata,West Bengal,Low,3.9,23,48374,7654,Yes,Yes,Yes,Yes,Yes,Active
+MER0036,MetroFuel,Fuel,Fuel Station,Hyderabad,Telangana,Low,5.0,19,48717,3766,Yes,Yes,Yes,Yes,Yes,Active
+MER0037,Indian Oil 37,Fuel,Fuel Station,Pune,Maharashtra,Low,4.2,17,10817,9771,Yes,Yes,Yes,Yes,Yes,Active
+MER0038,Flipkart,E-Commerce,Marketplace,Hyderabad,Telangana,Low,4.5,8,26961,1313,Yes,Yes,Yes,Yes,Yes,Active
+MER0039,QuickBite,Food Delivery,Food Service,Kochi,Kerala,Low,3.6,22,38751,10347,Yes,Yes,Yes,Yes,Yes,Active
+MER0040,InsurePlus,Insurance,Insurance,Pune,Maharashtra,High,4.5,11,16142,3546,Yes,Yes,Yes,Yes,Yes,Active
+MER0041,CollegeFee Portal,Education,Education,Hyderabad,Telangana,Low,4.2,25,5254,5115,Yes,Yes,Yes,Yes,Yes,Active
+MER0042,BuyZone,E-Commerce,Marketplace,Kochi,Kerala,High,3.6,7,33653,1838,Yes,Yes,Yes,Yes,Yes,Active
+MER0043,SkillVerse,Education,Education,Pune,Maharashtra,Medium,4.1,6,29216,4202,Yes,Yes,Yes,Yes,Yes,Active
+MER0044,BPCL,Fuel,Fuel Station,Kochi,Kerala,High,4.3,22,36846,10914,Yes,Yes,Yes,Yes,Yes,Active
+MER0045,EduSmart,Education,Education,Hyderabad,Telangana,Low,4.6,5,18348,1953,Yes,Yes,Yes,Yes,Yes,Active
+MER0046,CoursePoint 46,Education,Education,Mumbai,Maharashtra,Medium,4.5,9,33622,3535,Yes,Yes,Yes,Yes,Yes,Active
+MER0047,SonyLIV,Entertainment,Subscription,Chennai,Tamil Nadu,Low,4.7,2,732,7139,Yes,Yes,Yes,Yes,Yes,Active
+MER0048,BESCOM,Utility Bills,Utility,Delhi,Delhi,Low,4.3,14,37259,7439,Yes,Yes,Yes,Yes,Yes,Active
+MER0049,Flipkart 49,E-Commerce,Marketplace,Bangalore,Karnataka,High,4.9,18,2861,11521,Yes,Yes,Yes,Yes,Yes,Active
+MER0050,PowerGrid,Utility Bills,Utility,Jaipur,Rajasthan,Low,3.6,12,3114,2288,Yes,Yes,Yes,Yes,Yes,Active
+MER0051,BESCOM 51,Utility Bills,Utility,Mumbai,Maharashtra,Low,4.7,14,41175,5994,Yes,Yes,Yes,Yes,Yes,Active
+MER0052,Blinkit 52,Grocery,Retail Grocery,Mumbai,Maharashtra,Medium,4.8,1,12254,3100,Yes,Yes,Yes,Yes,Yes,Active
+MER0053,FreshBasket,Grocery,Retail Grocery,Kolkata,West Bengal,Medium,3.9,23,7584,4265,Yes,Yes,Yes,Yes,Yes,Active
+MER0054,Airtel 54,Telecom,Telecommunication,Ahmedabad,Gujarat,Low,4.0,8,15109,7741,Yes,Yes,Yes,Yes,Yes,Active
+MER0055,QuickMart,E-Commerce,Marketplace,Kolkata,West Bengal,Low,5.0,9,23512,1337,Yes,Yes,Yes,Yes,Yes,Active
+MER0056,SecureInvest 56,Finance,Financial Services,Kolkata,West Bengal,Low,4.0,1,8059,8985,Yes,Yes,Yes,Yes,Yes,Active
+MER0057,SkillVerse 57,Education,Education,Kochi,Kerala,High,3.6,20,28979,4549,Yes,Yes,Yes,Yes,Yes,Active
+MER0058,QuickBills,Utility Bills,Utility,Pune,Maharashtra,Low,3.7,19,12957,8579,Yes,Yes,Yes,Yes,Yes,Active
+MER0059,EduSmart 59,Education,Education,Kolkata,West Bengal,Low,4.5,24,48802,9021,Yes,Yes,Yes,Yes,Yes,Active
+MER0060,Loan EMI,Finance,Financial Services,Pune,Maharashtra,Low,4.9,20,21072,11082,Yes,Yes,Yes,Yes,Yes,Active
+MER0061,MutualFund SIP 61,Finance,Financial Services,Delhi,Delhi,Low,4.1,13,46192,11126,Yes,Yes,Yes,Yes,Yes,Active
+MER0062,CoursePoint 62,Education,Education,Hyderabad,Telangana,Low,4.9,22,49529,11094,Yes,Yes,Yes,Yes,Yes,Active
+MER0063,HealthPlus 63,Healthcare,Hospital,Kochi,Kerala,Low,4.8,10,19303,9177,Yes,Yes,Yes,Yes,Yes,Active
+MER0064,TravelHub 64,Travel,Travel Booking,Kochi,Kerala,Low,4.2,15,44777,5479,Yes,Yes,Yes,Yes,Yes,Active
+MER0065,FlyEasy,Travel,Travel Booking,Ahmedabad,Gujarat,Medium,4.5,10,34280,2980,Yes,Yes,Yes,Yes,Yes,Active
+MER0066,SecureInvest 66,Finance,Financial Services,Pune,Maharashtra,Low,4.5,8,13550,4048,Yes,Yes,Yes,Yes,Yes,Active
+MER0067,Apollo Hospital,Healthcare,Hospital,Chennai,Tamil Nadu,Low,4.4,25,5272,7984,Yes,Yes,Yes,Yes,Yes,Active
+MER0068,PrimeVideo 68,Entertainment,Subscription,Kochi,Kerala,Low,4.1,13,16489,11609,Yes,Yes,Yes,Yes,Yes,Active
+MER0069,CareFirst,Healthcare,Hospital,Chennai,Tamil Nadu,Medium,4.7,8,12026,1946,Yes,Yes,Yes,Yes,Yes,Active
+MER0070,GreenGrocer 70,Grocery,Retail Grocery,Ahmedabad,Gujarat,Low,4.9,4,30414,4282,Yes,Yes,Yes,Yes,Yes,Active
+MER0071,MediPoint,Healthcare,Hospital,Ahmedabad,Gujarat,Low,4.4,25,29504,9357,Yes,Yes,Yes,Yes,Yes,Active
+MER0072,InsurePlus 72,Insurance,Insurance,Kolkata,West Bengal,Medium,4.2,6,49236,9176,Yes,Yes,Yes,Yes,Yes,Active
+MER0073,PrimeVideo 73,Entertainment,Subscription,Delhi,Delhi,Medium,3.9,25,34663,10647,Yes,Yes,Yes,Yes,Yes,Active
+MER0074,StreamNow,Entertainment,Subscription,Mumbai,Maharashtra,Low,4.6,8,18307,1469,Yes,Yes,Yes,Yes,Yes,Active
+MER0075,WaterBoard 75,Utility Bills,Utility,Jaipur,Rajasthan,Low,3.8,23,10514,2671,Yes,Yes,Yes,Yes,Yes,Active
+MER0076,Blinkit 76,Grocery,Retail Grocery,Bangalore,Karnataka,Low,4.3,14,4580,5621,Yes,Yes,Yes,Yes,Yes,Active
+MER0077,TravelHub 77,Travel,Travel Booking,Kolkata,West Bengal,High,4.9,1,38228,9769,Yes,Yes,Yes,Yes,Yes,Active
+MER0078,BSNL,Telecom,Telecommunication,Chennai,Tamil Nadu,High,4.6,14,35772,5092,Yes,Yes,Yes,Yes,Yes,Active
+MER0079,EasyFresh,Grocery,Retail Grocery,Jaipur,Rajasthan,Medium,4.2,9,29062,3813,Yes,Yes,Yes,Yes,Yes,Active
+MER0080,Netflix 80,Entertainment,Subscription,Kolkata,West Bengal,Low,4.7,24,11316,11327,Yes,Yes,Yes,Yes,Yes,Active
+MER0081,Hotstar,Entertainment,Subscription,Kochi,Kerala,Low,4.4,22,2276,6655,Yes,Yes,Yes,Yes,Yes,Active
+MER0082,FoodDash 82,Food Delivery,Food Service,Hyderabad,Telangana,Medium,3.6,13,21953,3177,Yes,Yes,Yes,Yes,Yes,Active
+MER0083,TravelHub 83,Travel,Travel Booking,Pune,Maharashtra,Low,3.9,14,17032,6411,Yes,Yes,Yes,Yes,Yes,Active
+MER0084,HungryNow 84,Food Delivery,Food Service,Chennai,Tamil Nadu,Medium,5.0,12,15194,1053,Yes,Yes,Yes,Yes,Yes,Active
+MER0085,MutualFund SIP 85,Finance,Financial Services,Chennai,Tamil Nadu,Medium,3.8,1,41219,4251,Yes,Yes,Yes,Yes,Yes,Active
+MER0086,Fortis,Healthcare,Hospital,Hyderabad,Telangana,Low,4.3,7,30976,2074,Yes,Yes,Yes,Yes,Yes,Active
+MER0087,FreshBasket 87,Grocery,Retail Grocery,Pune,Maharashtra,Low,4.9,23,8006,10149,Yes,Yes,Yes,Yes,Yes,Active
+MER0088,MedLife 88,Healthcare,Hospital,Bangalore,Karnataka,Low,4.4,13,26495,5311,Yes,Yes,Yes,Yes,Yes,Active
+MER0089,Blinkit 89,Grocery,Retail Grocery,Bangalore,Karnataka,Low,3.9,23,20264,10476,Yes,Yes,Yes,Yes,Yes,Active
+MER0090,SecureInvest 90,Finance,Financial Services,Bangalore,Karnataka,Medium,4.7,12,35413,9472,Yes,Yes,Yes,Yes,Yes,Active
+MER0091,MobileHub,Telecom,Telecommunication,Pune,Maharashtra,Low,4.0,14,32625,10809,Yes,Yes,Yes,Yes,Yes,Active
+MER0092,FoodDash 92,Food Delivery,Food Service,Pune,Maharashtra,Low,4.6,14,12043,7732,Yes,Yes,Yes,Yes,Yes,Active
+MER0093,GreenGrocer 93,Grocery,Retail Grocery,Delhi,Delhi,Low,4.7,15,29045,9017,Yes,Yes,Yes,Yes,Yes,Active
+MER0094,GreenGrocer 94,Grocery,Retail Grocery,Delhi,Delhi,Low,4.7,3,18779,4222,Yes,Yes,Yes,Yes,Yes,Active
+MER0095,Hotstar 95,Entertainment,Subscription,Ahmedabad,Gujarat,Low,4.1,1,32894,11147,Yes,Yes,Yes,Yes,Yes,Active
+MER0096,BESCOM 96,Utility Bills,Utility,Ahmedabad,Gujarat,Low,4.0,20,46452,4432,Yes,Yes,Yes,Yes,Yes,Active
+MER0097,CoursePoint 97,Education,Education,Chennai,Tamil Nadu,Low,3.6,24,27135,3330,Yes,Yes,Yes,Yes,Yes,Active
+MER0098,MovieHub,Entertainment,Subscription,Mumbai,Maharashtra,Low,4.6,15,1630,10782,Yes,Yes,Yes,Yes,Yes,Active
+MER0099,MealBox,Food Delivery,Food Service,Mumbai,Maharashtra,Low,4.0,19,24684,4186,Yes,Yes,Yes,Yes,Yes,Active
+MER0100,MovieHub 100,Entertainment,Subscription,Jaipur,Rajasthan,Low,4.0,23,30236,9217,Yes,Yes,Yes,Yes,Yes,Active
