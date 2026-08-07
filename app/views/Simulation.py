@@ -290,7 +290,6 @@ with st.form("prediction_form"):
 
     predict_button = st.form_submit_button(
         "🚀 Predict Fraud",
-        width="stretch",
     )
 # ============================================================
 # PART 3

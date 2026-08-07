@@ -11,6 +11,37 @@ import streamlit as st
 def apply_theme():
     st.markdown("""
 <style>
+/* ---------- STREAMLIT CLOUD FIX ---------- */
+
+[data-testid="stAppViewContainer"]{
+    background:#0B1120;
+}
+
+[data-testid="stHeader"]{
+    background:#0B1120;
+}
+
+[data-testid="stToolbar"]{
+    background:#0B1120;
+}
+
+section[data-testid="stSidebar"]{
+    background:#111827;
+}
+
+
+/* Fix dataframe background */
+
+[data-testid="stDataFrame"]{
+    background:#111827;
+}
+
+
+/* Fix charts container */
+
+.element-container{
+    background:transparent;
+}
 
 /* ---------- GLOBAL ---------- */
 
